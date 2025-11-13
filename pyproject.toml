@@ -1,0 +1,9 @@
+[project]
+name = "ccn-docs"
+version = "0.1.0"
+description = "Processes and policies for the Conference on Cognitive Computational Neuroscience."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "zensical>=0.0.7",
+]
