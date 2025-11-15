@@ -44,10 +44,22 @@ Copyright &copy; 2026 CCN
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  { "Get started" = "index.md" },
+  { "2025" = [
+    { "Proceedings" = [
+      { "Submission FAQs" = "2025/Proceedings/Submission FAQs.md" },
+      { "Reviewer guidelines" = "2025/Proceedings/Reviewer guidelines.md" },
+      { "Author response guidelines" = "2025/Proceedings/Author response guidelines.md" },
+      { "Area chair (AC) guidelines" = "2025/Proceedings/Area chair (AC) guidelines.md" },
+      { "Senior area chair (SAC) guidelines" = "2025/Proceedings/Senior area chair (SAC) guidelines.md" },
+    ]},
+    { "Extended Abstracts" = [
+      { "Submission guidelines" = "2025/Extended Abstracts/Submission guidelines.md" },
+      { "Reviewer guidelines" = "2025/Extended Abstracts/Reviewer guidelines.md" },
+    ]},
+  ]},
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of

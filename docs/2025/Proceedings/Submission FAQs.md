@@ -44,6 +44,8 @@ track?](#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-confer
 [Where can I find more information on the review
 process?](#where-can-i-find-more-information-on-the-review-process?)
 
+## Frequently Asked Questions
+
 ### **I can no longer attend CCN 2025. Can my co-author present my poster?** {#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-poster?}
 
 Please reach out to the Technical Programme Committee
@@ -104,8 +106,6 @@ have a similar-length title-author block (modulo a single- or double-line title)
 **Anonymous Authors**\
 Double blind review
 
-### 
-
 ### **Can we have shared first or last authorship?** {#can-we-have-shared-first-or-last-authorship?}
 
 Yes. You still must choose a fixed ordering of authors in the submission form.
@@ -122,8 +122,6 @@ Please omit this from the anonymized submission to be reviewed.
 If acknowledgements are inadvertently included in the anonymized submission, we may have
 to desk reject it for failure to meet the double-blind reviewing requirements of CCN
 2025\.
-
-### 
 
 ### **Can I include supplementary material?** {#can-i-include-supplementary-material?}
 
@@ -164,7 +162,7 @@ The APA standard is OK, for example.
 Papers to both tracks must be submitted fully anonymized.
 Authors may disseminate their work publicly under their names (e.g., on a preprint
 server), but are asked to refrain from publicizing (*e.g.*, on social media) work under
-review at CCN until CCN decisions are released for all tracks (May 20th, 2025\) to
+review at CCN until CCN decisions are released for all tracks (May 20th, 2025) to
 prevent accidental de-anonymization during the review process.
 
 ### **Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Proceedings track?** {#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-proceedings-track?}
@@ -179,16 +177,10 @@ this decision.
 ### **Where can I find more information on the review process?** {#where-can-i-find-more-information-on-the-review-process?}
 
 *For authors:*\
-[\[CCN 2025 Proceedings\] Submission
-FAQs](https://docs.google.com/document/d/1qqRfcXqfjyMiwFBhXHya_JwAWe3nqUbkYxOfsmDmC78/edit?usp=drive_link)
-(**This document\!**)\
-[\[CCN 2025 Proceedings\] Author response
-guidelines](https://docs.google.com/document/d/1NtXVRjlfb0z-hP3qLkCfsIk0oM02cjr187Py4LsueHQ/edit?usp=drive_link)
+[Submission FAQs](Submission%20FAQs.md) (**This document!**)\
+[Author response guidelines](Author%20response%20guidelines.md)
 
 *For reviewers and (senior) area chairs:*\
-[\[CCN 2025 Proceedings\] Reviewer
-guidelines](https://docs.google.com/document/d/1ljpItfEN7mkP-iK_rmQjCUkwWwm6r8HtPHmLkC5P66A/edit?usp=sharing)\
-[\[CCN 2025 Proceedings\] Area chair (AC)
-guidelines](https://docs.google.com/document/d/1Hs5nu9CYQKlNwkhlEZvSvqEs5Td5T4IZDlx-1MvupEw/edit?usp=sharing)\
-[\[CCN 2025 Proceedings\] Senior area chair (SAC)
-guidelines](https://docs.google.com/document/d/1Zfn3mG-K9msoojyHYbae5Lt9HglVvgnbVUeZXSrgPCs/edit?usp=sharing)
+[Reviewer guidelines](Reviewer%20guidelines.md)\
+[Area chair (AC) guidelines](Area%20chair%20(AC)%20guidelines.md)\
+[Senior area chair (SAC) guidelines](Senior%20area%20chair%20(SAC)%20guidelines.md)

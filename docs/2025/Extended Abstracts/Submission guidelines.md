@@ -1,6 +1,4 @@
-- # CCN 2025 Extended Abstracts Track
-
-- ## Frequently Asked Questions
+# Submission Guidelines
 
 [I can no longer attend CCN 2025. Can my co-author present my
 poster?](#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-poster?)
@@ -56,6 +54,8 @@ submission?](#can-i-make-an-extended-abstract-submission-if-i-have-already-made-
 [I was told that my submission has formatting issues and won’t be reviewed.
 Can I revise them and still enter review for a Contributed
 Talk?](#i-was-told-that-my-submission-has-formatting-issues-and-won't-be-reviewed.-can-i-revise-them-and-still-enter-review-for-a-contributed-talk?)
+
+## Frequently Asked Questions
 
 ### **I can no longer attend CCN 2025. Can my co-author present my poster?** {#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-poster?}
 
@@ -123,8 +123,6 @@ Yes. You still must choose a fixed ordering of authors in the submission form.
 - These are not necessary.
   We match reviewers and categorize submissions according to your full-text abstract.
 
-### 
-
 ### **Can I include acknowledgements?** {#can-i-include-acknowledgements?}
 
 - In the post-decision, “camera-ready” version, yes.
@@ -132,8 +130,6 @@ Yes. You still must choose a fixed ordering of authors in the submission form.
   If acknowledgements are inadvertently included in the anonymized submission, we may
   have to desk-reject it for failure to meet the double-blind reviewing requirements of
   CCN 2025.
-
-### 
 
 ### **Can I include supplementary material?** {#can-i-include-supplementary-material?}
 
@@ -170,7 +166,7 @@ The APA standard is OK, for example.
 - Papers to both tracks must be submitted fully anonymized.
   Authors may disseminate their work publicly under their names (e.g., on a preprint
   server), but are asked to refrain from publicizing (*e.g.*, on social media) work
-  under review at CCN until CCN decisions are released for all tracks (May 20th, 2025\)
+  under review at CCN until CCN decisions are released for all tracks (May 20th, 2025)
   to prevent accidental de-anonymization during the review process.
 
 ### **Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Extended Abstracts track?** {#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-extended-abstracts-track?}
@@ -186,7 +182,7 @@ The APA standard is OK, for example.
 There is no need to submit a 2-page version of your Proceedings submission to the
 Extended Abstracts track.
 Authors of Proceedings submissions that are not accepted will be invited to convert
-their Proceedings submission to a Extended Abstract (“2-pager”) submission.
+their Proceedings submission to an Extended Abstract ("2-pager") submission.
 Instructions for this will be provided at a later stage.
 
 ### **Can I make multiple Extended Abstract submissions?** {#can-i-make-multiple-extended-abstract-submissions?}
@@ -205,20 +201,18 @@ But see “I can no longer attend CCN 2025. Can my co-author present my poster?�
 Yes.
 Since CCN 2025 has two tracks with separate timelines, we allow Presenters to submit
 a contribution to each track.
-If both contributions are accepted for presentation at CCN 2025 (\*), the Presenter will
+If both contributions are accepted for presentation at CCN 2025 (*), the Presenter will
 be asked to select one of their contributions for presentation and withdraw the other.
 This selection must be made between May 20th and June 12th, after decisions are
 announced for all tracks.
 
-(\*) This can occur if a Presenter has both a Proceedings paper and an Extended Abstract
+(*) This can occur if a Presenter has both a Proceedings paper and an Extended Abstract
 accepted, or a Presenter’s Proceedings paper is invited to the Extended Abstract track
 after they have submitted a contribution directly to the Extended Abstracts track.
 However, as noted above, we do not allow multiple submissions from a single Presenter to
 the Extended Abstracts track.
 
 But see “I can no longer attend CCN 2025. Can my co-author present my poster?”
-
-### 
 
 ### **Will my extended abstract be copyrighted?** {#will-my-extended-abstract-be-copyrighted?}
 
