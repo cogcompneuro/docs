@@ -4,7 +4,7 @@ repos:
       - id: flowmark
         name: flowmark
         language: system
-        entry: uvx flowmark
+        entry: uvx flowmark --auto
         types: [markdown]
         files: \.md$
 
