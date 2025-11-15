@@ -105,7 +105,7 @@ nav = [
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-#favicon = "assets/images/favicon.png"
+favicon = "assets/images/favicon.png"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -309,8 +309,39 @@ toggle.name = "Switch to light mode"
 #repo = "lucide/smile"
 
 # ----------------------------------------------------------------------------
+# Markdown extensions configuration
+# ----------------------------------------------------------------------------
+
+# Enable abbreviations for tooltip definitions
+[project.markdown_extensions.abbr]
+
+# Enable snippets to auto-append abbreviation definitions
+[project.markdown_extensions.pymdownx.snippets]
+auto_append = [".snippets/proceedings-deadlines.md"]
+base_path = ["docs"]
+
+# ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
+
+# Proceedings track deadlines
+[project.extra.proceedings]
+abstract_deadline = "Feb 17th, 2025"
+submission_deadline = "Feb 20th, 2025"
+reviews_due = "March 31st, 2025"
+reviews_released = "April 3rd, 2025"
+author_response_due = "April 14th, 2025"
+discussion_period = "April 15th - April 21st, 2025"
+meta_review_due = "May 5th, 2025"
+proceedings_decisions = "May 13th, 2025"
+all_decisions = "May 20th, 2025"
+
+# Extended Abstracts track deadlines
+[project.extra.extended_abstracts]
+submission_deadline = "April 11th, 2025"
+review_period = "April 14th - April 18th, 2025"
+all_decisions = "May 20th, 2025"
+
 #[[project.extra.social]]
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
