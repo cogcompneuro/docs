@@ -6,7 +6,6 @@ repos:
         language: system
         entry: uvx flowmark --auto
         types: [markdown]
-        files: \.md$
 
   - repo: https://github.com/jackdewinter/pymarkdown
     rev: v0.9.33
