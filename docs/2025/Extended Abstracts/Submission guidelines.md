@@ -2,18 +2,18 @@
 
 <!-- Deadline variables -->
 
-[submissions-open]: # "Mar 13, 2025"
-[submission-deadline]: # "Apr 13, 2025"
-[reviewer-registration]: # "Apr 14 - Apr 17, 2025"
-[desk-rejection-review-period]: # "Apr 11 - Apr 14, 2025"
-[poster-acceptances]: # "Apr 18, 2025"
-[review-period]: # "Apr 18 - May 18, 2025"
-[reviews-due]: # "May 18, 2025"
-[emergency-reviews]: # "May 19 - [all-decisions]"
-[wrap-up-period]: # "May 23 - Jun 12, 2025"
-[all-decisions]: # "[all-decisions]"
-[presenter-selection-period]: # "[all-decisions] - Jun 12, 2025"
-[talk-selections]: # "Jun 13, 2025"
+[submissions-open]: <> "Mar 13, 2025"
+[submission-deadline]: <> "Apr 13, 2025"
+[reviewer-registration]: <> "Apr 14 - Apr 17, 2025"
+[desk-rejection-review-period]: <> "Apr 11 - Apr 14, 2025"
+[poster-acceptances]: <> "Apr 18, 2025"
+[review-period]: <> "Apr 18 - May 18, 2025"
+[reviews-due]: <> "May 18, 2025"
+[emergency-reviews]: <> "May 19 - [all-decisions]"
+[wrap-up-period]: <> "May 23 - Jun 12, 2025"
+[all-decisions]: <> "[all-decisions]"
+[presenter-selection-period]: <> "[all-decisions] - Jun 12, 2025"
+[talk-selections]: <> "Jun 13, 2025"
 
 ## Frequently Asked Questions
 

@@ -2,22 +2,22 @@
 
 <!-- Deadline variables -->
 
-[abstract-deadline]: # "Feb 17, 2025"
-[submission-deadline]: # "Feb 20, 2025"
-[review-period]: # "Mar 4 - Mar 31, 2025"
-[reviews-due]: # "Mar 31, 2025"
-[reviews-released]: # "Apr 3, 2025"
-[author-response-period]: # "Apr 3 - Apr 14, 2025"
-[author-response-due]: # "Apr 14, 2025"
-[discussion-period]: # "Apr 15 - Apr 21, 2025"
-[poster-acceptances]: # "Apr 18, 2025"
-[meta-review-period]: # "Apr 22 - May 5, 2025"
-[meta-review-due]: # "May 5, 2025"
-[final-decisions-period]: # "May 6 - May 12, 2025"
-[proceedings-decisions]: # "May 13, 2025"
-[all-decisions]: # "May 22, 2025"
-[presenter-selection-period]: # "May 22 - Jun 12, 2025"
-[talk-selections]: # "Jun 13, 2025"
+[abstract-deadline]: <> "Feb 17, 2025"
+[submission-deadline]: <> "Feb 20, 2025"
+[review-period]: <> "Mar 4 - Mar 31, 2025"
+[reviews-due]: <> "Mar 31, 2025"
+[reviews-released]: <> "Apr 3, 2025"
+[author-response-period]: <> "Apr 3 - Apr 14, 2025"
+[author-response-due]: <> "Apr 14, 2025"
+[discussion-period]: <> "Apr 15 - Apr 21, 2025"
+[poster-acceptances]: <> "Apr 18, 2025"
+[meta-review-period]: <> "Apr 22 - May 5, 2025"
+[meta-review-due]: <> "May 5, 2025"
+[final-decisions-period]: <> "May 6 - May 12, 2025"
+[proceedings-decisions]: <> "May 13, 2025"
+[all-decisions]: <> "May 22, 2025"
+[presenter-selection-period]: <> "May 22 - Jun 12, 2025"
+[talk-selections]: <> "Jun 13, 2025"
 
 Thank you for serving as a Senior Area Chair (SAC) for the first ever CCN Proceedings
 track! In order to create a review process that yields the highest quality, as a
