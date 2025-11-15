@@ -30,17 +30,17 @@
 
 [Can I preprint the manuscript that I plan to submit to CCN?](#can-i-preprint-the-manuscript-that-i-plan-to-submit-to-ccn?)
 
-[Can I submit my manuscript to another publication venue (e.g., a conference or journal) or submit such a manuscript to the Proceedings track?](#can-i-submit-my-manuscript-to-another-publication-venue-\(e.g.,-a-conference-or-journal\)-or-submit-such-a-manuscript-to-the-proceedings-track?)
+[Can I submit my manuscript to another publication venue (e.g., a conference or journal) or submit such a manuscript to the Proceedings track?](<#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-proceedings-track?>)
 
 [Where can I find more information on the review process?](#where-can-i-find-more-information-on-the-review-process?)
 
 ### **I can no longer attend CCN 2025\. Can my co-author present my poster?** {#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-poster?}
 
-* 
+-
 
 Please reach out to the Technical Programme Committee ([tpc@ccneuro.org](mailto:tpc@ccneuro.org)) to request to change the “Presenter” to your co-author on your submission. Presenters are identified via submission metadata on OpenReview.
 
-However, please note that Presenters need to be unique across both tracks at CCN 2025 (*i.e.*, an individual can be listed as Presenter on no more than one Proceedings paper or Extended Abstract). Each Presenter must pay for a registration at CCN 2025. However, we acknowledge that things come up: In the event that the Presenter can’t attend CCN 2025 in person, we won’t withdraw the work and a co-author can put up the poster; however, the Presenter must stay registered.
+However, please note that Presenters need to be unique across both tracks at CCN 2025 (_i.e._, an individual can be listed as Presenter on no more than one Proceedings paper or Extended Abstract). Each Presenter must pay for a registration at CCN 2025. However, we acknowledge that things come up: In the event that the Presenter can’t attend CCN 2025 in person, we won’t withdraw the work and a co-author can put up the poster; however, the Presenter must stay registered.
 
 ### **I can no longer attend CCN 2025\. Can my co-author present my talk?** {#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-talk?}
 
@@ -62,14 +62,14 @@ The two deadlines exist for us to have time to recruit and onboard reviewers sig
 
 ### **How should I format the anonymized author block?** {#how-should-i-format-the-anonymized-author-block?}
 
-Please use the anonymized title-author block included in the templates; see below. Do not duplicate this block (*e.g.*, according to the number of anonymized authors of the manuscript). In particular, each anonymized submission to either CCN track should have a similar-length title-author block (modulo a single- or double-line title).
+Please use the anonymized title-author block included in the templates; see below. Do not duplicate this block (_e.g._, according to the number of anonymized authors of the manuscript). In particular, each anonymized submission to either CCN track should have a similar-length title-author block (modulo a single- or double-line title).
 
 **\[Your title\]**
 
 **Anonymous Authors**  
 Double blind review
 
-### 
+###
 
 ### **Can we have shared first or last authorship?** {#can-we-have-shared-first-or-last-authorship?}
 
@@ -83,11 +83,11 @@ These are not necessary. We match reviewers and categorize submissions according
 
 In the post-decision, “camera-ready” version, yes. Please omit this from the anonymized submission to be reviewed. If acknowledgements are inadvertently included in the anonymized submission, we may have to desk reject it for failure to meet the double-blind reviewing requirements of CCN 2025.
 
-### 
+###
 
 ### **Can I include supplementary material?** {#can-i-include-supplementary-material?}
 
-Yes, you can include these in the PDF that you submit for review; by appending it after the References. However, reviewers are not obliged to take this material into account. Make sure any linked material is anonymized. The supplementary material does not need to adhere to the 2-column format of the main text (*i.e.*, it can be single-column).
+Yes, you can include these in the PDF that you submit for review; by appending it after the References. However, reviewers are not obliged to take this material into account. Make sure any linked material is anonymized. The supplementary material does not need to adhere to the 2-column format of the main text (_i.e._, it can be single-column).
 
 ### **Can I link to my code?** {#can-i-link-to-my-code?}
 
@@ -107,19 +107,19 @@ We don't prescribe a particular format. The APA standard is OK, for example.
 
 ### **Can I preprint the manuscript that I plan to submit to CCN?** {#can-i-preprint-the-manuscript-that-i-plan-to-submit-to-ccn?}
 
-Papers to both tracks must be submitted fully anonymized. Authors may disseminate their work publicly under their names (e.g., on a preprint server), but are asked to refrain from publicizing (*e.g.*, on social media) work under review at CCN until CCN decisions are released for all tracks (May 20th, 2025\) to prevent accidental de-anonymization during the review process.
+Papers to both tracks must be submitted fully anonymized. Authors may disseminate their work publicly under their names (e.g., on a preprint server), but are asked to refrain from publicizing (_e.g._, on social media) work under review at CCN until CCN decisions are released for all tracks (May 20th, 2025\) to prevent accidental de-anonymization during the review process.
 
-### **Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Proceedings track?** {#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-proceedings-track?}
+### **Can I submit my manuscript to another publication venue (_e.g._, a conference or journal) or submit such a manuscript to the Proceedings track?** {#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-proceedings-track?}
 
 The Proceedings track does not allow the submission of manuscripts that have been published or are under review elsewhere (“concurrent” or “dual” submissions). However, after we have made a decision on your submission (May 13th), you may decide to submit the manuscript to another venue which may have its own policy on prior publication. Accepted CCN Proceedings papers will have an assigned DOI, which may affect this decision.
 
 ### **Where can I find more information on the review process?** {#where-can-i-find-more-information-on-the-review-process?}
 
-*For authors:*  
+_For authors:_  
 [\[CCN 2025 Proceedings\] Submission FAQs](https://docs.google.com/document/d/1qqRfcXqfjyMiwFBhXHya_JwAWe3nqUbkYxOfsmDmC78/edit?usp=drive_link) (**This document\!**)  
 [\[CCN 2025 Proceedings\] Author response guidelines](https://docs.google.com/document/d/1NtXVRjlfb0z-hP3qLkCfsIk0oM02cjr187Py4LsueHQ/edit?usp=drive_link)
 
-*For reviewers and (senior) area chairs:*  
+_For reviewers and (senior) area chairs:_  
 [\[CCN 2025 Proceedings\] Reviewer guidelines](https://docs.google.com/document/d/1ljpItfEN7mkP-iK_rmQjCUkwWwm6r8HtPHmLkC5P66A/edit?usp=sharing)  
 [\[CCN 2025 Proceedings\] Area chair (AC) guidelines](https://docs.google.com/document/d/1Hs5nu9CYQKlNwkhlEZvSvqEs5Td5T4IZDlx-1MvupEw/edit?usp=sharing)  
 [\[CCN 2025 Proceedings\] Senior area chair (SAC) guidelines](https://docs.google.com/document/d/1Zfn3mG-K9msoojyHYbae5Lt9HglVvgnbVUeZXSrgPCs/edit?usp=sharing)

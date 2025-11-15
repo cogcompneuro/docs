@@ -1,0 +1,53 @@
+name: Check spelling
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Install spellcheck dependencies
+        run: |
+          sudo apt-get install aspell aspell-en
+          pip install pyspelling
+
+      - name: Get changed markdown files
+        id: changed-files
+        uses: tj-actions/changed-files@v45.0.8
+        with:
+          files: |
+            **/*.md
+          separator: "\n"
+
+      - name: Check spellings
+        shell: bash
+        run: |
+          files_to_check="${{ steps.changed-files.outputs.all_changed_files }}"
+
+          if [ -z "$files_to_check" ]; then
+            echo "No files to spellcheck"
+            exit 0
+          fi
+
+          declare -a spell_args
+          while IFS= read -r file; do
+              if [ -n "$file" ]; then
+                  spell_args+=("-S" "$file")
+              fi
+          done <<< "$files_to_check"
+          if [ ${#spell_args[@]} -eq 0 ]; then
+              echo "No files to spellcheck"
+          else
+              pyspelling -c $GITHUB_WORKSPACE/.github/config/spellcheck.yaml --name Markdown "${spell_args[@]}"
+          fi
+
+      - name: Report misspelling errors
+        if: ${{ failure() }}
+        run: |
+          echo "Please fix the misspellings. If you are sure about any of them, "
+          echo "append those to .github/config/wordlist.txt"

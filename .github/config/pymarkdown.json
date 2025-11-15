@@ -1,0 +1,17 @@
+{
+  "plugins": {
+
+    "md041": {
+      "enabled": false
+    },
+    "md022": {
+      "enabled": false
+    },
+    "md023": {
+      "enabled": false
+    },
+    "line-length": {
+      "line_length": 88
+    }
+  }
+}

@@ -1,0 +1,15 @@
+matrix:
+  - name: Markdown
+    aspell:
+      lang: en
+      d: en_US
+
+    dictionary:
+      wordlists:
+        - .github/config/wordlist.txt
+      output: .github/config/wordlist.dic
+      encoding: utf-8
+
+    pipeline:
+      - pyspelling.filters.html:
+      - pyspelling.filters.url:
