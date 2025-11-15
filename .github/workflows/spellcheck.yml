@@ -35,11 +35,13 @@ jobs:
           fi
 
           declare -a spell_args
-          while IFS= read -r file; do
+          while IFS=$'\n' read -r file; do
               if [ -n "$file" ]; then
                   spell_args+=("-S" "$file")
               fi
-          done <<< "$files_to_check"
+          done <<EOF
+$files_to_check
+EOF
           if [ ${#spell_args[@]} -eq 0 ]; then
               echo "No files to spellcheck"
           else
