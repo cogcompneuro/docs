@@ -1,5 +1,23 @@
 # Senior Area Chair Guidelines
 
+<!-- Deadline variables -->
+[abstract-deadline]: # "Feb 17, 2025"
+[submission-deadline]: # "Feb 20, 2025"
+[review-period]: # "Mar 4 - Mar 31, 2025"
+[reviews-due]: # "Mar 31, 2025"
+[reviews-released]: # "Apr 3, 2025"
+[author-response-period]: # "Apr 3 - Apr 14, 2025"
+[author-response-due]: # "Apr 14, 2025"
+[discussion-period]: # "Apr 15 - Apr 21, 2025"
+[poster-acceptances]: # "Apr 18, 2025"
+[meta-review-period]: # "Apr 22 - May 5, 2025"
+[meta-review-due]: # "May 5, 2025"
+[final-decisions-period]: # "May 6 - May 12, 2025"
+[proceedings-decisions]: # "May 13, 2025"
+[all-decisions]: # "May 22, 2025"
+[presenter-selection-period]: # "May 22 - Jun 12, 2025"
+[talk-selections]: # "Jun 13, 2025"
+
 Thank you for serving as a Senior Area Chair (SAC) for the first ever CCN Proceedings
 track! In order to create a review process that yields the highest quality, as a
 grass-roots organization, we have adopted a system that is more common at machine
@@ -40,22 +58,21 @@ final decisions.
 
 ## Overview
 
-**Reviews Due**: Monday, March 31, 11:59 PM (Anywhere on Earth; AoE)\
-**Author Responses Due:** Monday, April 14, 11:59 PM (Anywhere on Earth; AoE)\
-**Author - Reviewer Discussion**: April 15 - April 21 (rebuttal period starts at the 3rd
+**Reviews Due**: [reviews-due], 11:59 PM (Anywhere on Earth; AoE)\
+**Author Responses Due:** [author-response-due], 11:59 PM (Anywhere on Earth; AoE)\
+**Author - Reviewer Discussion**: [discussion-period] (rebuttal period starts at the 3rd
 of april).\
-**Meta Review Discussion**: April 22 - May 5
+**Meta Review Discussion**: [meta-review-period]
 
-**Paper Decisions Released:** Tuesday, May 13
+**Paper Decisions Released:** [proceedings-decisions]
 
 | Task | Subtask | Dates |
 | :--- | :--- | :--- |
-| Review Period | TPC & ACs ensure all papers have at least 3 reviews. (Note that author responses will open when all papers have 3-reviews) | **Start:** Tuesday, March 4 **End:** Monday, April 2 |
-| Author Response Period | Reviews released to authors. Authors must write a complete “author response” to reviewer comments”. Authors are invited to submit a revised PDF, but note that they cannot add new results (unless directly relevant to the manuscript as requested by the reviewer, e.g., simulations or minor additional statistical analyses). | **Start:** Thursday, April 3 **End:** Monday, April 14 |
-| Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a “final recommendation” which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | **Start:** Tuesday April 15 **End:** Monday, April 21 |
-| Meta-Review Period | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | **Start:** Tuesday, April 22**End:** Monday, May 5 |
-| Final Decisions | SACs and TPC finalize acceptances and rejections SACs (based on AC input) assign paper denominations (talks) | **Start:** Tuesday, May 6 **End:** Monday, May 12 |
-| Paper decisions released | (Note that for papers that are not accepted authors will be invited to submit a 2-page extended abstract, details TBD). | Tuesday, May 13 |
+| Author Response Period | Reviews released to authors. Authors must write a complete "author response" to reviewer comments". Authors are invited to submit a revised PDF, but note that they cannot add new results (unless directly relevant to the manuscript as requested by the reviewer, e.g., simulations or minor additional statistical analyses). | [author-response-period] |
+| Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a "final recommendation" which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | [discussion-period] |
+| Meta-Review Period | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
+| Final Decisions | SACs and TPC finalize acceptances and rejections SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
+| Paper decisions released | (Note that for papers that are not accepted authors will be invited to submit a 2-page extended abstract, details TBD). | [proceedings-decisions] |
 
 ### Openreview & OpenReview Console
 

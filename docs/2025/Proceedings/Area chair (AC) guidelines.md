@@ -1,5 +1,23 @@
 # Area Chair Guidelines
 
+<!-- Deadline variables -->
+[abstract-deadline]: # "Feb 17, 2025"
+[submission-deadline]: # "Feb 20, 2025"
+[review-period]: # "Mar 4 - Mar 31, 2025"
+[reviews-due]: # "Mar 31, 2025"
+[reviews-released]: # "Apr 3, 2025"
+[author-response-period]: # "Apr 3 - Apr 14, 2025"
+[author-response-due]: # "Apr 14, 2025"
+[discussion-period]: # "Apr 15 - Apr 21, 2025"
+[poster-acceptances]: # "Apr 18, 2025"
+[meta-review-period]: # "Apr 22 - May 5, 2025"
+[meta-review-due]: # "May 5, 2025"
+[final-decisions-period]: # "May 6 - May 12, 2025"
+[proceedings-decisions]: # "May 13, 2025"
+[all-decisions]: # "May 22, 2025"
+[presenter-selection-period]: # "May 22 - Jun 12, 2025"
+[talk-selections]: # "Jun 13, 2025"
+
 Thank you for serving as an Area Chair (AC) for the first ever CCN Proceedings track!
 In order to create a review process that yields the highest quality, as a grass-roots
 organization, we have adopted a system that is more common at machine learning
@@ -27,35 +45,29 @@ If you encounter a situation that you are unable to resolve on your own:
 ## Other guidelines
 
 *For reviewers and (senior) area chairs:*\
-[\[CCN 2025 Proceedings\] Reviewer
-guidelines](https://docs.google.com/document/d/1ljpItfEN7mkP-iK_rmQjCUkwWwm6r8HtPHmLkC5P66A/edit?usp=sharing)\
-[\[CCN 2025 Proceedings\] Area chair (AC)
-guidelines](https://docs.google.com/document/d/1Hs5nu9CYQKlNwkhlEZvSvqEs5Td5T4IZDlx-1MvupEw/edit?usp=sharing)
-(**This document!**)\
-[\[CCN 2025 Proceedings\] Senior area chair (SAC)
-guidelines](https://docs.google.com/document/d/1Zfn3mG-K9msoojyHYbae5Lt9HglVvgnbVUeZXSrgPCs/edit?usp=sharing)
+[Reviewer guidelines](Reviewer%20guidelines.md)\
+[Area chair (AC) guidelines](Area%20chair%20(AC)%20guidelines.md) (**This document!**)\
+[Senior area chair (SAC) guidelines](Senior%20area%20chair%20(SAC)%20guidelines.md)
 
 *For authors:*\
-[\[CCN 2025 Proceedings\] Submission
-FAQs](https://docs.google.com/document/d/1qqRfcXqfjyMiwFBhXHya_JwAWe3nqUbkYxOfsmDmC78/edit?usp=drive_link)\
-[\[CCN 2025 Proceedings\] Author response
-guidelines](https://docs.google.com/document/d/1NtXVRjlfb0z-hP3qLkCfsIk0oM02cjr187Py4LsueHQ/edit?usp=drive_link)
+[Submission FAQs](Submission%20FAQs.md)\
+[Author response guidelines](Author%20response%20guidelines.md)
 
 ## Overview of CCN-P Stages
 
-**Reviews Due:** Monday, March 31, 11:59 PM (Anywhere on Earth; AoE)\
-**Author Responses Due:** Monday, April 14, 11:59 PM (AoE)\
-**Meta Review Due:** Monday, May 5th, 11:59 PM (AoE) (**the main deadline for ACs**)\
-**Paper Decisions Released:** May 13th
+**Reviews Due:** [reviews-due], 11:59 PM (Anywhere on Earth; AoE)\
+**Author Responses Due:** [author-response-due], 11:59 PM (AoE)\
+**Meta Review Due:** [meta-review-due], 11:59 PM (AoE) (**the main deadline for ACs**)\
+**Paper Decisions Released:** [proceedings-decisions]
 
 | Task | Subtask | Dates |
 | :--- | :--- | :--- |
-| [Review Period](#reviews) | TPC & ACs ensure all papers have at least 3 reviews. (Note that author responses will open when all papers have at least 3 reviews). | **Start:** Tuesday, March 4 **End:** Monday, April 2 |
-| Author Response | Reviews released to authors Authors must write a complete “author response” to reviewer comments”. Authors are invited to submit a revised PDF, but note that they cannot add new results (unless directly relevant to the manuscript as requested by the reviewer, e.g., simulations or minor additional statistical analyses). | **Start:** Thursday, April 3 **End:** Monday, April 14 |
-| Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a “final recommendation” which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | **Start:** Tuesday April 15 **End:** Monday, April 21 |
-| [Meta-Review](#meta-reviews) [Period](#meta-reviews) | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | **Start:** Tuesday, April 22**End:** Monday, May 5 |
-| Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | **Start:** Tuesday, May 6 **End:** Monday, May 12 |
-| Paper decisions released | (Note that for papers that are not accepted, authors will be invited to submit a 2-page extended abstract, details TBD). | Tuesday, May 13 |
+| [Review Period](#reviews) | TPC & ACs ensure all papers have at least 3 reviews. (Note that author responses will open when all papers have at least 3 reviews). | [review-period] |
+| Author Response | Reviews released to authors Authors must write a complete "author response" to reviewer comments". Authors are invited to submit a revised PDF, but note that they cannot add new results (unless directly relevant to the manuscript as requested by the reviewer, e.g., simulations or minor additional statistical analyses). | [author-response-period] |
+| Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a "final recommendation" which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | [discussion-period] |
+| [Meta-Review](#meta-reviews) [Period](#meta-reviews) | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
+| Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
+| Paper decisions released | (Note that for papers that are not accepted, authors will be invited to submit a 2-page extended abstract, details TBD). | [proceedings-decisions] |
 
 ## OpenReview Console
 
@@ -79,7 +91,7 @@ screenshot](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnAAAAHTCAYAAACncyV+AA
 
 ## Assignment
 
-*March 4th, 2025*
+*[review-period]*
 
 We have done our best to match ACs with the most appropriate submissions.
 However, if you find that a manuscript assigned to you is too far outside of your **area
@@ -97,7 +109,7 @@ whom you can trust on this submission, ideally with a diverse set of opinions.
 
 ## **Reviews** {#reviews}
 
-*March 4 - March 31, 2025*
+*[review-period]*
 
 As an area chair, you will oversee the review process for the submissions assigned to
 you and address any potential concerns raised by the reviewers.
@@ -110,7 +122,7 @@ Assist reviewers who may feel poorly matched to submissions.
 Address reviewer concerns and assign additional reviewers if necessary to ensure
 thorough evaluation.
 
-Reviews are due **March 31**. Read all reviews carefully.
+Reviews are due **[reviews-due]**. Read all reviews carefully.
 If a review is substandard, you should ask the reviewer to improve their review.
 Please remember to be polite and provide concrete guidance.
 CCN expects the highest quality in its reviews.
@@ -135,7 +147,7 @@ If you note any of the below, please escalate them with your SAC or the program 
 
 ## Discussion
 
-*April 15 - April 21*
+*[discussion-period]*
 
 During the post-review discussion period, you will facilitate a constructive discussion
 between the authors and the reviewers through the OpenReview platform.
@@ -149,7 +161,7 @@ restricting the visibility of your comments in the OpenReview platform.
 
 ## **Meta-reviews** {#meta-reviews}
 
-*April 22 - May 5, 2025*
+*[meta-review-period]*
 
 After the discussion period, you will be responsible for writing meta reviews to
 summarize the reviews and the discussion that followed.

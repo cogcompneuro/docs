@@ -1,6 +1,22 @@
-# CCN 2025 Proceedings Track
+# Submission FAQs
 
-## Frequently Asked Questions
+<!-- Deadline variables -->
+[abstract-deadline]: # "Feb 17, 2025"
+[submission-deadline]: # "Feb 20, 2025"
+[review-period]: # "Mar 4 - Mar 31, 2025"
+[reviews-due]: # "Mar 31, 2025"
+[reviews-released]: # "Apr 3, 2025"
+[author-response-period]: # "Apr 3 - Apr 14, 2025"
+[author-response-due]: # "Apr 14, 2025"
+[discussion-period]: # "Apr 15 - Apr 21, 2025"
+[poster-acceptances]: # "Apr 18, 2025"
+[meta-review-period]: # "Apr 22 - May 5, 2025"
+[meta-review-due]: # "May 5, 2025"
+[final-decisions-period]: # "May 6 - May 12, 2025"
+[proceedings-decisions]: # "May 13, 2025"
+[all-decisions]: # "May 22, 2025"
+[presenter-selection-period]: # "May 22 - Jun 12, 2025"
+[talk-selections]: # "Jun 13, 2025"
 
 [I can no longer attend CCN 2025. Can my co-author present my
 poster?](#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-poster?)
@@ -78,20 +94,20 @@ poster (see the above question).
 but you have until the 20th to upload the full-length PDF. If you are unsure, we advise
 you to keep the 17th as an internal deadline.
 
-Everything in the OpenReview submission form is due by the “**abstract registration
-deadline”** Feb 17th, anywhere on earth, except for the PDF. The PDF is due by the
-“**full submission deadline”** on Feb 20th, anywhere on earth.
+Everything in the OpenReview submission form is due by the "**abstract registration
+deadline"** [abstract-deadline], anywhere on earth, except for the PDF. The PDF is due by the
+"**full submission deadline"** on [submission-deadline], anywhere on earth.
 It will not be possible to edit the author list, the presenter, or the reciprocal
-reviewer of a submission after Feb 17th. It will be possible to make edits to other
+reviewer of a submission after [abstract-deadline]. It will be possible to make edits to other
 submission metadata (including the title and the \~300-word abstract) from Feb 18th to
-Feb 20th, but any major edits (that substantially change the evidence or contributions
+[submission-deadline], but any major edits (that substantially change the evidence or contributions
 of the paper) will result in a desk rejection.
 
 ### **Why are there two deadlines?** {#why-are-there-two-deadlines?}
 
 The two deadlines exist for us to have time to recruit and onboard reviewers signing up
 as part of a submission, while keeping the final (PDF) deadline as late as our timeline
-allows. We suggest thinking about the overall deadline as Feb 17th so you don’t miss the
+allows. We suggest thinking about the overall deadline as [abstract-deadline] so you don't miss the
 abstract registration deadline.
 
 ### **How should I format the anonymized author block?** {#how-should-i-format-the-anonymized-author-block?}
@@ -162,14 +178,14 @@ The APA standard is OK, for example.
 Papers to both tracks must be submitted fully anonymized.
 Authors may disseminate their work publicly under their names (e.g., on a preprint
 server), but are asked to refrain from publicizing (*e.g.*, on social media) work under
-review at CCN until CCN decisions are released for all tracks (May 20th, 2025) to
+review at CCN until CCN decisions are released for all tracks ([all-decisions]) to
 prevent accidental de-anonymization during the review process.
 
 ### **Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Proceedings track?** {#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-proceedings-track?}
 
 The Proceedings track does not allow the submission of manuscripts that have been
-published or are under review elsewhere (“concurrent” or “dual” submissions).
-However, after we have made a decision on your submission (May 13th), you may decide to
+published or are under review elsewhere ("concurrent" or "dual" submissions).
+However, after we have made a decision on your submission ([proceedings-decisions]), you may decide to
 submit the manuscript to another venue which may have its own policy on prior
 publication. Accepted CCN Proceedings papers will have an assigned DOI, which may affect
 this decision.

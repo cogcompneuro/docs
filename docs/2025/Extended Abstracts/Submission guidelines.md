@@ -1,5 +1,19 @@
 # Submission Guidelines
 
+<!-- Deadline variables -->
+[submissions-open]: # "Mar 13, 2025"
+[submission-deadline]: # "Apr 13, 2025"
+[reviewer-registration]: # "Apr 14 - Apr 17, 2025"
+[desk-rejection-review-period]: # "Apr 11 - Apr 14, 2025"
+[poster-acceptances]: # "Apr 18, 2025"
+[review-period]: # "Apr 18 - May 18, 2025"
+[reviews-due]: # "May 18, 2025"
+[emergency-reviews]: # "May 19 - [all-decisions]"
+[wrap-up-period]: # "May 23 - Jun 12, 2025"
+[all-decisions]: # "[all-decisions]"
+[presenter-selection-period]: # "[all-decisions] - Jun 12, 2025"
+[talk-selections]: # "Jun 13, 2025"
+
 [I can no longer attend CCN 2025. Can my co-author present my
 poster?](#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-poster?)
 
@@ -166,7 +180,7 @@ The APA standard is OK, for example.
 - Papers to both tracks must be submitted fully anonymized.
   Authors may disseminate their work publicly under their names (e.g., on a preprint
   server), but are asked to refrain from publicizing (*e.g.*, on social media) work
-  under review at CCN until CCN decisions are released for all tracks (May 20th, 2025)
+  under review at CCN until CCN decisions are released for all tracks ([all-decisions])
   to prevent accidental de-anonymization during the review process.
 
 ### **Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Extended Abstracts track?** {#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-extended-abstracts-track?}
@@ -190,8 +204,8 @@ Instructions for this will be provided at a later stage.
 CCN 2025 maintains the historical policy that a given presenter can present only a
 single contribution at CCN. As such, you can make only one submission as the “Presenter”
 (the presenting author as identified on OpenReview) to the Extended Abstracts track.
-We will desk-reject submissions in violation of this requirement between April 11th and
-April 14th. You can participate in any number of submissions for which you are an author
+We will desk-reject submissions in violation of this requirement between [desk-rejection-review-period]. You can participate in any number of submissions for which you are an author
+ You can participate in any number of submissions for which you are an author
 but not the Presenter.
 
 But see “I can no longer attend CCN 2025. Can my co-author present my poster?”
@@ -203,7 +217,7 @@ Since CCN 2025 has two tracks with separate timelines, we allow Presenters to su
 a contribution to each track.
 If both contributions are accepted for presentation at CCN 2025 (*), the Presenter will
 be asked to select one of their contributions for presentation and withdraw the other.
-This selection must be made between May 20th and June 12th, after decisions are
+This selection must be made between [presenter-selection-period], after decisions are
 announced for all tracks.
 
 (*) This can occur if a Presenter has both a Proceedings paper and an Extended Abstract

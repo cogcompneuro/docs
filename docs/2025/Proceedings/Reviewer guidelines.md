@@ -1,5 +1,22 @@
 # Reviewer Guidelines
 
+<!-- Deadline variables -->
+[abstract-deadline]: # "Feb 17, 2025"
+[submission-deadline]: # "Feb 20, 2025"
+[review-period]: # "Mar 4 - Mar 31, 2025"
+[reviews-due]: # "Mar 31, 2025"
+[reviews-released]: # "Apr 3, 2025"
+[author-response-period]: # "Apr 3 - Apr 14, 2025"
+[author-response-due]: # "Apr 14, 2025"
+[discussion-period]: # "Apr 15 - Apr 21, 2025"
+[poster-acceptances]: # "Apr 18, 2025"
+[meta-review-period]: # "Apr 22 - May 5, 2025"
+[meta-review-due]: # "May 5, 2025"
+[proceedings-decisions]: # "May 13, 2025"
+[talk-selections]: # "Jun 13, 2025"
+[all-decisions]: # "May 22, 2025"
+[presenter-selection-period]: # "May 22 - Jun 12, 2025"
+
 Thank you once again for agreeing to review for CCN! As a Reviewer, you carry the
 important responsibility of evaluating submissions, thereby identifying work that should
 be included and highlighted at CCN as well as giving the feedback to other’s work that
@@ -43,7 +60,7 @@ current or former advisor, family or a close personal relationship, a current or
 collaborator; or someone who works in your current or recent immediate organization, or
 when you have a financial interest in the work.
 
-**Monday, March 31st, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
+**[reviews-due], 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
 We are counting on you to submit your review(s) on or before this date so that we can
 move onto the next step of the process.
 As stated in the [submission guidelines](https://2025.ccneuro.org/paper-submissions/),
