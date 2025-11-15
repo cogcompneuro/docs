@@ -1,6 +1,7 @@
 # Area Chair Guidelines
 
 <!-- Deadline variables -->
+
 [abstract-deadline]: # "Feb 17, 2025"
 [submission-deadline]: # "Feb 20, 2025"
 [review-period]: # "Mar 4 - Mar 31, 2025"
@@ -50,7 +51,7 @@ If you encounter a situation that you are unable to resolve on your own:
 [Senior area chair (SAC) guidelines](Senior%20area%20chair%20(SAC)%20guidelines.md)
 
 *For authors:*\
-[Submission FAQs](Submission%20FAQs.md)\
+[Submission guidelines](Submission%20FAQs.md)\
 [Author response guidelines](Author%20response%20guidelines.md)
 
 ## Overview of CCN-P Stages
@@ -107,7 +108,7 @@ listed and keep an eye on emails possibly landing in spam.
 Also, make sure that every submission in your batch is matched with suitable reviewers
 whom you can trust on this submission, ideally with a diverse set of opinions.
 
-## **Reviews** {#reviews}
+## Reviews
 
 *[review-period]*
 
@@ -159,7 +160,7 @@ responses. Also, make sure that authors address critical concerns raised by the
 reviewers.You can follow up with authors / reviewers publicly or privately by
 restricting the visibility of your comments in the OpenReview platform.
 
-## **Meta-reviews** {#meta-reviews}
+## Meta-reviews
 
 *[meta-review-period]*
 

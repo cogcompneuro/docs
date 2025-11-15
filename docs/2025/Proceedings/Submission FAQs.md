@@ -1,6 +1,7 @@
-# Submission FAQs
+# Submission guidelines
 
 <!-- Deadline variables -->
+
 [abstract-deadline]: # "Feb 17, 2025"
 [submission-deadline]: # "Feb 20, 2025"
 [review-period]: # "Mar 4 - Mar 31, 2025"
@@ -18,51 +19,9 @@
 [presenter-selection-period]: # "May 22 - Jun 12, 2025"
 [talk-selections]: # "Jun 13, 2025"
 
-[I can no longer attend CCN 2025. Can my co-author present my
-poster?](#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-poster?)
-
-[I can no longer attend CCN 2025. Can my co-author present my
-talk?](#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-talk?)
-
-[What is the timezone for the deadlines?](#what-is-the-timezone-for-the-deadlines?)
-
-[There seem to be two deadlines, which
-one…](#there-seem-to-be-two-deadlines,-which-one…)
-
-[Why are there two deadlines?](#why-are-there-two-deadlines?)
-
-[How should I format the anonymized author
-block?](#how-should-i-format-the-anonymized-author-block?)
-
-[Can we have shared first or last
-authorship?](#can-we-have-shared-first-or-last-authorship?)
-
-[Can I include keywords?](#can-i-include-keywords?)
-
-[Can I include acknowledgements?](#can-i-include-acknowledgements?)
-
-[Can I include supplementary material?](#can-i-include-supplementary-material?)
-
-[Can I link to my code?](#can-i-link-to-my-code?)
-
-[Do references count towards the 8-page
-limit?](#do-references-count-towards-the-8-page-limit?)
-
-[How should I format equations?](#how-should-i-format-equations?)
-
-[Can I preprint the manuscript that I plan to submit to
-CCN?](#can-i-preprint-the-manuscript-that-i-plan-to-submit-to-ccn?)
-
-[Can I submit my manuscript to another publication venue (e.g., a conference or journal)
-or submit such a manuscript to the Proceedings
-track?](#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-proceedings-track?)
-
-[Where can I find more information on the review
-process?](#where-can-i-find-more-information-on-the-review-process?)
-
 ## Frequently Asked Questions
 
-### **I can no longer attend CCN 2025. Can my co-author present my poster?** {#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-poster?}
+### I can no longer attend CCN 2025. Can my co-author present my poster?
 
 Please reach out to the Technical Programme Committee
 ([tpc@ccneuro.org](mailto:tpc@ccneuro.org)) to request to change the “Presenter” to your
@@ -77,40 +36,40 @@ things come up: In the event that the Presenter can’t attend CCN 2025 in perso
 won’t withdraw the work and a co-author can put up the poster; however, the Presenter
 must stay registered.
 
-### **I can no longer attend CCN 2025. Can my co-author present my talk?** {#i-can-no-longer-attend-ccn-2025.-can-my-co-author-present-my-talk?}
+### I can no longer attend CCN 2025. Can my co-author present my talk?
 
 Talks selections are determined based on submissions and their Presenters jointly.
 As such, we won’t be able to transfer a talk to a different Presenter, unlike with a
 poster (see the above question).
 
-### **What is the timezone for the deadlines?** {#what-is-the-timezone-for-the-deadlines?}
+### What is the timezone for the deadlines?
 
 “Anywhere on Earth” or AOE; (UTC-12). You can think of this as midnight, your time.
 (In most time zones it ends up being several hours after midnight.)
 
-### **There seem to be two deadlines, which one…** {#there-seem-to-be-two-deadlines,-which-one…}
+### There seem to be two deadlines, which one…
 
 **tl;dr:** On the 17th we need your title, author list, and abstract (paper summary),
-but you have until the 20th to upload the PDF. If you are unsure, we advise
-you to keep the 17th as an internal deadline.
+but you have until the 20th to upload the PDF. If you are unsure, we advise you to keep
+the 17th as an internal deadline.
 
 Everything in the OpenReview submission form is due by the "**abstract registration
-deadline"** [abstract-deadline], anywhere on earth, except for the PDF. The PDF is due by the
-"**full submission deadline"** on [submission-deadline], anywhere on earth.
+deadline"** [abstract-deadline], anywhere on earth, except for the PDF. The PDF is due
+by the "**full submission deadline"** on [submission-deadline], anywhere on earth.
 It will not be possible to edit the author list, the presenter, or the reciprocal
-reviewer of a submission after [abstract-deadline]. It will be possible to make edits to other
-submission metadata (including the title and the \~300-word abstract) from Feb 18th to
-[submission-deadline], but any major edits (that substantially change the evidence or contributions
-of the paper) will result in a desk rejection.
+reviewer of a submission after [abstract-deadline]. It will be possible to make edits to
+other submission metadata (including the title and the \~300-word abstract) from Feb
+18th to [submission-deadline], but any major edits (that substantially change the
+evidence or contributions of the paper) will result in a desk rejection.
 
-### **Why are there two deadlines?** {#why-are-there-two-deadlines?}
+### Why are there two deadlines?
 
 The two deadlines exist for us to have time to recruit and onboard reviewers signing up
 as part of a submission, while keeping the final (PDF) deadline as late as our timeline
-allows. We suggest thinking about the overall deadline as [abstract-deadline] so you don't miss the
-abstract registration deadline.
+allows. We suggest thinking about the overall deadline as [abstract-deadline] so you
+don’t miss the abstract registration deadline.
 
-### **How should I format the anonymized author block?** {#how-should-i-format-the-anonymized-author-block?}
+### How should I format the anonymized author block?
 
 Please use the anonymized title-author block included in the templates; see below.
 Do not duplicate this block (*e.g.*, according to the number of anonymized authors of
@@ -122,16 +81,16 @@ have a similar-length title-author block (modulo a single- or double-line title)
 **Anonymous Authors**\
 Double blind review
 
-### **Can we have shared first or last authorship?** {#can-we-have-shared-first-or-last-authorship?}
+### Can we have shared first or last authorship?
 
 Yes. You still must choose a fixed ordering of authors in the submission form.
 
-### **Can I include keywords?** {#can-i-include-keywords?}
+### Can I include keywords?
 
 These are not necessary.
 We match reviewers and categorize submissions according to your full-text abstract.
 
-### **Can I include acknowledgements?** {#can-i-include-acknowledgements?}
+### Can I include acknowledgements?
 
 In the post-decision, “camera-ready” version, yes.
 Please omit this from the anonymized submission to be reviewed.
@@ -139,7 +98,7 @@ If acknowledgements are inadvertently included in the anonymized submission, we 
 to desk reject it for failure to meet the double-blind reviewing requirements of CCN
 2025\.
 
-### **Can I include supplementary material?** {#can-i-include-supplementary-material?}
+### Can I include supplementary material?
 
 Yes, you can include these in the PDF that you submit for review; by appending it after
 the References. However, reviewers are not obliged to take this material into account.
@@ -147,7 +106,7 @@ Make sure any linked material is anonymized.
 The supplementary material does not need to adhere to the 2-column format of the main
 text (*i.e.*, it can be single-column).
 
-### **Can I link to my code?** {#can-i-link-to-my-code?}
+### Can I link to my code?
 
 Yes, we encourage code submissions as evidence of reproducibility.
 However, note that a code repository takes extra effort to anonymize, and we will
@@ -164,16 +123,16 @@ already publicly available.
 You can add the name and repository URL back in during the post-decision / camera-ready
 phase.
 
-### **Do references count towards the 8-page limit?** {#do-references-count-towards-the-8-page-limit?}
+### Do references count towards the 8-page limit?
 
 No.
 
-### **How should I format equations?** {#how-should-i-format-equations?}
+### How should I format equations?
 
 We don’t prescribe a particular format.
 The APA standard is OK, for example.
 
-### **Can I preprint the manuscript that I plan to submit to CCN?** {#can-i-preprint-the-manuscript-that-i-plan-to-submit-to-ccn?}
+### Can I preprint the manuscript that I plan to submit to CCN?
 
 Papers to both tracks must be submitted fully anonymized.
 Authors may disseminate their work publicly under their names (e.g., on a preprint
@@ -181,19 +140,19 @@ server), but are asked to refrain from publicizing (*e.g.*, on social media) wor
 review at CCN until CCN decisions are released for all tracks ([all-decisions]) to
 prevent accidental de-anonymization during the review process.
 
-### **Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Proceedings track?** {#can-i-submit-my-manuscript-to-another-publication-venue-(e.g.,-a-conference-or-journal)-or-submit-such-a-manuscript-to-the-proceedings-track?}
+### Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Proceedings track?
 
 The Proceedings track does not allow the submission of manuscripts that have been
-published or are under review elsewhere ("concurrent" or "dual" submissions).
-However, after we have made a decision on your submission ([proceedings-decisions]), you may decide to
-submit the manuscript to another venue which may have its own policy on prior
-publication. Accepted CCN Proceedings papers will have an assigned DOI, which may affect
-this decision.
+published or are under review elsewhere ("concurrent" or “dual” submissions).
+However, after we have made a decision on your submission ([proceedings-decisions]), you
+may decide to submit the manuscript to another venue which may have its own policy on
+prior publication. Accepted CCN Proceedings papers will have an assigned DOI, which may
+affect this decision.
 
-### **Where can I find more information on the review process?** {#where-can-i-find-more-information-on-the-review-process?}
+### Where can I find more information on the review process?
 
 *For authors:*\
-[Submission FAQs](Submission%20FAQs.md) (**This document!**)\
+[Submission guidelines](Submission%20FAQs.md) (**This document!**)\
 [Author response guidelines](Author%20response%20guidelines.md)
 
 *For reviewers and (senior) area chairs:*\

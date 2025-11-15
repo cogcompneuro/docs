@@ -1,6 +1,7 @@
 # Senior Area Chair Guidelines
 
 <!-- Deadline variables -->
+
 [abstract-deadline]: # "Feb 17, 2025"
 [submission-deadline]: # "Feb 20, 2025"
 [review-period]: # "Mar 4 - Mar 31, 2025"
@@ -53,7 +54,7 @@ final decisions.
 (**This document!**)
 
 *For authors:*\
-[Submission FAQs](Submission%20FAQs.md)\
+[Submission guidelines](Submission%20FAQs.md)\
 [Author response guidelines](Author%20response%20guidelines.md)
 
 ## Overview

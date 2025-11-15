@@ -1,6 +1,7 @@
 # Reviewer Guidelines
 
 <!-- Deadline variables -->
+
 [submissions-open]: # "Mar 13, 2025"
 [submission-deadline]: # "Apr 13, 2025"
 [reviewer-registration]: # "Apr 14 - Apr 17, 2025"
