@@ -193,10 +193,10 @@ The APA standard is OK, for example.
 
 ### **Should I submit my Proceedings submission to the Extended Abstracts track?** {#should-i-submit-my-proceedings-submission-to-the-extended-abstracts-track?}
 
-There is no need to submit a 2-page version of your Proceedings submission to the
+There is no need to submit a Extended Abstract version of your Proceedings submission to the
 Extended Abstracts track.
 Authors of Proceedings submissions that are not accepted will be invited to convert
-their Proceedings submission to an Extended Abstract ("2-pager") submission.
+their Proceedings submission to an Extended Abstract submission.
 Instructions for this will be provided at a later stage.
 
 ### **Can I make multiple Extended Abstract submissions?** {#can-i-make-multiple-extended-abstract-submissions?}

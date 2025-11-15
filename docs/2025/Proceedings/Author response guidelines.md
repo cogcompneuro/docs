@@ -17,7 +17,7 @@
 [all-decisions]: # "May 22, 2025"
 [presenter-selection-period]: # "May 22 - Jun 12, 2025"
 
-Thank you for submitting your work to the CCN Proceedings ("8-pager") track.
+Thank you for submitting your work to the CCN Proceedings track.
 In this document, we outline the Proceedings review and decision processes that are
 relevant to authors of submissions.
 
@@ -36,7 +36,7 @@ Earth](https://www.timeanddate.com/worldclock/converter.html?iso=20250415T115900
 **Author-Reviewer Discussion:** [discussion-period]\
 **Proceedings Decisions Released** (*)**:** [proceedings-decisions]
 
-(*) Proceedings (8-pager) decisions are related to but not exactly the same as
+(*) Proceedings decisions are related to but not exactly the same as
 presentation format (poster) decisions at CCN 2025: **accepted** Proceedings papers
 **will** receive a poster; Proceedings submissions that are not accepted will go through
 another decision stage for the Extended Abstract track; all **accepted** Extended
@@ -152,9 +152,9 @@ Please consult the CCN website for the latest
 [Dates & Deadlines](https://2025.ccneuro.org/dates-and-deadlines/).
 
 Authors of Proceedings submissions that are not accepted will be invited to convert
-their Proceedings submission to a Extended Abstract (“2-pager”) submission.
+their Proceedings submission to an Extended Abstract submission.
 Instructions for this will be provided at a later stage.
-There is no need to submit a 2-page version of your Proceedings submission to the
+There is no need to submit a Extended Abstract version of your Proceedings submission to the
 Extended Abstracts track.
 
 Anonymized reviews and discussion will be made public on OpenReview for accepted papers

@@ -8,9 +8,9 @@ Documentation for authors, reviewers, and area chairs participating in the Confe
 
 ## Conference Tracks
 
-**Proceedings** - Full-length research papers (8 pages) presenting novel, unpublished work. Accepted papers receive a DOI.
+**Proceedings** - Research papers (8 pages) presenting novel, unpublished work. Accepted papers receive a DOI.
 
-**Extended Abstracts** - Two-page summaries. May include work published or under review elsewhere.
+**Extended Abstracts** - Short summaries (2 pages). May include work published or under review elsewhere.
 
 ## Getting Help
 

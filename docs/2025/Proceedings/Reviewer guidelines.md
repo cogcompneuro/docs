@@ -67,7 +67,7 @@ As stated in the [submission guidelines](https://2025.ccneuro.org/paper-submissi
 if you are a **Reciprocal Reviewer** (reviewing as part of a proceedings submission) and
 do not submit all assigned reviews by the author response stage, the relevant
 submissions may be desk-rejected and may not be considered for Contributed Talk when
-converted to the 2-pager track.
+converted to the Extended Abstracts track.
 
 ## OpenReview
 

@@ -91,7 +91,7 @@ poster (see the above question).
 ### **There seem to be two deadlines, which one…** {#there-seem-to-be-two-deadlines,-which-one…}
 
 **tl;dr:** On the 17th we need your title, author list, and abstract (paper summary),
-but you have until the 20th to upload the full-length PDF. If you are unsure, we advise
+but you have until the 20th to upload the PDF. If you are unsure, we advise
 you to keep the 17th as an internal deadline.
 
 Everything in the OpenReview submission form is due by the "**abstract registration

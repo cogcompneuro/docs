@@ -67,7 +67,7 @@ If you encounter a situation that you are unable to resolve on your own:
 | Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a "final recommendation" which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | [discussion-period] |
 | [Meta-Review](#meta-reviews) [Period](#meta-reviews) | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
 | Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
-| Paper decisions released | (Note that for papers that are not accepted, authors will be invited to submit a 2-page extended abstract, details TBD). | [proceedings-decisions] |
+| Paper decisions released | (Note that for papers that are not accepted, authors will be invited to submit a Extended Abstract, details TBD). | [proceedings-decisions] |
 
 ## OpenReview Console
 
