@@ -15,6 +15,8 @@
 [presenter-selection-period]: <> "[all-decisions] - Jun 12, 2025"
 [talk-selections]: <> "Jun 13, 2025"
 
+--8<-- ".snippets/prior-version-warning.md"
+
 Thank you once again for agreeing to review for CCN! As a Reviewer, you carry the
 important responsibility of evaluating submissions, thereby identifying work that should
 be highlighted at CCN as a Contributed Talk, as well as giving the feedback to other’s

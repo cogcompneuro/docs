@@ -15,6 +15,8 @@
 [presenter-selection-period]: <> "[all-decisions] - Jun 12, 2025"
 [talk-selections]: <> "Jun 13, 2025"
 
+--8<-- ".snippets/prior-version-warning.md"
+
 ## Frequently Asked Questions
 
 ### I can no longer attend CCN 2025. Can my co-author present my poster?

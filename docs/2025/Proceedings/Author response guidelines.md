@@ -18,6 +18,8 @@
 [all-decisions]: <> "May 22, 2025"
 [presenter-selection-period]: <> "May 22 - Jun 12, 2025"
 
+--8<-- ".snippets/prior-version-warning.md"
+
 Thank you for submitting your work to the CCN Proceedings track.
 In this document, we outline the Proceedings review and decision processes that are
 relevant to authors of submissions.

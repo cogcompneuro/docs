@@ -19,6 +19,8 @@
 [presenter-selection-period]: <> "May 22 - Jun 12, 2025"
 [talk-selections]: <> "Jun 13, 2025"
 
+--8<-- ".snippets/prior-version-warning.md"
+
 Thank you for serving as an Area Chair (AC) for the first ever CCN Proceedings track!
 In order to create a review process that yields the highest quality, as a grass-roots
 organization, we have adopted a system that is more common at machine learning

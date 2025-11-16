@@ -315,6 +315,11 @@ toggle.name = "Switch to light mode"
 # Enable abbreviations for tooltip definitions
 [project.markdown_extensions.abbr]
 
+# Enable admonitions
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
+
 # Enable snippets to auto-append abbreviation definitions
 [project.markdown_extensions.pymdownx.snippets]
 auto_append = [".snippets/proceedings-deadlines.md"]
