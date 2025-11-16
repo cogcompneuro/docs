@@ -14,10 +14,6 @@ Accepted papers receive a DOI.
 **Extended Abstracts** - Short summaries (2 pages).
 May include work published or under review elsewhere.
 
-## Getting Help
-
-- Technical Programme Committee: [tpc@ccneuro.org](mailto:tpc@ccneuro.org)
-
-- OpenReview support: [info@openreview.net](mailto:info@openreview.net)
+--8<-- “.snippets/contact-info.md”
 
 For more information, visit [ccneuro.org](https://ccneuro.org).

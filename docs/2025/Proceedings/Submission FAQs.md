@@ -19,7 +19,7 @@
 [presenter-selection-period]: <> "May 22 - Jun 12, 2025"
 [talk-selections]: <> "Jun 13, 2025"
 
---8<-- ".snippets/prior-version-warning.md"
+--8<-- “.snippets/prior-version-warning.md”
 
 ## Frequently Asked Questions
 
@@ -161,3 +161,5 @@ affect this decision.
 [Reviewer guidelines](Reviewer%20guidelines.md)\
 [Area chair (AC) guidelines](Area%20chair%20(AC)%20guidelines.md)\
 [Senior area chair (SAC) guidelines](Senior%20area%20chair%20(SAC)%20guidelines.md)
+
+--8<-- “.snippets/contact-info.md”
