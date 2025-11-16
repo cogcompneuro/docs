@@ -4,8 +4,9 @@ repos:
       - id: flowmark
         name: flowmark
         language: system
-        entry: uvx flowmark --auto
+        entry: uvx flowmark --inplace --nobackup --semantic --cleanups
         types: [markdown]
+        exclude: ^snippets/
 
   - repo: https://github.com/jackdewinter/pymarkdown
     rev: v0.9.33

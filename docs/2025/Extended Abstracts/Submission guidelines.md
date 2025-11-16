@@ -15,7 +15,7 @@
 [presenter-selection-period]: <> "[all-decisions] - Jun 12, 2025"
 [talk-selections]: <> "Jun 13, 2025"
 
---8<-- “.snippets/prior-version-warning.md”
+--8<-- "prior-version-warning.md"
 
 ## Frequently Asked Questions
 
@@ -198,4 +198,4 @@ process so won’t be able to wait for revisions.
 Please wait until the camera-ready phase in late May to submit your corrected manuscript
 for publication. Further instructions for how to do this will follow.
 
---8<-- “.snippets/contact-info.md”
+--8<-- "contact-info.md"
