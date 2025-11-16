@@ -1,24 +1,5 @@
 # Area Chair Guidelines
 
-<!-- Deadline variables -->
-
-[abstract-deadline]: <> "Feb 17, 2025"
-[submission-deadline]: <> "Feb 20, 2025"
-[review-period]: <> "Mar 4 - Mar 31, 2025"
-[reviews-due]: <> "Mar 31, 2025"
-[reviews-released]: <> "Apr 3, 2025"
-[author-response-period]: <> "Apr 3 - Apr 14, 2025"
-[author-response-due]: <> "Apr 14, 2025"
-[discussion-period]: <> "Apr 15 - Apr 21, 2025"
-[poster-acceptances]: <> "Apr 18, 2025"
-[meta-review-period]: <> "Apr 22 - May 5, 2025"
-[meta-review-due]: <> "May 5, 2025"
-[final-decisions-period]: <> "May 6 - May 12, 2025"
-[proceedings-decisions]: <> "May 13, 2025"
-[all-decisions]: <> "May 22, 2025"
-[presenter-selection-period]: <> "May 22 - Jun 12, 2025"
-[talk-selections]: <> "Jun 13, 2025"
-
 --8<-- "prior-version-warning.md"
 
 Thank you for serving as an Area Chair (AC) for the first ever CCN Proceedings track!
@@ -47,19 +28,19 @@ guidance from your senior area chair (SAC).
 
 ## Overview of CCN-P Stages
 
-**Reviews Due:** [reviews-due], 11:59 PM (Anywhere on Earth; AoE)\
-**Author Responses Due:** [author-response-due], 11:59 PM (AoE)\
-**Meta Review Due:** [meta-review-due], 11:59 PM (AoE) (**the main deadline for ACs**)\
-**Paper Decisions Released:** [proceedings-decisions]
+**Reviews Due:** {{ config.extra.year2025_proceedings_reviews_due }}, 11:59 PM (Anywhere on Earth; AoE)\
+**Author Responses Due:** {{ config.extra.year2025_proceedings_author_response_due }}, 11:59 PM (AoE)\
+**Meta Review Due:** {{ config.extra.year2025_proceedings_meta_review_due }}, 11:59 PM (AoE) (**the main deadline for ACs**)\
+**Paper Decisions Released:** {{ config.extra.year2025_proceedings_proceedings_decisions }}
 
 | Task | Subtask | Dates |
 | :--- | :--- | :--- |
-| [Review Period](#reviews) | TPC & ACs ensure all papers have at least 3 reviews. (Note that author responses will open when all papers have at least 3 reviews). | [review-period] |
-| Author Response | Reviews released to authors Authors must write a complete "author response" to reviewer comments". Authors are invited to submit a revised PDF, but note that they cannot add new results (unless directly relevant to the manuscript as requested by the reviewer, e.g., simulations or minor additional statistical analyses). | [author-response-period] |
-| Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a "final recommendation" which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | [discussion-period] |
-| [Meta-Review](#meta-reviews) [Period](#meta-reviews) | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
-| Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
-| Paper decisions released | (Note that for papers that are not accepted, authors will be invited to submit a Extended Abstract, details TBD). | [proceedings-decisions] |
+| [Review Period](#reviews) | TPC & ACs ensure all papers have at least 3 reviews. (Note that author responses will open when all papers have at least 3 reviews). | {{ config.extra.year2025_proceedings_review_period }} |
+| Author Response | Reviews released to authors Authors must write a complete "author response" to reviewer comments". Authors are invited to submit a revised PDF, but note that they cannot add new results (unless directly relevant to the manuscript as requested by the reviewer, e.g., simulations or minor additional statistical analyses). | {{ config.extra.year2025_proceedings_author_response_period }} |
+| Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a "final recommendation" which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | {{ config.extra.year2025_proceedings_discussion_period }} |
+| [Meta-Review](#meta-reviews) [Period](#meta-reviews) | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | {{ config.extra.year2025_proceedings_meta_review_period }} |
+| Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | {{ config.extra.year2025_proceedings_final_decisions_period }} |
+| Paper decisions released | (Note that for papers that are not accepted, authors will be invited to submit a Extended Abstract, details TBD). | {{ config.extra.year2025_proceedings_proceedings_decisions }} |
 
 ## OpenReview Console
 
@@ -83,7 +64,7 @@ screenshot](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnAAAAHTCAYAAACncyV+AA
 
 ## Assignment
 
-*[review-period]*
+*{{ config.extra.year2025_proceedings_review_period }}*
 
 We have done our best to match ACs with the most appropriate submissions.
 However, if you find that a manuscript assigned to you is too far outside of your **area
@@ -101,7 +82,7 @@ whom you can trust on this submission, ideally with a diverse set of opinions.
 
 ## Reviews
 
-*[review-period]*
+*{{ config.extra.year2025_proceedings_review_period }}*
 
 As an area chair, you will oversee the review process for the submissions assigned to
 you and address any potential concerns raised by the reviewers.
@@ -114,7 +95,7 @@ Assist reviewers who may feel poorly matched to submissions.
 Address reviewer concerns and assign additional reviewers if necessary to ensure
 thorough evaluation.
 
-Reviews are due **[reviews-due]**. Read all reviews carefully.
+Reviews are due **{{ config.extra.year2025_proceedings_reviews_due }}**. Read all reviews carefully.
 If a review is substandard, you should ask the reviewer to improve their review.
 Please remember to be polite and provide concrete guidance.
 CCN expects the highest quality in its reviews.
@@ -139,7 +120,7 @@ If you note any of the below, please escalate them with your SAC or the program 
 
 ## Discussion
 
-*[discussion-period]*
+*{{ config.extra.year2025_proceedings_discussion_period }}*
 
 During the post-review discussion period, you will facilitate a constructive discussion
 between the authors and the reviewers through the OpenReview platform.
@@ -153,7 +134,7 @@ restricting the visibility of your comments in the OpenReview platform.
 
 ## Meta-reviews
 
-*[meta-review-period]*
+*{{ config.extra.year2025_proceedings_meta_review_period }}*
 
 After the discussion period, you will be responsible for writing meta reviews to
 summarize the reviews and the discussion that followed.

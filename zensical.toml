@@ -328,26 +328,29 @@ base_path = ["snippets/"]
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
 
-# Proceedings track deadlines
-[project.extra.proceedings]
-abstract_deadline = "Feb 17th, 2025"
-submission_deadline = "Feb 20th, 2025"
-reviews_due = "March 31st, 2025"
-reviews_released = "April 3rd, 2025"
-author_response_due = "April 14th, 2025"
-discussion_period = "April 15th - April 21st, 2025"
-meta_review_due = "May 5th, 2025"
-proceedings_decisions = "May 13th, 2025"
-all_decisions = "May 20th, 2025"
+[project.extra]
+year2025_proceedings_abstract_deadline = "Feb 17th, 2025"
+year2025_proceedings_submission_deadline = "Feb 20th, 2025"
+year2025_proceedings_review_period = "Mar 4 - Mar 31, 2025"
+year2025_proceedings_reviews_due = "March 31st, 2025"
+year2025_proceedings_reviews_released = "April 3rd, 2025"
+year2025_proceedings_author_response_period = "Apr 3 - Apr 14, 2025"
+year2025_proceedings_author_response_due = "April 14th, 2025"
+year2025_proceedings_discussion_period = "April 15th - April 21st, 2025"
+year2025_proceedings_meta_review_period = "Apr 22 - May 5, 2025"
+year2025_proceedings_meta_review_due = "May 5th, 2025"
+year2025_proceedings_final_decisions_period = "May 6 - May 12, 2025"
+year2025_proceedings_proceedings_decisions = "May 13th, 2025"
+year2025_proceedings_all_decisions = "May 20th, 2025"
+year2025_proceedings_presenter_selection_period = "May 22 - Jun 12, 2025"
 
-# Extended Abstracts track deadlines
-[project.extra.extended_abstracts]
-submission_deadline = "April 11th, 2025"
-review_period = "April 14th - April 18th, 2025"
-all_decisions = "May 20th, 2025"
+year2025_extended_abstracts_submission_deadline = "April 11th, 2025"
+year2025_extended_abstracts_desk_rejection_review_period = "Apr 11 - Apr 14, 2025"
+year2025_extended_abstracts_review_period = "April 14th - April 18th, 2025"
+year2025_extended_abstracts_reviews_due = "May 18, 2025"
+year2025_extended_abstracts_all_decisions = "May 20th, 2025"
+year2025_extended_abstracts_presenter_selection_period = "May 22 - Jun 12, 2025"
 
 #[[project.extra.social]]
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
-
-

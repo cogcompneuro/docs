@@ -1,20 +1,5 @@
 # Reviewer Guidelines
 
-<!-- Deadline variables -->
-
-[submissions-open]: <> "Mar 13, 2025"
-[submission-deadline]: <> "Apr 13, 2025"
-[reviewer-registration]: <> "Apr 14 - Apr 17, 2025"
-[desk-rejection-review-period]: <> "Apr 11 - Apr 14, 2025"
-[poster-acceptances]: <> "Apr 18, 2025"
-[review-period]: <> "Apr 18 - May 18, 2025"
-[reviews-due]: <> "May 18, 2025"
-[emergency-reviews]: <> "May 19 - May 22, 2025"
-[wrap-up-period]: <> "May 23 - Jun 12, 2025"
-[all-decisions]: <> "May 22, 2025"
-[presenter-selection-period]: <> "[all-decisions] - Jun 12, 2025"
-[talk-selections]: <> "Jun 13, 2025"
-
 --8<-- "prior-version-warning.md"
 
 Thank you once again for agreeing to review for CCN! As a Reviewer, you carry the
@@ -39,7 +24,7 @@ current or former advisor, family or a close personal relationship, a current or
 collaborator; or someone who works in your current or recent immediate organization, or
 when you have a financial interest in the work.
 
-**[reviews-due], 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
+**{{ config.extra.year2025_extended_abstracts_reviews_due }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
 We are counting on you to submit your review(s) on or before this date so that we can
 move onto the next step of the process.
 As stated in the [submission guidelines](https://2025.ccneuro.org/paper-submissions/),

@@ -1,24 +1,5 @@
 # Senior Area Chair Guidelines
 
-<!-- Deadline variables -->
-
-[abstract-deadline]: <> "Feb 17, 2025"
-[submission-deadline]: <> "Feb 20, 2025"
-[review-period]: <> "Mar 4 - Mar 31, 2025"
-[reviews-due]: <> "Mar 31, 2025"
-[reviews-released]: <> "Apr 3, 2025"
-[author-response-period]: <> "Apr 3 - Apr 14, 2025"
-[author-response-due]: <> "Apr 14, 2025"
-[discussion-period]: <> "Apr 15 - Apr 21, 2025"
-[poster-acceptances]: <> "Apr 18, 2025"
-[meta-review-period]: <> "Apr 22 - May 5, 2025"
-[meta-review-due]: <> "May 5, 2025"
-[final-decisions-period]: <> "May 6 - May 12, 2025"
-[proceedings-decisions]: <> "May 13, 2025"
-[all-decisions]: <> "May 22, 2025"
-[presenter-selection-period]: <> "May 22 - Jun 12, 2025"
-[talk-selections]: <> "Jun 13, 2025"
-
 --8<-- "prior-version-warning.md"
 
 Thank you for serving as a Senior Area Chair (SAC) for the first ever CCN Proceedings
@@ -53,19 +34,19 @@ final decisions.
 
 ## Overview
 
-**Reviews Due**: [reviews-due], 11:59 PM (Anywhere on Earth; AoE)\
-**Author Responses Due:** [author-response-due], 11:59 PM (Anywhere on Earth; AoE)\
-**Author - Reviewer Discussion**: [discussion-period] (rebuttal period starts at the 3rd
+**Reviews Due**: {{ config.extra.year2025_proceedings_reviews_due }}, 11:59 PM (Anywhere on Earth; AoE)\
+**Author Responses Due:** {{ config.extra.year2025_proceedings_author_response_due }}, 11:59 PM (Anywhere on Earth; AoE)\
+**Author - Reviewer Discussion**: {{ config.extra.year2025_proceedings_discussion_period }} (rebuttal period starts at the 3rd
 of april).\
-**Meta Review Discussion**: [meta-review-period]
+**Meta Review Discussion**: {{ config.extra.year2025_proceedings_meta_review_period }}
 
 **Paper Decisions Released:** [proceedings-decisions]
 
 | Task | Subtask | Dates |
 | :--- | :--- | :--- |
 | Author Response Period | Reviews released to authors. Authors must write a complete "author response" to reviewer comments". Authors are invited to submit a revised PDF, but note that they cannot add new results (unless directly relevant to the manuscript as requested by the reviewer, e.g., simulations or minor additional statistical analyses). | [author-response-period] |
-| Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a "final recommendation" which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | [discussion-period] |
-| Meta-Review Period | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
+| Author-Review Discussion | Authors can continue to interact with reviewers to tie up any loose ends while ACs oversee, but cannot post any more long responses. At the end of this period, reviewers submit a "final recommendation" which is an update of their assessment of the paper after the author's response and discussion. This assessment is visible just to ACs, to aid ACs in writing meta-reviews. | {{ config.extra.year2025_proceedings_discussion_period }} |
+| Meta-Review Period | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | {{ config.extra.year2025_proceedings_meta_review_period }} |
 | Final Decisions | SACs and TPC finalize acceptances and rejections SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
 | Paper decisions released | (Note that for papers that are not accepted authors will be invited to submit a Extended Abstract, details TBD). | [proceedings-decisions] |
 
