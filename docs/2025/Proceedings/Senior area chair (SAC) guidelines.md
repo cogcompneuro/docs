@@ -34,10 +34,12 @@ final decisions.
 
 ## Overview
 
-**Reviews Due**: {{ config.extra.year2025_proceedings_reviews_due }}, 11:59 PM (Anywhere on Earth; AoE)\
-**Author Responses Due:** {{ config.extra.year2025_proceedings_author_response_due }}, 11:59 PM (Anywhere on Earth; AoE)\
-**Author - Reviewer Discussion**: {{ config.extra.year2025_proceedings_discussion_period }} (rebuttal period starts at the 3rd
-of april).\
+**Reviews Due**: {{ config.extra.year2025_proceedings_reviews_due }}, 11:59 PM (Anywhere
+on Earth; AoE)\
+**Author Responses Due:** {{ config.extra.year2025_proceedings_author_response_due }},
+11:59 PM (Anywhere on Earth; AoE)\
+**Author - Reviewer Discussion**: {{ config.extra.year2025_proceedings_discussion_period
+}} (rebuttal period starts at the 3rd of april).\
 **Meta Review Discussion**: {{ config.extra.year2025_proceedings_meta_review_period }}
 
 **Paper Decisions Released:** [proceedings-decisions]

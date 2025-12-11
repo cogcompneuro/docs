@@ -45,7 +45,8 @@ current or former advisor, family or a close personal relationship, a current or
 collaborator; or someone who works in your current or recent immediate organization, or
 when you have a financial interest in the work.
 
-**{{ config.extra.year2025_proceedings_reviews_due }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
+**{{ config.extra.year2025_proceedings_reviews_due }}, 11:59 PM Anywhere on Earth
+(AoE)**, is the reviewing deadline.
 We are counting on you to submit your review(s) on or before this date so that we can
 move onto the next step of the process.
 As stated in the [submission guidelines](https://2025.ccneuro.org/paper-submissions/),

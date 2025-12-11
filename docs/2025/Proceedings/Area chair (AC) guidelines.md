@@ -28,10 +28,14 @@ guidance from your senior area chair (SAC).
 
 ## Overview of CCN-P Stages
 
-**Reviews Due:** {{ config.extra.year2025_proceedings_reviews_due }}, 11:59 PM (Anywhere on Earth; AoE)\
-**Author Responses Due:** {{ config.extra.year2025_proceedings_author_response_due }}, 11:59 PM (AoE)\
-**Meta Review Due:** {{ config.extra.year2025_proceedings_meta_review_due }}, 11:59 PM (AoE) (**the main deadline for ACs**)\
-**Paper Decisions Released:** {{ config.extra.year2025_proceedings_proceedings_decisions }}
+**Reviews Due:** {{ config.extra.year2025_proceedings_reviews_due }}, 11:59 PM (Anywhere
+on Earth; AoE)\
+**Author Responses Due:** {{ config.extra.year2025_proceedings_author_response_due }},
+11:59 PM (AoE)\
+**Meta Review Due:** {{ config.extra.year2025_proceedings_meta_review_due }}, 11:59 PM
+(AoE) (**the main deadline for ACs**)\
+**Paper Decisions Released:** {{ config.extra.year2025_proceedings_proceedings_decisions
+}}
 
 | Task | Subtask | Dates |
 | :--- | :--- | :--- |
@@ -95,9 +99,9 @@ Assist reviewers who may feel poorly matched to submissions.
 Address reviewer concerns and assign additional reviewers if necessary to ensure
 thorough evaluation.
 
-Reviews are due **{{ config.extra.year2025_proceedings_reviews_due }}**. Read all reviews carefully.
-If a review is substandard, you should ask the reviewer to improve their review.
-Please remember to be polite and provide concrete guidance.
+Reviews are due **{{ config.extra.year2025_proceedings_reviews_due }}**. Read all
+reviews carefully. If a review is substandard, you should ask the reviewer to improve
+their review. Please remember to be polite and provide concrete guidance.
 CCN expects the highest quality in its reviews.
 Please encourage this standard in the reviewers you oversee.
 

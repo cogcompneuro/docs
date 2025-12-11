@@ -113,8 +113,9 @@ The APA standard is OK, for example.
 - Papers to both tracks must be submitted fully anonymized.
   Authors may disseminate their work publicly under their names (e.g., on a preprint
   server), but are asked to refrain from publicizing (*e.g.*, on social media) work
-  under review at CCN until CCN decisions are released for all tracks ({{ config.extra.year2025_extended_abstracts_all_decisions }})
-  to prevent accidental de-anonymization during the review process.
+  under review at CCN until CCN decisions are released for all tracks ({{
+  config.extra.year2025_extended_abstracts_all_decisions }}) to prevent accidental
+  de-anonymization during the review process.
 
 ### Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Extended Abstracts track?
 
@@ -137,10 +138,10 @@ Instructions for this will be provided at a later stage.
 CCN 2025 maintains the historical policy that a given presenter can present only a
 single contribution at CCN. As such, you can make only one submission as the “Presenter”
 (the presenting author as identified on OpenReview) to the Extended Abstracts track.
-We will desk-reject submissions in violation of this requirement between
-{{ config.extra.year2025_extended_abstracts_desk_rejection_review_period }}. You can participate in any number of submissions for
-which you are an author You can participate in any number of submissions for which you
-are an author but not the Presenter.
+We will desk-reject submissions in violation of this requirement between {{
+config.extra.year2025_extended_abstracts_desk_rejection_review_period }}. You can
+participate in any number of submissions for which you are an author You can participate
+in any number of submissions for which you are an author but not the Presenter.
 
 But see “I can no longer attend CCN 2025. Can my co-author present my poster?”
 
@@ -151,8 +152,9 @@ Since CCN 2025 has two tracks with separate timelines, we allow Presenters to su
 a contribution to each track.
 If both contributions are accepted for presentation at CCN 2025 (*), the Presenter will
 be asked to select one of their contributions for presentation and withdraw the other.
-This selection must be made between {{ config.extra.year2025_extended_abstracts_presenter_selection_period }}, after decisions are
-announced for all tracks.
+This selection must be made between {{
+config.extra.year2025_extended_abstracts_presenter_selection_period }}, after decisions
+are announced for all tracks.
 
 (*) This can occur if a Presenter has both a Proceedings paper and an Extended Abstract
 accepted, or a Presenter’s Proceedings paper is invited to the Extended Abstract track
