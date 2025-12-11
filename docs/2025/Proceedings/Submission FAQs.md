@@ -11,13 +11,13 @@ Please reach out to the Technical Programme Committee
 co-author on your submission.
 Presenters are identified via submission metadata on OpenReview.
 
-However, please note that Presenters need to be unique across both tracks at CCN 2025
-(*i.e.*, an individual can be listed as Presenter on no more than one Proceedings paper
-or Extended Abstract).
-Each Presenter must pay for a registration at CCN 2025. However, we acknowledge that
-things come up: In the event that the Presenter can’t attend CCN 2025 in person, we
-won’t withdraw the work and a co-author can put up the poster; however, the Presenter
-must stay registered.
+Please note that Presenters need to be unique across both tracks at CCN 2025 (*i.e.*, an
+individual can be listed as Presenter on no more than one Proceedings paper or Extended
+Abstract). Each Presenter must pay for a registration at CCN 2025.
+
+We acknowledge that things come up: In the event that the Presenter can't attend CCN
+2025 in person, we won't withdraw the work and a co-author can put up the poster.
+However, the Presenter must stay registered.
 
 ### I can no longer attend CCN 2025. Can my co-author present my talk?
 
@@ -100,15 +100,7 @@ However, note that a code repository takes extra effort to anonymize, and we wil
 desk-reject submissions that accidentally de-anonymize their authors via a linked code
 repository with identifying information.
 
-We recommend [Anonymous GitHub](https://anonymous.4open.science/) as a service that
-helps to anonymize a GitHub-hosted code repository, but we allow links to any hosting
-service as long as they maintain anonymity.
-We suggest including a link to the anonymous repository in a footnote in the PDF.
-
-Please remember to avoid naming the repository or the exact package name if it is
-already publicly available.
-You can add the name and repository URL back in during the post-decision / camera-ready
-phase.
+--8<-- "anonymous-github.md"
 
 ### Do references count towards the 8-page limit?
 
@@ -128,7 +120,7 @@ review at CCN until CCN decisions are released for all tracks ({{
 config.extra.year2025_proceedings_all_decisions }}) to prevent accidental
 de-anonymization during the review process.
 
-### Can I submit my manuscript to another publication venue (*e.g.*, a conference or journal) or submit such a manuscript to the Proceedings track?
+### Can I submit my manuscript to another venue or submit a previously published manuscript?
 
 The Proceedings track does not allow the submission of manuscripts that have been
 published or are under review elsewhere ("concurrent" or “dual” submissions).
@@ -137,16 +129,5 @@ config.extra.year2025_proceedings_proceedings_decisions }}), you may decide to s
 the manuscript to another venue which may have its own policy on prior publication.
 Accepted CCN Proceedings papers will have an assigned DOI, which may affect this
 decision.
-
-### Where can I find more information on the review process?
-
-*For authors:*\
-[Submission guidelines](Submission%20FAQs.md) (**This document!**)\
-[Author response guidelines](Author%20response%20guidelines.md)
-
-*For reviewers and (senior) area chairs:*\
-[Reviewer guidelines](Reviewer%20guidelines.md)\
-[Area chair (AC) guidelines](Area%20chair%20(AC)%20guidelines.md)\
-[Senior area chair (SAC) guidelines](Senior%20area%20chair%20(SAC)%20guidelines.md)
 
 --8<-- "contact-info.md"
