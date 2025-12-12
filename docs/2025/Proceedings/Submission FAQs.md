@@ -2,6 +2,8 @@
 
 --8<-- "prior-version-warning.md"
 
+--8<-- "2025-deadlines.md"
+
 ## Frequently Asked Questions
 
 ### I can no longer attend CCN 2025. Can my co-author present my poster?
@@ -37,14 +39,11 @@ but you have until the 20th to upload the PDF. If you are unsure, we advise you 
 the 17th as an internal deadline.
 
 Everything in the OpenReview submission form is due by the "**abstract registration
-deadline"** {{ config.extra.year2025_proceedings_abstract_deadline }}, anywhere on
-earth, except for the PDF. The PDF is due by the "**full submission deadline"** on {{
-config.extra.year2025_proceedings_submission_deadline }}, anywhere on earth.
+deadline"** [abstract-deadline], anywhere on
+earth, except for the PDF. The PDF is due by the "**full submission deadline"** on [submission-deadline], anywhere on earth.
 It will not be possible to edit the author list, the presenter, or the reciprocal
-reviewer of a submission after {{ config.extra.year2025_proceedings_abstract_deadline
-}}. It will be possible to make edits to other submission metadata (including the title
-and the \~300-word abstract) from Feb 18th to {{
-config.extra.year2025_proceedings_submission_deadline }}, but any major edits (that
+reviewer of a submission after [abstract-deadline]. It will be possible to make edits to other submission metadata (including the title
+and the \~300-word abstract) from Feb 18th to [submission-deadline], but any major edits (that
 substantially change the evidence or contributions of the paper) will result in a desk
 rejection.
 
@@ -52,8 +51,7 @@ rejection.
 
 The two deadlines exist for us to have time to recruit and onboard reviewers signing up
 as part of a submission, while keeping the final (PDF) deadline as late as our timeline
-allows. We suggest thinking about the overall deadline as {{
-config.extra.year2025_proceedings_abstract_deadline }} so you don't miss the abstract
+allows. We suggest thinking about the overall deadline as [abstract-deadline] so you don't miss the abstract
 registration deadline.
 
 ### How should I format the anonymized author block?
@@ -116,16 +114,14 @@ The APA standard is OK, for example.
 Papers to both tracks must be submitted fully anonymized.
 Authors may disseminate their work publicly under their names (e.g., on a preprint
 server), but are asked to refrain from publicizing (*e.g.*, on social media) work under
-review at CCN until CCN decisions are released for all tracks ({{
-config.extra.year2025_proceedings_all_decisions }}) to prevent accidental
+review at CCN until CCN decisions are released for all tracks ([all-decisions]) to prevent accidental
 de-anonymization during the review process.
 
 ### Can I submit my manuscript to another venue or submit a previously published manuscript?
 
 The Proceedings track does not allow the submission of manuscripts that have been
 published or are under review elsewhere ("concurrent" or “dual” submissions).
-However, after we have made a decision on your submission ({{
-config.extra.year2025_proceedings_proceedings_decisions }}), you may decide to submit
+However, after we have made a decision on your submission ([proceedings-decisions]), you may decide to submit
 the manuscript to another venue which may have its own policy on prior publication.
 Accepted CCN Proceedings papers will have an assigned DOI, which may affect this
 decision.

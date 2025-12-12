@@ -2,6 +2,8 @@
 
 --8<-- "prior-version-warning.md"
 
+--8<-- "2025-deadlines.md"
+
 Thank you once again for agreeing to review for CCN! As a Reviewer, you carry the
 important responsibility of evaluating submissions, thereby identifying work that should
 be highlighted at CCN as a Contributed Talk, as well as giving the feedback to other’s
@@ -21,7 +23,7 @@ However, if you recognize a potential **conflict of interest**, please let the T
 straight away so that we can re-assign the manuscript.
 --8<-- "reviewers/reviewer-conflict-of-interest.md"
 
-**{{ config.extra.year2025_extended_abstracts_reviews_due }}, 11:59 PM Anywhere on Earth
+**[ea-reviews-due], 11:59 PM Anywhere on Earth
 (AoE)**, is the reviewing deadline.
 We are counting on you to submit your review(s) on or before this date so that we can
 move onto the next step of the process.
