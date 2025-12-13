@@ -322,7 +322,7 @@ toggle.name = "Switch to light mode"
 
 # Enable snippets to auto-append abbreviation definitions
 [project.markdown_extensions.pymdownx.snippets]
-base_path = ["snippets/"]
+base_path = ["docs/2025/snippets/"]
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
