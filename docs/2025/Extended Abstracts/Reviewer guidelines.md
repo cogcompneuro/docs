@@ -21,10 +21,9 @@ public.
 We have done our best to match reviewers with the most appropriate submissions.
 However, if you recognize a potential **conflict of interest**, please let the TPC know
 straight away so that we can re-assign the manuscript.
---8<-- "reviewers/reviewer-conflict-of-interest.md"
+--8<-- "reviewers/conflict-of-interest.md"
 
-**[ea-reviews-due], 11:59 PM Anywhere on Earth
-(AoE)**, is the reviewing deadline.
+**[ea-reviews-due], 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
 We are counting on you to submit your review(s) on or before this date so that we can
 move onto the next step of the process.
 As stated in the [submission guidelines](Submission%20guidelines.md), if you are a
@@ -46,7 +45,7 @@ who act as the “CCN 2025 Extended Abstracts **Program Chairs**” on OpenRevie
 
 If you note any of the below, please flag them with the TPC.
 
---8<-- "reviewers/reviewer-things-to-flag.md"
+--8<-- "reviewers/things-to-flag.md"
 
 ### Content
 

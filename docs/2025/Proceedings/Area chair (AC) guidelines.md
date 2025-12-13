@@ -81,9 +81,9 @@ Assist reviewers who may feel poorly matched to submissions.
 Address reviewer concerns and assign additional reviewers if necessary to ensure
 thorough evaluation.
 
-Reviews are due **[reviews-due]**. Read all
-reviews carefully. If a review is substandard, you should ask the reviewer to improve
-their review. Please remember to be polite and provide concrete guidance.
+Reviews are due **[reviews-due]**. Read all reviews carefully.
+If a review is substandard, you should ask the reviewer to improve their review.
+Please remember to be polite and provide concrete guidance.
 CCN expects the highest quality in its reviews.
 Please encourage this standard in the reviewers you oversee.
 

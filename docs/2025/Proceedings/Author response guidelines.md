@@ -14,8 +14,7 @@ Dates and deadlines specific to the CCN Proceedings track are:
 
 **Reviews Released:** [reviews-released]
 
-**Author Responses Due:** [[author-response-due],
-11:59 PM Anywhere on
+**Author Responses Due:** [[author-response-due], 11:59 PM Anywhere on
 Earth](https://www.timeanddate.com/worldclock/converter.html?iso=20250415T115900&p1=tz_aoe)
 
 **Author-Reviewer Discussion:** [discussion-period]
@@ -31,9 +30,9 @@ receive a poster. For more details, see the
 
 ### Release of reviews
 
-Reviewers were instructed to submit reviews by [reviews-due], AoE. This was followed by a 2-day
-period in which missing reviews were completed by emergency reviewers so that each
-Proceedings submission received at least 3 quality reviews.
+Reviewers were instructed to submit reviews by [reviews-due], AoE. This was followed by
+a 2-day period in which missing reviews were completed by emergency reviewers so that
+each Proceedings submission received at least 3 quality reviews.
 Reviews were released to authors on **[reviews-released]**.
 
 ### Review content
@@ -82,9 +81,9 @@ Once reviews are released, you are invited to write an author response (AKA a
 “Rebuttal”) to **each individual review**. To do this, you can write a response under
 each official review by clicking the button “**Rebuttal**” ([Figure
 1](#figure-1.-add-rebuttal)) in the lower right corner of each review.
-The deadline for submitting these author responses is **[author-response-due]**. You must write an author
-response before this date to participate in any follow-up discussion during the
-author-reviewer discussion period that immediately follows.
+The deadline for submitting these author responses is **[author-response-due]**. You
+must write an author response before this date to participate in any follow-up
+discussion during the author-reviewer discussion period that immediately follows.
 
 Each of these text responses has a 2500 character limit.
 Please ensure your responses are productive and respectful of the reviewer’s opinions
@@ -106,7 +105,8 @@ selecting “**Author Response Revision**” ([Figure 2](#figure-2.-edit-submiss
 however, that you should not add new results, unless directly requested by a reviewer
 (e.g., minor additional statistical analyses).
 Revisions can be uploaded as soon as reviews are released.
-The deadline for revising the submission PDF is the same as the author responses, **[author-response-due]**.
+The deadline for revising the submission PDF is the same as the author responses,
+**[author-response-due]**.
 
 The 8-page limit still applies to the main text at this stage.
 Significant violations (of more than a paragraph) of the 8-page main text limit in a
@@ -120,12 +120,12 @@ your text response).
 
 ### Author-reviewer discussion period
 
-Reviewers are encouraged to respond to author responses immediately after [author-response-due], AoE to facilitate timely
-interaction between authors and reviewers.
-An additional week, starting [discussion-period],
-is exclusively reserved for author-reviewer discussion **based on the author response**.
-In this period, authors can make one more concise response to reviewer comments, but no
-longer update the paper PDF. The author-reviewer discussion closes on **[discussion-period]**.
+Reviewers are encouraged to respond to author responses immediately after
+[author-response-due], AoE to facilitate timely interaction between authors and
+reviewers. An additional week, starting [discussion-period], is exclusively reserved for
+author-reviewer discussion **based on the author response**. In this period, authors can
+make one more concise response to reviewer comments, but no longer update the paper PDF.
+The author-reviewer discussion closes on **[discussion-period]**.
 
 This post-review discussion period is meant as a wrap-up to any discussion between the
 authors and the reviewers, and to give reviewers the option to update their reviews and
@@ -139,7 +139,8 @@ comment.
 
 Based on the reviews and the author rebuttals, ACs and SACs will write meta-reviews and
 recommend Proceedings paper rejection or acceptance, which will receive final review
-from the TPC and the PC. Decisions and meta-reviews will be released on **[proceedings-decisions]**.
+from the TPC and the PC. Decisions and meta-reviews will be released on
+**[proceedings-decisions]**.
 
 Furthermore, a small subset of accepted papers will be invited to present a Contributed
 Talk, which will be announced in June.
