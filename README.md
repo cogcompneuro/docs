@@ -21,7 +21,7 @@ For other installation methods, see the
 To serve the documentation locally:
 
 ```sh
-uv run zensical serve
+uvx zensical serve
 ```
 
 The site will be available at `http://127.0.0.1:8000/docs/`.
