@@ -65,16 +65,16 @@ Authors in this category who fail to finish reviews by the author response stage
 
 ### There seem to be two deadlines, which one…
 
-**tl;dr:** On the 17th we need your title, author list, and abstract (paper summary),
-but you have until the 20th to upload the PDF. If you are unsure, we advise you to keep
-the 17th as an internal deadline.
+**tl;dr:** On [abstract-deadline] we need your title, author list, and abstract (paper summary),
+but you have until [submission-deadline] to upload the PDF. If you are unsure, we advise you to keep
+[abstract-deadline] as an internal deadline.
 
 Everything in the OpenReview submission form is due by the "**abstract registration
 deadline"** [abstract-deadline], anywhere on
 earth, except for the PDF. The PDF is due by the "**full submission deadline"** on [submission-deadline], anywhere on earth.
 It will not be possible to edit the author list, the presenter, or the reciprocal
 reviewer of a submission after [abstract-deadline]. It will be possible to make edits to other submission metadata (including the title
-and the \~300-word abstract) from Feb 18th to [submission-deadline], but any major edits (that
+and the \~300-word abstract) from [abstract-deadline-plus-one] to [submission-deadline], but any major edits (that
 substantially change the evidence or contributions of the paper) will result in a desk
 rejection.
 

@@ -1,5 +1,6 @@
 <!-- Deadline variables -->
 [abstract-deadline]: # "Feb 17, 2025"
+[abstract-deadline-plus-one]: # "Feb 18, 2025"
 [submission-deadline]: # "Feb 20, 2025"
 [review-period]: # "Mar 4 - Mar 31, 2025"
 [reviews-due]: # "Mar 31, 2025"

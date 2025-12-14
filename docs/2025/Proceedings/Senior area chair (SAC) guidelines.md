@@ -26,7 +26,7 @@ final decisions.
 | :--- | :--- | :--- |
 | Reviews Due |  | [reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
 | Author Responses Due |  | [author-response-due], 11:59 PM (Anywhere on Earth; AoE) |
-| Author - Reviewer Discussion | (rebuttal period starts at the 3rd of april) | [discussion-period] |
+| Author - Reviewer Discussion | (rebuttal period starts [reviews-released]) | [discussion-period] |
 | Meta Review Discussion |  | [meta-review-period] |
 | Paper Decisions Released |  | [proceedings-decisions] |
 | Author Response Period | Reviews released to authors. Authors must write a complete "author response" to reviewer comments. Authors are invited to submit a revised PDF but cannot add new results (unless directly requested by reviewers). | [author-response-period] |
@@ -89,7 +89,9 @@ final decisions.
 
 - Submissions where the reciprocal reviewer failed to submit should be rejected
 
-### Author-reviewer discussion Phase (april 15 - april 21)
+### Author-reviewer discussion Phase
+
+*[discussion-period]*
 
 1. **Ensure ACs initiate reviewer-author discussions:**
 
@@ -122,7 +124,9 @@ final decisions.
    - Use the built-in discussion summary feature to track key points raised in longer
      discussions
 
-## Metareview Phase (april 22 - may 5)
+## Metareview Phase
+
+*[meta-review-period]*
 
 1. **Guide metareview process**
 
@@ -149,7 +153,9 @@ final decisions.
      - Provide feedback directly in OpenReview by adding comments visible only to the
        AC.
 
-## Decision Phase (may 7 - may 19)
+## Decision Phase
+
+*[final-decisions-period]*
 
 1. Review decisions suggested by Area Chairs.
    Potentially meet with program chairs to finalize decisions.
@@ -163,7 +169,7 @@ final decisions.
 
    - Update meta-reviews to accurately reflect the final decision.
 
-2. Notification: at the 13th of may,
+2. Notification: [proceedings-decisions]
 
 ### General Guidelines
 
