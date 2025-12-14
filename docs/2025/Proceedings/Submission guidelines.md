@@ -4,6 +4,19 @@
 
 --8<-- "2025-deadlines.md"
 
+![CCN 2025 Submissions Flowchart](../assets/ccn25_submissions.png)
+
+## Templates
+
+LaTeX template: [CCN 2025 8-Page Abstract Template](https://2025.ccneuro.org/documents/CCN2025_8pager.zip)
+
+Google Docs / Microsoft Word templates:
+
+- [Anonymized template](https://docs.google.com/document/d/1cYS_J6NmscsBgBRpON7rR-1XuWwRSOVwPMCyFK34dNU/edit?usp=sharing)
+- [De-anonymized template](https://docs.google.com/document/d/1GGlEjL5l9x5iDS4f_D4tLmTQlfL672r-wYPxjiKAMUc/)
+
+## Submission process
+
 Submissions to the Proceedings track consist of an 8-page PDF plus associated metadata submitted via the OpenReview platform.
 
 Each submission requires at least one author to register as a Reciprocal Reviewer. You are an eligible Reciprocal Reviewer if you have received a PhD. The manuscript will not be considered for a Contributed Talk if the Reciprocal Reviewer fails to fulfill their reviewing responsibilities with due diligence, and the CCN-P paper is desk rejected.
