@@ -6,15 +6,6 @@
 
 ![CCN 2025 Submissions Flowchart](../assets/ccn25_submissions.png)
 
-## Templates
-
-LaTeX template: [CCN 2025 8-Page Abstract Template](https://2025.ccneuro.org/documents/CCN2025_8pager.zip)
-
-Google Docs / Microsoft Word templates:
-
-- [Anonymized template](https://docs.google.com/document/d/1cYS_J6NmscsBgBRpON7rR-1XuWwRSOVwPMCyFK34dNU/edit?usp=sharing)
-- [De-anonymized template](https://docs.google.com/document/d/1GGlEjL5l9x5iDS4f_D4tLmTQlfL672r-wYPxjiKAMUc/)
-
 ## Submission process
 
 Submissions to the Proceedings track consist of an 8-page PDF plus associated metadata submitted via the OpenReview platform.
@@ -26,7 +17,16 @@ Papers undergo rigorous peer review and will have a rebuttal period during which
 
 Accepted Proceedings papers receive a publication in CCN Proceedings (CCN-P) with DOI assignment, are presented as posters, may be selected for a Contributed Talk, and have reviews that will be made public on OpenReview. Rejected Proceedings papers will be converted to a regular poster, if within scope and if the authors submit a 2-page abstract. These papers may also be selected for Contributed Talks, for which the reviews of the Proceedings process will be used. The original Proceedings submission will not be made publicly visible.
 
-### Reviewers
+### Templates
+
+LaTeX template: [CCN 2025 8-Page Abstract Template](https://2025.ccneuro.org/documents/CCN2025_8pager.zip)
+
+Google Docs / Microsoft Word templates:
+
+- [Anonymized template](https://docs.google.com/document/d/1cYS_J6NmscsBgBRpON7rR-1XuWwRSOVwPMCyFK34dNU/edit?usp=sharing)
+- [De-anonymized template](https://docs.google.com/document/d/1GGlEjL5l9x5iDS4f_D4tLmTQlfL672r-wYPxjiKAMUc/)
+
+### Reciprocal reviewer policy
 
 --8<-- "reviewers/pool-size.md"
 

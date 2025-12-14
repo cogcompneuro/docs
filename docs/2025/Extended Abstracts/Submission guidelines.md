@@ -4,15 +4,6 @@
 
 --8<-- "2025-deadlines.md"
 
-## Templates
-
-LaTeX template: [CCN 2025 2-Page Abstract Template](https://2025.ccneuro.org/documents/CCN2025_2pager.zip)
-
-Google Docs / Microsoft Word templates:
-
-- [Anonymized template](https://docs.google.com/document/d/1ByX-sqfvQiH4JvOez66zq2P9N3lPF1EGmtEKTCQ-ppA/edit?usp=sharing)
-- [De-anonymized template](https://docs.google.com/document/d/1wbRGKQNJPgoqvgYsnKFhxfMtEFav66helL8rff0epdE/)
-
 ## Submission process
 
 Submissions to the Extended Abstract track consist of a 2-page PDF plus associated
@@ -39,7 +30,16 @@ Rejected Extended Abstracts will not be made publicly visible.
 
 This track largely maintains CCN's established approach to scientific communication.
 
-### Reviewers
+### Templates
+
+LaTeX template: [CCN 2025 2-Page Abstract Template](https://2025.ccneuro.org/documents/CCN2025_2pager.zip)
+
+Google Docs / Microsoft Word templates:
+
+- [Anonymized template](https://docs.google.com/document/d/1ByX-sqfvQiH4JvOez66zq2P9N3lPF1EGmtEKTCQ-ppA/edit?usp=sharing)
+- [De-anonymized template](https://docs.google.com/document/d/1wbRGKQNJPgoqvgYsnKFhxfMtEFav66helL8rff0epdE/)
+
+### Reciprocal reviewer policy
 
 --8<-- "reviewers/pool-size.md"
 
