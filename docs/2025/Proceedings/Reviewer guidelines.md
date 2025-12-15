@@ -4,15 +4,15 @@
 
 --8<-- "2025-deadlines.md"
 
-Thank you once again for agreeing to review for CCN! As a Reviewer, you carry the
-important responsibility of evaluating submissions, thereby identifying work that should
-be included and highlighted at CCN as well as giving the feedback to other’s work that
-is vital to the scientific process.
-In order to create a review process that yields the highest quality, as a grass-roots
-organization, we have adopted a system that is more common at machine learning
-conferences. As this is the first CCN Proceedings track, the timeline and guidelines may
-evolve. We appreciate your understanding and patience as we develop this new process for
-CCN.
+Thank you once again for agreeing to review for CCN!
+
+--8<-- "thanks-proceedings.md"
+
+## Role
+
+As a Reviewer, you carry the important responsibility of evaluating submissions, thereby
+identifying work that should be included and highlighted at CCN as well as giving the
+feedback to other's work that is vital to the scientific process.
 
 Each submission to the CCN 2025 Proceedings will receive at least 3 high-quality reviews
 from Reviewers like yourself.
@@ -25,115 +25,105 @@ Your area chair will in turn be supervised by a **Senior Area Chair (SAC)**. You
 communications with authors, other reviewers and area chairs will take place via
 OpenReview.
 
-## Assignment
+## OpenReview Console
 
-We have done our best to match reviewers with the most appropriate submissions.
-However, if you find that a manuscript assigned to you is too far outside of your **area
-of expertise**, or if you recognize a potential **conflict of interest**; please let
-your AC or the TPC know straight away so that we can re-assign the manuscript.
---8<-- "reviewers/conflict-of-interest.md"
+--8<-- "openreview/console.md"
+
+![OpenReview screenshot](../assets/reviewer-interface.png)
+
+### Setting comment visibility
+
+--8<-- "openreview/comment-visibility.md"
+
+## Timeline
+
+| Period | Reviewer responsibilities | Dates |
+| :--- | :--- | :--- |
+| [Assignment](#assignment) | Reviewers are matched with submissions. Ensure no conflicts of interest. | [review-period] |
+| [Review Period](#reviews) | Submit reviews for all assigned papers. | [review-period] |
+| Reviews Due |  | [reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
+| Author Response | Reviews released to authors. Authors submit responses to reviewer comments. | [author-response-period] |
+| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
+| [Discussion](#discussion) | Engage with authors and update your review based on their response. | [discussion-period] |
+| Paper Decisions Released |  | [proceedings-decisions] |
+
+### Assignment
+
+*[review-period]*
+
+--8<-- "reviewers/assignment-intro-proceedings.md"
+
+--8<-- "openreview/email-profile-reminder.md"
+
+#### Review deadline
 
 **[reviews-due], 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
 We are counting on you to submit your review(s) on or before this date so that we can
 move onto the next step of the process.
+
+#### Reciprocal reviewers
+
 As stated in the [submission guidelines](Submission%20FAQs.md), if you are a
 **Reciprocal Reviewer** (reviewing as part of a proceedings submission) and do not
 submit all assigned reviews by the author response stage, the relevant submissions may
 be desk-rejected and may not be considered for Contributed Talk when converted to the
 Extended Abstracts track.
 
-## OpenReview
+### Reviews
 
-- The reviewer console provides an overview of all papers assigned to you.
+*[review-period]*
 
-- By posting comments you can contact your Area Chair (see below).
+As a reviewer, you will evaluate submissions assigned to you and provide high-quality
+feedback to help identify work that should be included and highlighted at CCN.
 
-![OpenReview screenshot](../assets/reviewer-interface.png)
+--8<-- "reviewers/review-form.md"
 
-## Review
+#### Things to flag
 
-### Things to look out for
+--8<-- "reviewers/things-to-flag-proceedings.md"
 
-If you note any of the below, please flag them with your AC or with the TPC.
+### Discussion
 
---8<-- "reviewers/things-to-flag.md"
-
-### Content
-
-- Title: Briefly summarize your perspective on this manuscript
-
-- Rate the submission on the following criteria (details on the scales in the review
-  form):
-
-  - **Interest**: To what extent is this relevant to the CCN community?
-    Is this relevant to a specific subfield or of general interest to a broad audience?
-    What is the contribution and novelty of the findings?
-
-  - **Soundness**: Does the evidence support the claims?
-    Are the right methods used?
-
-  - **Clarity**: Is this clearly communicated?
-    Are the methods explained in a way that facilitates reproducibility?
-
-  - **Confidence**: How familiar are you with the relevant literature?
-    Is your knowledge sufficient to understand the manuscript?
-
-- Comments: This is a long text field where you can write your review.
-
-  - You can incorporate Markdown and Latex into the comments section.
-
-  - Summarize the manuscript's claims and approach.
-
-  - List strengths and limitations of the manuscript
-
-  - Be sure to cover the dimensions above (Interest, Soundness, Clarity) and motivate
-    your rating. It can also be helpful to explain why you don't believe a higher or
-    lower rating is appropriate.
-
-  - Note any questions you have for the authors, or requests to clarify something, that
-    could be helpful for authors when presenting the work at CCN.
-
-  - Make suggestions for improvement of the work.
-
-## Discussion
+*[discussion-period]*
 
 After reviews are in, authors will be given the opportunity to respond to their reviews,
 and then a conversation follows.
 Engage with the authors regardless of your evaluation of the manuscript.
 
-After this, please update your review and explain how and why the author’s response has
-or hasn’t affected your evaluation.
+After this, please update your review and explain how and why the author's response has
+or hasn't affected your evaluation.
 Based on your review, the AC and SAC will come to a recommendation on whether the
 manuscript is accepted for publication in the CCN proceedings.
 The program committee will also use these to determine which submissions will be asked
 to present the work in the form of a talk.
 
-## General guidelines
+## Policies
 
-- **Confidentiality;** do not discuss, distribute or use ideas, content or code of the
-  submissions you review.
-  (Except for discussions with the author or AC of the submission).
-  Reviews are double-blind; authors and other reviewers do not know your identity, but
-  ACs do.
+### Availability
 
-- The use of **LLMs** or other automated tools for text generation are prohibited during
-  the review process. **Inputting a paper submission into such a tool is a violation of
-  confidentiality.**
+--8<-- "policies/availability.md"
 
-- Abide by the CCN **Code of Conduct**
-  ([https://2025.ccneuro.org/code-of-conduct/](https://2025.ccneuro.org/code-of-conduct/)).
+If you are unable to meet these expectations, please let your AC or
+[the TPC](#contact-info) know as soon as possible.
 
-- Take part in an active, polite and constructive manner.
+### Kindness
 
-- **Interdisciplinarity**: Keep in mind that a submission may have greater affinity with
-  a domain other than yours.
+--8<-- "policies/kindness.md"
 
-- Please note that all reviews and meta-reviews of accepted papers will be made
-  **public**.
+--8<-- "reviewers/common-policies.md"
 
-Lastly, despite our best efforts to plan this year’s process, this is very much a new
-endeavour and therefore the timeline and guidelines may shift now and then.
-So please keep an eye on our communications and we ask for your understanding and
-patience as we keep developing CCN.
+### Anonymization
+
+--8<-- "policies/blinding.md"
+
+However, ACs do know your identity.
+
+### Interdisciplinarity
+
+--8<-- "policies/interdisciplinarity.md"
+
+### Flexibility
+
+--8<-- "policies/flexibility.md"
 
 --8<-- "contact-info.md"

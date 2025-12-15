@@ -5,11 +5,10 @@
 --8<-- "2025-deadlines.md"
 
 Thank you for serving as an Area Chair (AC) for the first ever CCN Proceedings track!
-In order to create a review process that yields the highest quality, as a grass-roots
-organization, we have adopted a system that is more common at machine learning
-conferences. As this is the first CCN Proceedings track, the timeline and guidelines may
-evolve. We appreciate your understanding and patience as we develop this new process for
-CCN.
+
+--8<-- "thanks-proceedings.md"
+
+## Role
 
 As AC, your job is to ensure that all the submissions you are assigned have high quality
 reviews and good discussions.
@@ -17,56 +16,47 @@ You should become familiar with the contents of all your submissions and are res
 for making the initial decision recommendation in the form of a **meta-review**, with
 guidance from your senior area chair (SAC).
 
-## Overview of CCN-P Stages
-
-| Task | Subtask | Dates |
-| :--- | :--- | :--- |
-| Reviews Due |  | [reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
-| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
-| **Meta Review Due** | (**the main deadline for ACs**) | **[meta-review-due], 11:59 PM (AoE)** |
-| Paper Decisions Released |  | [proceedings-decisions] |
-| [Review Period](#reviews) | TPC & ACs ensure all papers have at least 3 reviews. Author responses will open when all papers have at least 3 reviews. | [review-period] |
-| Author Response | Reviews released to authors. Authors must write a complete "author response" to reviewer comments. Authors are invited to submit a revised PDF but cannot add new results (unless directly requested by reviewers). | [author-response-period] |
-| Author-Review Discussion | Authors can continue to interact with reviewers (short responses only) while ACs oversee. At the end of this period, reviewers submit a "final recommendation" after considering the author's response. This is visible only to ACs. | [discussion-period] |
-| [Meta-Review](#meta-reviews) [Period](#meta-reviews) | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
-| Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
-| Paper decisions released | (Note that for papers that are not accepted, authors will be invited to submit a Extended Abstract, details TBD). | [proceedings-decisions] |
-
 ## OpenReview Console
 
-For a quickstart on how to use the OpenReview forums, see \[“Using the New Forum
-Page”\]([https://docs.openreview.net/getting-started/using-the-new-forum-page](https://docs.openreview.net/getting-started/using-the-new-forum-page)).
+--8<-- "openreview/console.md"
 
-- The AC console provides an overview of all papers assigned to your reviewers
+### Setting comment visibility
 
-- Use the console to track review progress, deadlines, and discussion status
+--8<-- "openreview/comment-visibility.md"
 
-- The console allows you to filter papers by status (e.g., “Missing Reviews,” “Ready for
-  Decision”)
+## Timeline
 
-- By posting comments you can contact reviewers and Senior Area Chairs (see below).
+| Period | AC responsibilities | Dates |
+| :--- | :--- | :--- |
+| [Assignment](#assignment) | ACs are matched with submissions. Ensure no conflicts of interest. | [review-period] |
+| [Review Period](#reviews) | TPC & ACs ensure all papers have at least 3 reviews. Author responses will open when all papers have at least 3 reviews. | [review-period] |
+| Reviews Due |  | [reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
+| Author Response | Reviews released to authors. Authors must write a complete "author response" to reviewer comments. Authors are invited to submit a revised PDF but cannot add new results (unless directly requested by reviewers). | [author-response-period] |
+| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
+| [Author-Review Discussion](#discussion) | Authors can continue to interact with reviewers (short responses only) while ACs oversee. At the end of this period, reviewers submit a "final recommendation" after considering the author's response. This is visible only to ACs. | [discussion-period] |
+| [Meta-Review Period](#meta-reviews) | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
+| **Meta Review Due** | (**the main deadline for ACs**) | **[meta-review-due], 11:59 PM (AoE)** |
+| Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
+| Paper Decisions Released | (Note that for papers that are not accepted, authors will be invited to submit a Extended Abstract, details TBD). | [proceedings-decisions] |
 
-## Details of the CCN-P Stages
-
-## Assignment
+### Assignment
 
 *[review-period]*
 
 We have done our best to match ACs with the most appropriate submissions.
 However, if you find that a manuscript assigned to you is too far outside of your **area
 of expertise**, or if you recognize a potential **conflict of interest**; please let
-your SAC or the TPC know straight away so that we can re-assign the manuscript.
-A conflict of interest arises when an author on one of your assigned submissions is a
-current or former advisor, family or a close personal relationship, a current or recent
-collaborator; or someone who works in your current or recent immediate organization, or
-when you have a financial interest in the work.
+your SAC or the TPC know straight away so that we can re-assign the manuscript by
+posting a comment on the OpenReview forum for the submission with the readers set to
+your **Senior Area Chair** and **the TPC** (see
+[Setting comment visibility](#setting-comment-visibility)).
 
-In addition, please make sure that your OpenReview profile has your **latest email**
-listed and keep an eye on emails possibly landing in spam.
+--8<-- "openreview/email-profile-reminder.md"
+
 Also, make sure that every submission in your batch is matched with suitable reviewers
 whom you can trust on this submission, ideally with a diverse set of opinions.
 
-## Reviews
+### Reviews
 
 *[review-period]*
 
@@ -89,20 +79,11 @@ Please encourage this standard in the reviewers you oversee.
 
 ***Please make sure reviewers complete their reviews on time.***
 
-Reviewers are instructed to look out for the following in their submissions.
-If you note any of the below, please escalate them with your SAC or the program chairs.
+#### Things to flag
 
-- Breaches of **anonymity**: If you find that the identity of the authors is revealed,
-  names, affiliations, can be found in the text, in included or linked supplementary
-  material
+--8<-- "reviewers/things-to-flag-proceedings.md"
 
-- **Ethical Concerns**: This includes for instance harm, injury, or unfair bias
-
-- **Dual submission**: Submissions that are identical or substantially similar to papers
-  that are under review, have been accepted to, or have been published in other archival
-  conferences and journals should be deemed dual submissions.
-
-## Discussion
+### Discussion
 
 *[discussion-period]*
 
@@ -116,7 +97,7 @@ responses. Also, make sure that authors address critical concerns raised by the
 reviewers.You can follow up with authors / reviewers publicly or privately by
 restricting the visibility of your comments in the OpenReview platform.
 
-## Meta-reviews
+### Meta-reviews
 
 *[meta-review-period]*
 
@@ -143,7 +124,7 @@ borderline papers where no one confidently expresses excitement, nor are any maj
 problems identified.
 These are the tough decisions where we need your judgment!
 
-### Meta-review format
+#### Meta-review format
 
 As an AC, we trust you to make an informed recommendation based on sufficient knowledge
 and justified analysis of the paper, and to clearly and thoroughly convey this
@@ -166,7 +147,7 @@ We ask you to provide the following in the meta review form on OpenReview:
    basis of the content in and the engagement around the submission (*i.e.*, the points
    you described above).
 
-### Example meta-reviews
+#### Example meta-reviews
 
 TPC has crafted two generic examples below to demonstrate the content and level of
 detail expected in a meta-review.
@@ -178,7 +159,7 @@ weakens the central claim of the submission”). The latter is much preferred, b
 make the meta-review more verifiable by your SAC and the TPC, and more actionable for
 the authors for the next revision.
 
-#### Example 1
+##### Example 1
 
 **CCN Recommendation**: Invite to Extended Abstracts
 
@@ -211,7 +192,7 @@ different analysis steps.
 In its current form, it does not seem suitable for the CCN Proceedings format.
 This decision was discussed with and approved by the SAC.
 
-#### Example 2
+##### Example 2
 
 **CCN Recommendation**: Accept as Proceedings
 
@@ -240,42 +221,38 @@ comments made by the reviewers.
 Taken together, the overall assessment of the reviewers was positive and therefore, the
 AC is happy to recommend acceptance.
 
-## General guidelines
+## Policies
 
-- Please ensure your availability and engagement during a significant chunk of the
-  discussion and decision-making periods.
-  If you are unable to do so, please let your SAC know of your constraints by posting an
-  **Official Comment**.
+### Availability
 
-- **Ethical Concerns**: If you notice unethical behavior involving authors or reviewers
-  assigned to you, please notify your SAC.
+--8<-- "policies/availability.md"
 
-- **Confidentiality;** do not discuss, distribute or use ideas, content or code of the
-  submissions. (Except for discussions with the authors and reviewers of the submission).
-  Reviews are double-blind; authors and reviewers do not know each others’ identity; but
-  your reviewers and your SAC do know yours.
-  In general, your primary point of contact for any discussions should be your SAC. Your
-  SAC does not have any conflicts with any of the submissions that are assigned to you.
+If you are unable to meet these expectations, please let your SAC know of your
+constraints by posting an **Official Comment**.
 
-- The use of **LLMs** or other automated tools for text generation are prohibited during
-  the review process. **Inputting a paper submission into such a tool is a violation of
-  confidentiality.**
+### Kindness
 
-- Abide by the CCN **Code of Conduct**
-  ([https://2025.ccneuro.org/code-of-conduct/](https://2025.ccneuro.org/code-of-conduct/)).
+--8<-- "policies/kindness.md"
 
-- Take part in an active, polite and constructive manner.
+### Conflicts of interest
 
-- Please note that all reviews and meta-reviews of accepted papers will be made
-  **public**.
+--8<-- "policies/conflict-of-interest.md"
 
-Lastly, despite our best efforts to plan this year’s process, this is very much a new
-endeavour and therefore the timeline and guidelines may shift now and then.
-So please keep an eye on our communications, and we ask for your understanding and
-patience as we keep developing CCN.
+If you recognize a potential conflict of interest, please let your SAC or the TPC know
+straight away so that we can re-assign the manuscript by posting a comment on the
+OpenReview forum for the submission with the readers set to your **Senior Area Chair**
+and **the TPC** (see [Setting comment visibility](#setting-comment-visibility)).
+
+--8<-- "reviewers/common-policies.md"
+
+--8<-- "policies/confidentiality-ac-addendum.md"
+
+### Flexibility
+
+--8<-- "policies/flexibility.md"
 
 --8<-- "contact-info.md"
 
 If you have specific questions related to the handling of a particular paper, please
 leave a comment on the OpenReview forum for that paper with the readers set to the
-**Senior Area Chair** and the **Program Chairs**.
+**Senior Area Chair** and [**the TPC**](#contact-info).

@@ -14,7 +14,9 @@ Each submission requires at least one author to register as a Reciprocal Reviewe
 This designated Reciprocal Reviewer must possess appropriate expertise in the field.
 The manuscript will not be considered for a Contributed Talk if the Reciprocal Reviewer
 fails to fulfill their reviewing responsibilities with due diligence.
---8<-- "reviewers/certainty-question.md"
+
+Reviewers will be asked during review how certain they are of their judgement, and their
+level of expertise in the particular subfield of this paper.
 
 Abstracts undergo light peer review.
 The review procedure will be comparable to earlier CCNs, but the number of reviewers per
@@ -30,14 +32,35 @@ Rejected Extended Abstracts will not be made publicly visible.
 
 This track largely maintains CCN's established approach to scientific communication.
 
-### Templates
+### Formatting requirements
 
-LaTeX template: [CCN 2025 2-Page Abstract Template](https://2025.ccneuro.org/documents/CCN2025_2pager.zip)
+The text, tables and figures of a CCN Extended Abstract submission can be no longer than
+2 pages, excluding references.
+
+#### Abstract
+
+--8<-- "submissions/abstract-guidance.md"
+
+#### Templates
+
+**You must use one of the official CCN 2025 templates listed below.** Use of any other
+template is not permitted and submissions in violation of this requirement will be
+desk-rejected. Please use the anonymized template for your initial submission.
+
+LaTeX template: [CCN 2025 2-Page Abstract
+Template](https://2025.ccneuro.org/documents/CCN2025_2pager.zip)
 
 Google Docs / Microsoft Word templates:
 
 - [Anonymized template](https://docs.google.com/document/d/1ByX-sqfvQiH4JvOez66zq2P9N3lPF1EGmtEKTCQ-ppA/edit?usp=sharing)
+
 - [De-anonymized template](https://docs.google.com/document/d/1wbRGKQNJPgoqvgYsnKFhxfMtEFav66helL8rff0epdE/)
+
+### Double-blind review
+
+--8<-- "policies/double-blind-anonymization.md"
+
+--8<-- "policies/code-anonymization.md"
 
 ### Reciprocal reviewer policy
 
@@ -45,6 +68,7 @@ Google Docs / Microsoft Word templates:
 
 Authors in this category that fail to finish reviews by the author response stage will
 not be considered for a Contributed Talk.
+
 --8<-- "reviewers/exemption.md"
 
 ### Use of large language models
@@ -123,25 +147,11 @@ We will desk-reject submissions in violation of this requirement between
 [ea-desk-rejection-period]. You can participate in any number of submissions for which
 you are an author but not the Presenter.
 
-But see "I can no longer attend CCN 2025. Can my co-author present my poster?"
-
 ### Can I make an Extended Abstract submission if I have already made a Proceedings submission?
 
 Yes.
-Since CCN 2025 has two tracks with separate timelines, we allow Presenters to submit
-a contribution to each track.
-If both contributions are accepted for presentation at CCN 2025 (*), the Presenter will
-be asked to select one of their contributions for presentation and withdraw the other.
-This selection must be made between [presenter-selection-period], after decisions are
-announced for all tracks.
 
-(*) This can occur if a Presenter has both a Proceedings paper and an Extended Abstract
-accepted, or a Presenter's Proceedings paper is invited to the Extended Abstract track
-after they have submitted a contribution directly to the Extended Abstracts track.
-However, as noted above, we do not allow multiple submissions from a single Presenter to
-the Extended Abstracts track.
-
-But see "I can no longer attend CCN 2025. Can my co-author present my poster?"
+--8<-- "policies/presenter-policy-cross-track.md"
 
 ### Will my extended abstract be copyrighted?
 

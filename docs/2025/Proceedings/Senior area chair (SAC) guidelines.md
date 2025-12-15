@@ -5,24 +5,36 @@
 --8<-- "2025-deadlines.md"
 
 Thank you for serving as a Senior Area Chair (SAC) for the first ever CCN Proceedings
-track! In order to create a review process that yields the highest quality, as a
-grass-roots organization, we have adopted a system that is more common at machine
-learning conferences.
+track!
 
-As this is the first CCN proceedings track, the timeline and guidelines may evolve.
-We appreciate your understanding and patience as we develop this new process for CCN.
+--8<-- "thanks-proceedings.md"
 
-## Role overview
+## Role
 
 As a Senior Area Chair (SAC), you will oversee several Area Chairs (ACs) and ensure the
 review process is fair, thorough, and timely.
 SACs serve as the first point of contact for ACs needing assistance or guidance, help
-calibrate decisions across different ACs, and liaise with the Program Chairs (PCs) for
-final decisions.
+calibrate decisions across different ACs, and liaise with the TPC for final decisions.
 
-## Overview
+## OpenReview Console
 
-| Task | Subtask | Dates |
+--8<-- "openreview/console.md"
+
+### Setting comment visibility
+
+--8<-- "openreview/comment-visibility.md"
+
+### Contacting Area Chairs
+
+If you want to contact an area chair, this is either all area chairs (via area chair
+status and then message) or for a specific submission.
+If you want to contact a specific area chair (and therefore, for a specific submission)
+go to submission status, select the submission to which the AC is connected and press
+Message (see the image below).
+
+## Timeline
+
+| Period | SAC responsibilities | Dates |
 | :--- | :--- | :--- |
 | Reviews Due |  | [reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
 | Author Responses Due |  | [author-response-due], 11:59 PM (Anywhere on Earth; AoE) |
@@ -34,25 +46,6 @@ final decisions.
 | Meta-Review Period | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
 | Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
 | Paper decisions released | (Note that for papers that are not accepted authors will be invited to submit a Extended Abstract, details TBD). | [proceedings-decisions] |
-
-### Openreview & OpenReview Console
-
-- The SAC console provides an overview of all papers assigned to your ACs
-
-- Use the console to track review progress, deadlines, and discussion status
-
-- The console allows you to filter papers by status (e.g., “Missing Reviews,” “Ready for
-  Decision”)
-
-- By posting comments you can contact Area Chairs or even reviewers (this is primarily
-  the job of the area chair).
-
-- If you want to contact an area chair, this is either all area chairs (via area chair
-  status and then message) or for a specific submission.
-
-- If you want to contact a specific area chair (and therefore, for a specific
-  submission) go to submission status, select the submission to which the AC is
-  connected and press Message (see the image below).
 
 ### Review Stage
 
@@ -87,9 +80,7 @@ final decisions.
 
 - Note: Submissions where the reciprocal reviewer failed to submit should be rejected
 
-- Submissions where the reciprocal reviewer failed to submit should be rejected
-
-### Author-reviewer discussion Phase
+### Discussion
 
 *[discussion-period]*
 
@@ -124,7 +115,7 @@ final decisions.
    - Use the built-in discussion summary feature to track key points raised in longer
      discussions
 
-## Metareview Phase
+### Meta-reviews
 
 *[meta-review-period]*
 
@@ -153,12 +144,12 @@ final decisions.
      - Provide feedback directly in OpenReview by adding comments visible only to the
        AC.
 
-## Decision Phase
+### Decisions
 
 *[final-decisions-period]*
 
 1. Review decisions suggested by Area Chairs.
-   Potentially meet with program chairs to finalize decisions.
+   Potentially meet with [the TPC](#contact-info) to finalize decisions.
    Likely there will be (at least) 2 meetings.
    A meeting early in this period so the PCs get an overview of which papers are under
    consideration for publication in CCN-P and a second meeting with multiple SACs to
@@ -171,43 +162,29 @@ final decisions.
 
 2. Notification: [proceedings-decisions]
 
-### General Guidelines
+## Policies
 
-- Be responsive. Respect deadlines and respond to emails as promptly as possible.
-  Make sure that your preferred email address is accurate in your OpenReview profile and
-  that emails from mailto:noreply@openreview.net don’t go to spam.
-  If you will be unavailable (e.g., on vacation) for more than a few days—especially
-  during important windows (e.g., decision-making)—please let the program chairs know as
-  soon as possible.
+### Availability
 
-- Be proactive. It is your responsibility to ensure that the review process goes
-  smoothly. Check in to make sure that the ACs you work with are responsive, help them
-  find emergency reviewers, and make sure discussion is happening on their papers.
+--8<-- "policies/availability.md"
 
-- Be kind. It is important to acknowledge that personal situations may lead to late or
-  unfinished work among reviewers and ACs.
-  In the event that a reviewer or an AC is unable to complete their work on time, we
-  encourage you to be considerate of the personal circumstances; you might have to pick
-  up the slack in some cases.
-  If necessary, make a back-up plan with another reviewer or AC, and be flexible to the
-  extent possible. In all communications, exhibit empathy and understanding.
+### Kindness
 
-- Respect conflicts of interest.
-  Since the reviewing process is double blind at the level of ACs, it is your
-  responsibility to be on the lookout for uncaught conflicts of interest.
-  If you notice a conflict of interest with a submission that is assigned to one of your
-  ACs, contact program chairs right away.
-  Abide by the [CCN code of conduct](https://2025.ccneuro.org/code-of-conduct/).
+--8<-- "policies/kindness.md"
 
-### Confidentiality
+### Conflicts of interest
 
-- Do not talk to other SACs about submissions assigned to your ACs without prior
-  approval from program chairs since other SACs may have conflicts with these
-  submissions. Do not talk to other SACs or ACs about submissions you are an author on or
-  submissions with which you have a conflict of interest.
+--8<-- "policies/conflict-of-interest.md"
 
-- Maintain strict confidentiality for all review materials.
-  Don’t use or share submission content (ideas, results, code) until publicly available.
-  Never distribute submissions outside the OpenReview platform.
+If you notice a conflict of interest with a submission that is assigned to one of your
+ACs, [contact the TPC](#contact-info) right away.
+
+--8<-- "reviewers/common-policies.md"
+
+--8<-- "policies/confidentiality-sac-addendum.md"
+
+### Flexibility
+
+--8<-- "policies/flexibility.md"
 
 --8<-- "contact-info.md"
