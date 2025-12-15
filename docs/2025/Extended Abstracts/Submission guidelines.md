@@ -15,7 +15,7 @@ This designated Reciprocal Reviewer must possess appropriate expertise in the fi
 The manuscript will not be considered for a Contributed Talk if the Reciprocal Reviewer
 fails to fulfill their reviewing responsibilities with due diligence.
 
-Reviewers will be asked during review how certain they are of their judgement, and their
+Reviewers will be asked during review how certain they are of their judgment, and their
 level of expertise in the particular subfield of this paper.
 
 Abstracts undergo light peer review.
@@ -93,7 +93,7 @@ not be considered for a Contributed Talk.
 
 --8<-- "faq/keywords.md"
 
---8<-- "faq/acknowledgements.md"
+--8<-- "faq/acknowledgments.md"
 
 --8<-- "faq/code-linking.md"
 

@@ -15,7 +15,7 @@ Each submission requires at least one author to register as a Reciprocal Reviewe
 You are an eligible Reciprocal Reviewer if you have received a PhD. The manuscript will
 not be considered for a Contributed Talk if the Reciprocal Reviewer fails to fulfill
 their reviewing responsibilities with due diligence, and the CCN-P paper is desk
-rejected. Reviewers will be asked during review how certain they are of their judgement,
+rejected. Reviewers will be asked during review how certain they are of their judgment,
 and their level of expertise in the particular subfield of this paper.
 
 Papers undergo rigorous peer review and will have a rebuttal period during which authors
@@ -92,7 +92,7 @@ Talk when converted to the Extended Abstracts track.
 
 --8<-- "faq/keywords.md"
 
---8<-- "faq/acknowledgements.md"
+--8<-- "faq/acknowledgments.md"
 
 --8<-- "faq/code-linking.md"
 
