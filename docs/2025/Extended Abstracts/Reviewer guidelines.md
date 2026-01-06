@@ -33,14 +33,14 @@ OpenReview.
 
 | Period | Reviewer responsibilities | Dates |
 | :--- | :--- | :--- |
-| [Assignment](#assignment) | Reviewers are matched with submissions. Ensure no conflicts of interest. | [ea-review-period] |
-| [Review Period](#reviews) | Submit reviews for all assigned papers. | [ea-review-period] |
+| [Assignment](#assignment) | Reviewers matched. | [ea-review-period] |
+| [Review Period](#reviews) | Submit reviews. | [ea-review-period] |
 | Reviews Due |  | [ea-reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
 | Paper Decisions Released |  | [ea-decisions] |
 
 ### Assignment
 
-*[ea-review-period]*
+[ea-review-period]
 
 --8<-- "reviewers/assignment-intro-ea.md"
 
@@ -61,7 +61,7 @@ for Contributed Talk.
 
 ### Reviews
 
-*[ea-review-period]*
+[ea-review-period]
 
 As a reviewer, you will evaluate submissions assigned to you and provide high-quality
 feedback to help identify work that should be highlighted at CCN as a Contributed Talk.

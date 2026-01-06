@@ -36,36 +36,36 @@ Message (see the image below).
 
 | Period | SAC responsibilities | Dates |
 | :--- | :--- | :--- |
-| Reviews Due |  | [reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
-| Author Responses Due |  | [author-response-due], 11:59 PM (Anywhere on Earth; AoE) |
-| Author - Reviewer Discussion | (rebuttal period starts [reviews-released]) | [discussion-period] |
+| Reviews Due |  | [reviews-due], 11:59 PM (AoE) |
+| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
+| Author - Reviewer Discussion | Rebuttal period starts. | [discussion-period] |
 | Meta Review Discussion |  | [meta-review-period] |
 | Paper Decisions Released |  | [proceedings-decisions] |
-| Author Response Period | Reviews released to authors. Authors must write a complete "author response" to reviewer comments. Authors are invited to submit a revised PDF but cannot add new results (unless directly requested by reviewers). | [author-response-period] |
-| Author-Review Discussion | Authors can continue to interact with reviewers (short responses only) while ACs oversee. At the end of this period, reviewers submit a "final recommendation" after considering the author's response. This is visible only to ACs. | [discussion-period] |
-| Meta-Review Period | ACs write meta-reviews. SACs & ACs discuss reviews and meta-reviews. | [meta-review-period] |
-| Final Decisions | SACs and TPC finalize acceptances and rejections. SACs (based on AC input) assign paper denominations (talks) | [final-decisions-period] |
-| Paper decisions released | (Note that for papers that are not accepted authors will be invited to submit a Extended Abstract, details TBD). | [proceedings-decisions] |
+| Author Response Period | Authors write responses. | [author-response-period] |
+| Author-Review Discussion | Reviewers submit final recommendation. | [discussion-period] |
+| Meta-Review Period | ACs write meta-reviews. | [meta-review-period] |
+| Final Decisions | Finalize decisions. | [final-decisions-period] |
+| Paper decisions released |  | [proceedings-decisions] |
 
 ### Review Stage
 
-1. **Assist ACs with reviewer assignments in OpenReview**
+#### Assist ACs with reviewer assignments in OpenReview
 
-   - Access paper assignments through your SAC console
+- Access paper assignments through your SAC console
 
-   - Click on “Area Chairs” to see which ACs are assigned to which papers
+- Click on “Area Chairs” to see which ACs are assigned to which papers
 
-   - Ensure each AC has 3-4 qualified reviewers for each paper
+- Ensure each AC has 3-4 qualified reviewers for each paper
 
-   - Use the “Reviewer Assignment” tab to help ACs find appropriate reviewers:
+- Use the “Reviewer Assignment” tab to help ACs find appropriate reviewers:
 
-     - Search for potential reviewers using keywords, expertise, and conflict checks
+  - Search for potential reviewers using keywords, expertise, and conflict checks
 
-     - Recommend potential reviewers to ACs by clicking “Suggest Reviewer”
+  - Recommend potential reviewers to ACs by clicking “Suggest Reviewer”
 
-   - Note that ACs do not have access to author identities
+- Note that ACs do not have access to author identities
 
-2. **Monitor review progress using OpenReview tools**
+#### Monitor review progress using OpenReview tools
 
 - Use the “Review Progress” dashboard to track completion rates
 
@@ -82,71 +82,67 @@ Message (see the image below).
 
 ### Discussion
 
-*[discussion-period]*
+[discussion-period]
 
-1. **Ensure ACs initiate reviewer-author discussions:**
+#### Ensure ACs initiate reviewer-author discussions
 
-   - As soon as the author response is entered in the system, ACs should lead a
-     discussion via OpenReview for each submission and make sure the reviewers engage in
-     the discussion phase.
-     If your assigned ACs have not initiated discussions, prompt them to do so.
-     This one-week phase 1 of the discussions will be primarily for the reviewers to
-     engage with the authors before the closed discussions among the reviewers and ACs.
+- As soon as the author response is entered in the system, ACs should lead a discussion
+  via OpenReview for each submission and make sure the reviewers engage in the
+  discussion phase. If your assigned ACs have not initiated discussions, prompt them to
+  do so. This one-week phase 1 of the discussions will be primarily for the reviewers to
+  engage with the authors before the closed discussions among the reviewers and ACs.
 
-     - Use the “Discussion Status” filter in your SAC console to identify papers without
-       active discussions
+  - Use the “Discussion Status” filter in your SAC console to identify papers without
+    active discussions
 
-     - Verify ACs are posting discussion prompts by checking each paper’s discussion
-       forum
+  - Verify ACs are posting discussion prompts by checking each paper’s discussion forum
 
-     - Prompt inactive ACs by sending direct messages through the “Message Area Chairs”
-       function
+  - Prompt inactive ACs by sending direct messages through the “Message Area Chairs”
+    function
 
-2. **Oversee the AC-reviewer discussions:**
+#### Oversee the AC-reviewer discussions
 
-   - Monitor discussion activity through the “Recent Activity” feed in your console
+- Monitor discussion activity through the “Recent Activity” feed in your console
 
-   - For papers with conflicting reviews (high variance in scores), use the “Flag for
-     Attention” feature
+- For papers with conflicting reviews (high variance in scores), use the “Flag for
+  Attention” feature
 
-   - Participate in discussions where needed by posting comments with visibility set to
-     “Area Chairs and Senior Area Chairs”
+- Participate in discussions where needed by posting comments with visibility set to
+  “Area Chairs and Senior Area Chairs”
 
-   - Use the built-in discussion summary feature to track key points raised in longer
-     discussions
+- Use the built-in discussion summary feature to track key points raised in longer
+  discussions
 
 ### Meta-reviews
 
-*[meta-review-period]*
+[meta-review-period]
 
-1. **Guide metareview process**
+#### Guide metareview process
 
-   - Use the “Meta-Review Status” dashboard to track completion status
+- Use the “Meta-Review Status” dashboard to track completion status
 
-   - Remind ACs to submit preliminary meta-reviews by using the built-in reminder
-     function.
+- Remind ACs to submit preliminary meta-reviews by using the built-in reminder function.
 
-   - Have meetings with the ACs
+- Have meetings with the ACs
 
-     - For one-on-one discussions with ACs
+  - For one-on-one discussions with ACs
 
-     - You can also organize meetings with all ACs at the same time for calibration, but
-       check for conflicts of interest using the “Check Conflicts” tool first.
+  - You can also organize meetings with all ACs at the same time for calibration, but
+    check for conflicts of interest using the “Check Conflicts” tool first.
 
-   - Pay particularly close attention to borderline papers and papers in which the AC’s
-     recommendation goes against the recommendations of the reviewers.
+- Pay particularly close attention to borderline papers and papers in which the AC’s
+  recommendation goes against the recommendations of the reviewers.
 
-   - Read all meta-reviews.
-     Make sure they explain paper decisions to the authors.
-     Meta-reviews should augment the reviews, and explain how the reviews, author
-     responses, and discussion were used to arrive at the decision.
+- Read all meta-reviews.
+  Make sure they explain paper decisions to the authors.
+  Meta-reviews should augment the reviews, and explain how the reviews, author
+  responses, and discussion were used to arrive at the decision.
 
-     - Provide feedback directly in OpenReview by adding comments visible only to the
-       AC.
+  - Provide feedback directly in OpenReview by adding comments visible only to the AC.
 
 ### Decisions
 
-*[final-decisions-period]*
+[final-decisions-period]
 
 1. Review decisions suggested by Area Chairs.
    Potentially meet with [the TPC](#contact-info) to finalize decisions.

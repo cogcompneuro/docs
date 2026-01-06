@@ -135,7 +135,9 @@ text (*i.e.*, it can be single-column).
 
 No.
 
-### Can I submit my manuscript to another venue or submit a previously published manuscript?
+### Can I submit my manuscript to another venue or submit a previously
+
+published manuscript?
 
 The Proceedings track does not allow the submission of manuscripts that have been
 published or are under review elsewhere ("concurrent" or "dual" submissions).

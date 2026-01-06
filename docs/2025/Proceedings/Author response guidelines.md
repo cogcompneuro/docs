@@ -112,7 +112,7 @@ your text response).
 
 ### Discussion
 
-*[discussion-period]*
+[discussion-period]
 
 Reviewers are encouraged to respond to author responses immediately after
 [author-response-due], AoE to facilitate timely interaction between authors and

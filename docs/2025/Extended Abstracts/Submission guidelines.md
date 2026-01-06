@@ -122,7 +122,9 @@ No; the Extended Abstracts track will not allow supplementary material of any ki
 
 No.
 
-### Can I submit my manuscript to another venue or submit a previously published manuscript?
+### Can I submit my manuscript to another venue or submit a previously
+
+published manuscript?
 
 The Extended Abstracts track does not allow the submission of manuscripts that have been
 published elsewhere.
@@ -147,7 +149,9 @@ We will desk-reject submissions in violation of this requirement between
 [ea-desk-rejection-period]. You can participate in any number of submissions for which
 you are an author but not the Presenter.
 
-### Can I make an Extended Abstract submission if I have already made a Proceedings submission?
+### Can I make an Extended Abstract submission if I have already made a
+
+Proceedings submission?
 
 Yes.
 
@@ -157,7 +161,9 @@ Yes.
 
 --8<-- "creative-commons-license.md"
 
-### I was told that my submission has formatting issues and won't be reviewed. Can I revise them and still enter review for a Contributed Talk?
+### I was told that my submission has formatting issues and won't be
+
+reviewed. Can I revise them and still enter review for a Contributed Talk?
 
 Unfortunately we have already started the technical process of starting the review
 process so won't be able to wait for revisions.
