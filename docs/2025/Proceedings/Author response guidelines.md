@@ -4,6 +4,8 @@
 
 --8<-- "2025-deadlines.md"
 
+--8<-- "glossary-definitions.md"
+
 Thank you for submitting your work to the CCN Proceedings track.
 In this document, we outline the Proceedings review and decision processes that are
 relevant to authors of submissions.

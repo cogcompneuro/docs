@@ -4,6 +4,8 @@
 
 --8<-- "2025-deadlines.md"
 
+--8<-- "glossary-definitions.md"
+
 Thank you for serving as an Area Chair (AC) for the first ever CCN Proceedings track!
 
 --8<-- "thanks-proceedings.md"
@@ -94,7 +96,7 @@ everyone’s opinion. Also, try to steer the discussion towards critical aspects
 submission that are helpful for its assessment.
 Please make sure reviewers update their reviews and assessments based on author
 responses. Also, make sure that authors address critical concerns raised by the
-reviewers.You can follow up with authors / reviewers publicly or privately by
+reviewers. You can follow up with authors / reviewers publicly or privately by
 restricting the visibility of your comments in the OpenReview platform.
 
 ### Meta-reviews

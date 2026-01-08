@@ -18,5 +18,5 @@
 [talk-selections]: # "Jun 13, 2025"
 [ea-submission-deadline]: # "Apr 11, 2025"
 [ea-desk-rejection-period]: # "Apr 11 - Apr 14, 2025"
-[ea-review-period]: # "Apr 14 - Apr 18, 2025"
+[ea-review-period]: # "Apr 18 - May 18, 2025"
 [ea-reviews-due]: # "May 18, 2025"

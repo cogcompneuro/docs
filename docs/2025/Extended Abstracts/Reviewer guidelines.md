@@ -4,6 +4,8 @@
 
 --8<-- "2025-deadlines.md"
 
+--8<-- "glossary-definitions.md"
+
 Thank you once again for agreeing to review for CCN!
 
 ## Role
@@ -36,7 +38,6 @@ OpenReview.
 | [Assignment](#assignment) | Reviewers matched. | [ea-review-period] |
 | [Review Period](#reviews) | Submit reviews. | [ea-review-period] |
 | Reviews Due |  | [ea-reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
-| Paper Decisions Released |  | [ea-decisions] |
 
 ### Assignment
 
@@ -55,9 +56,9 @@ move onto the next step of the process.
 #### Reciprocal reviewers
 
 As stated in the [submission guidelines](Submission%20guidelines.md), if you are a
-**Reciprocal Reviewer** (reviewing as part of a proceedings submission) and do not
-submit all assigned reviews by this date, the relevant submissions may not be considered
-for Contributed Talk.
+**Reciprocal Reviewer** (reviewing as part of an Extended Abstract submission) and do
+not submit all assigned reviews by this date, the relevant submission(s) may not be
+considered for a Contributed Talk.
 
 ### Reviews
 
@@ -81,6 +82,8 @@ If you note any of the following in your submissions, please flag them with the 
 ### Anonymization
 
 --8<-- "policies/blinding.md"
+
+Only the [TPC] knows your identity as a reviewer.
 
 ### Interdisciplinarity
 

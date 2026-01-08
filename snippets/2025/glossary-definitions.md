@@ -1,0 +1,11 @@
+<!-- Terminology hover definitions -->
+[CCN-P]: # "CCN Proceedings - the peer-reviewed publication track with DOI assignment"
+[TPC]: # "Technical Programme Committee - the organizing committee overseeing the review process"
+[desk-rejected]: # "Rejected before peer review due to formatting issues, policy violations, or being out of scope"
+[desk rejection]: # "Rejection before peer review due to formatting issues, policy violations, or being out of scope"
+[desk-rejection]: # "Rejection before peer review due to formatting issues, policy violations, or being out of scope"
+[Contributed Talk]: # "An oral presentation selected from accepted submissions based on reviewer assessments"
+[Contributed Talks]: # "Oral presentations selected from accepted submissions based on reviewer assessments"
+[EA]: # "Extended Abstract - the 2-page submission track with light peer review"
+[AC]: # "Area Chair - oversees reviewers and writes meta-reviews for assigned submissions"
+[SAC]: # "Senior Area Chair - oversees Area Chairs and helps calibrate decisions"

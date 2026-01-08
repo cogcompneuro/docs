@@ -9,6 +9,9 @@ decisions are announced for all tracks.
 (*) This can occur if a Presenter has both a Proceedings paper and an Extended
 Abstract accepted, or a Presenter's Proceedings paper is invited to the
 Extended Abstract track after they have submitted a contribution directly to
-the Extended Abstracts track.
+the Extended Abstracts track. In these cases, the Presenter can choose which
+contribution to present, or identify an alternative Presenter for one of the
+works.
+
 However, we do not allow multiple submissions from a single Presenter to the
 Extended Abstracts track.

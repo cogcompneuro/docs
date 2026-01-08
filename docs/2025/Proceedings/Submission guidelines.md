@@ -4,6 +4,8 @@
 
 --8<-- "2025-deadlines.md"
 
+--8<-- "glossary-definitions.md"
+
 ![CCN 2025 Submissions Flowchart](../assets/ccn25_submissions.png)
 
 ## Submission process

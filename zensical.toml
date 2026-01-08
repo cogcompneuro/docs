@@ -46,6 +46,7 @@ Copyright &copy; 2026 CCN
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "Get started" = "index.md" },
+  { "Glossary" = "glossary.md" },
   { "2025" = [
     { "Proceedings" = [
       { "Submission guidelines" = "2025/Proceedings/Submission guidelines.md" },

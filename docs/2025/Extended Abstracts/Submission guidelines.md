@@ -4,6 +4,8 @@
 
 --8<-- "2025-deadlines.md"
 
+--8<-- "glossary-definitions.md"
+
 ## Submission process
 
 Submissions to the Extended Abstract track consist of a 2-page PDF plus associated

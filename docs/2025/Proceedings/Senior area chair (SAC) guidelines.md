@@ -4,6 +4,8 @@
 
 --8<-- "2025-deadlines.md"
 
+--8<-- "glossary-definitions.md"
+
 Thank you for serving as a Senior Area Chair (SAC) for the first ever CCN Proceedings
 track!
 
@@ -37,15 +39,12 @@ Message (see the image below).
 | Period | SAC responsibilities | Dates |
 | :--- | :--- | :--- |
 | Reviews Due |  | [reviews-due], 11:59 PM (AoE) |
-| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
-| Author - Reviewer Discussion | Rebuttal period starts. | [discussion-period] |
-| Meta Review Discussion |  | [meta-review-period] |
-| Paper Decisions Released |  | [proceedings-decisions] |
 | Author Response Period | Authors write responses. | [author-response-period] |
-| Author-Review Discussion | Reviewers submit final recommendation. | [discussion-period] |
+| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
+| Author-Reviewer Discussion | Reviewers submit final recommendation. | [discussion-period] |
 | Meta-Review Period | ACs write meta-reviews. | [meta-review-period] |
 | Final Decisions | Finalize decisions. | [final-decisions-period] |
-| Paper decisions released |  | [proceedings-decisions] |
+| Paper Decisions Released |  | [proceedings-decisions] |
 
 ### Review Stage
 

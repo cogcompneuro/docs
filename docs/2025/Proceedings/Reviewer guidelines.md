@@ -4,6 +4,8 @@
 
 --8<-- "2025-deadlines.md"
 
+--8<-- "glossary-definitions.md"
+
 Thank you once again for agreeing to review for CCN!
 
 --8<-- "thanks-proceedings.md"
@@ -63,7 +65,7 @@ move onto the next step of the process.
 
 #### Reciprocal reviewers
 
-As stated in the [submission guidelines](Submission%20FAQs.md), if you are a
+As stated in the [submission guidelines](Submission%20guidelines.md), if you are a
 **Reciprocal Reviewer** (reviewing as part of a proceedings submission) and do not
 submit all assigned reviews by the author response stage, the relevant submissions may
 be desk-rejected and may not be considered for Contributed Talk when converted to the
