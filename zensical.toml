@@ -96,7 +96,7 @@ nav = [
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-#custom_dir = "overrides"
+custom_dir = "overrides"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -107,6 +107,7 @@ nav = [
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
 favicon = "assets/images/favicon.png"
+logo = "assets/images/ccn-logo.svg"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -352,6 +353,18 @@ year2025_extended_abstracts_reviews_due = "May 18, 2025"
 year2025_extended_abstracts_all_decisions = "May 20th, 2025"
 year2025_extended_abstracts_presenter_selection_period = "May 22 - Jun 12, 2025"
 
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/x-twitter"
+link = "https://x.com/CogCompNeuro"
+name = "X (Twitter)"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/bluesky"
+link = "https://bsky.app/profile/cogcompneuro.bsky.social"
+name = "Bluesky"
+
+[[project.extra.social]]
+icon = "custom/ccn-logo"
+link = "https://ccneuro.org/"
+name = "CCN Website"
+
