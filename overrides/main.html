@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+<style>
+/* Hide prior years in left navigation, but show all items if viewing that year */
+{% for year in range(2020, config.extra.current_year) %}
+{% if not (year|string ~ "/") in page.url %}
+.md-sidebar--primary .md-nav__item:has([href^="{{ year }}/"]),
+.md-sidebar--primary .md-nav__item:has([href*="/{{ year }}/"]) {
+  display: none;
+}
+{% endif %}
+{% endfor %}
+</style>
+{% endblock %}
