@@ -344,6 +344,10 @@ base_path = ["snippets/2025/", "snippets/2026/"]
 # ----------------------------------------------------------------------------
 
 [project.extra]
+# The current year determines which year's content is shown by default.
+# Prior years (2020 to current_year - 1) are hidden in the left navigation
+# unless the user is actively viewing a page from that year. This is
+# controlled by the CSS in overrides/main.html.
 current_year = 2026
 
 year2025_proceedings_abstract_deadline = "Feb 17th, 2025"

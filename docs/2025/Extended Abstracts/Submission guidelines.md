@@ -49,8 +49,8 @@ The text, tables and figures of a CCN Extended Abstract submission can be no lon
 template is not permitted and submissions in violation of this requirement will be
 desk-rejected. Please use the anonymized template for your initial submission.
 
-LaTeX template: [CCN 2025 2-Page Abstract
-Template](https://2025.ccneuro.org/documents/CCN2025_2pager.zip)
+LaTeX template:
+[CCN 2025 2-Page Abstract Template](https://2025.ccneuro.org/documents/CCN2025_2pager.zip)
 
 Google Docs / Microsoft Word templates:
 

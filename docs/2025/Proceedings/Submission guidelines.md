@@ -48,8 +48,8 @@ pages, excluding references.
 template is not permitted and submissions in violation of this requirement will be
 desk-rejected. Please use the anonymized template for your initial submission.
 
-LaTeX template: [CCN 2025 8-Page Abstract
-Template](https://2025.ccneuro.org/documents/CCN2025_8pager.zip)
+LaTeX template:
+[CCN 2025 8-Page Abstract Template](https://2025.ccneuro.org/documents/CCN2025_8pager.zip)
 
 Google Docs / Microsoft Word templates:
 

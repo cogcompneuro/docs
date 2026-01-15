@@ -73,8 +73,8 @@ Are things detailed to facilitate reproducibility?*)
 
 Once reviews are released, you are invited to write an author response (AKA a
 "Rebuttal") to **each individual review**. To do this, you can write a response under
-each official review by clicking the button "**Rebuttal**" ([Figure
-1](#figure-1-add-rebuttal)) in the lower right corner of each review.
+each official review by clicking the button "**Rebuttal**"
+([Figure 1](#figure-1-add-rebuttal)) in the lower right corner of each review.
 The deadline for submitting these author responses is **[author-response-due]**. You
 must write an author response before this date to participate in any follow-up
 discussion during the author-reviewer discussion period that immediately follows.
@@ -126,10 +126,10 @@ The author-reviewer discussion closes on **[discussion-period]**.
 This post-review discussion period is meant as a wrap-up to any discussion between the
 authors and the reviewers, and to give reviewers the option to update their reviews and
 assessments based on author responses.
-Authors and reviewers should abide by [CCN's Code of
-Conduct](https://2025.ccneuro.org/code-of-conduct/) while engaging in the discussion
-process. Unprofessional or unethical behavior should be flagged to the AC via a private
-comment.
+Authors and reviewers should abide by
+[CCN's Code of Conduct](https://2025.ccneuro.org/code-of-conduct/) while engaging in the
+discussion process. Unprofessional or unethical behavior should be flagged to the AC via
+a private comment.
 
 ## Decisions
 
