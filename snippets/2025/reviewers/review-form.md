@@ -11,7 +11,7 @@ Briefly summarize your perspective on this manuscript.
 Rate the submission on the following criteria (details on the scales in the review
 form):
 
---8<-- "reviewers/review-criteria.md"
+--8<-- "2025/reviewers/review-criteria.md"
 
 ##### Comments
 

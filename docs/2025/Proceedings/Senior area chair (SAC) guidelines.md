@@ -1,15 +1,15 @@
 # Senior Area Chair Guidelines
 
---8<-- "prior-version-warning.md"
+--8<-- "2025/prior-version-warning.md"
 
---8<-- "2025-deadlines.md"
+--8<-- "2025/2025-deadlines.md"
 
---8<-- "glossary-definitions.md"
+--8<-- "2025/glossary-definitions.md"
 
 Thank you for serving as a Senior Area Chair (SAC) for the first ever CCN Proceedings
 track!
 
---8<-- "thanks-proceedings.md"
+--8<-- "2025/thanks-proceedings.md"
 
 ## Role
 
@@ -20,11 +20,11 @@ calibrate decisions across different ACs, and liaise with the TPC for final deci
 
 ## OpenReview Console
 
---8<-- "openreview/console.md"
+--8<-- "2025/openreview/console.md"
 
 ### Setting comment visibility
 
---8<-- "openreview/comment-visibility.md"
+--8<-- "2025/openreview/comment-visibility.md"
 
 ### Contacting Area Chairs
 
@@ -161,25 +161,25 @@ Message (see the image below).
 
 ### Availability
 
---8<-- "policies/availability.md"
+--8<-- "2025/policies/availability.md"
 
 ### Kindness
 
---8<-- "policies/kindness.md"
+--8<-- "2025/policies/kindness.md"
 
 ### Conflicts of interest
 
---8<-- "policies/conflict-of-interest.md"
+--8<-- "2025/policies/conflict-of-interest.md"
 
 If you notice a conflict of interest with a submission that is assigned to one of your
 ACs, [contact the TPC](#contact-info) right away.
 
---8<-- "reviewers/common-policies.md"
+--8<-- "2025/reviewers/common-policies.md"
 
---8<-- "policies/confidentiality-sac-addendum.md"
+--8<-- "2025/policies/confidentiality-sac-addendum.md"
 
 ### Flexibility
 
---8<-- "policies/flexibility.md"
+--8<-- "2025/policies/flexibility.md"
 
---8<-- "contact-info.md"
+--8<-- "2025/contact-info.md"

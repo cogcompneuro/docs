@@ -1,10 +1,10 @@
 # Submission guidelines
 
---8<-- "prior-version-warning.md"
+--8<-- "2025/prior-version-warning.md"
 
---8<-- "2025-deadlines.md"
+--8<-- "2025/2025-deadlines.md"
 
---8<-- "glossary-definitions.md"
+--8<-- "2025/glossary-definitions.md"
 
 ![CCN 2025 Submissions Flowchart](../assets/ccn25_submissions.png)
 
@@ -40,7 +40,7 @@ pages, excluding references.
 
 #### Abstract
 
---8<-- "submissions/abstract-guidance.md"
+--8<-- "2025/submissions/abstract-guidance.md"
 
 #### Templates
 
@@ -59,48 +59,48 @@ Google Docs / Microsoft Word templates:
 
 ### Double-blind review
 
---8<-- "policies/double-blind-anonymization.md"
+--8<-- "2025/policies/double-blind-anonymization.md"
 
---8<-- "policies/code-anonymization.md"
+--8<-- "2025/policies/code-anonymization.md"
 
 ### Reciprocal reviewer policy
 
---8<-- "reviewers/pool-size.md"
+--8<-- "2025/reviewers/pool-size.md"
 
 Authors in this category who fail to finish reviews by the author response stage may
 have their paper submissions desk-rejected and may not be considered for Contributed
 Talk when converted to the Extended Abstracts track.
---8<-- "reviewers/exemption.md"
+--8<-- "2025/reviewers/exemption.md"
 
 ### Use of large language models
 
---8<-- "policies/llm-usage.md"
+--8<-- "2025/policies/llm-usage.md"
 
 ### Dual submission policy
 
---8<-- "policies/dual-submission.md"
+--8<-- "2025/policies/dual-submission.md"
 
 ## Frequently Asked Questions
 
---8<-- "faq/presenter-change-poster.md"
+--8<-- "2025/faq/presenter-change-poster.md"
 
---8<-- "faq/presenter-change-talk.md"
+--8<-- "2025/faq/presenter-change-talk.md"
 
---8<-- "faq/timezone.md"
+--8<-- "2025/faq/timezone.md"
 
---8<-- "faq/anonymized-author-block.md"
+--8<-- "2025/faq/anonymized-author-block.md"
 
---8<-- "faq/shared-authorship.md"
+--8<-- "2025/faq/shared-authorship.md"
 
---8<-- "faq/keywords.md"
+--8<-- "2025/faq/keywords.md"
 
---8<-- "faq/acknowledgments.md"
+--8<-- "2025/faq/acknowledgments.md"
 
---8<-- "faq/code-linking.md"
+--8<-- "2025/faq/code-linking.md"
 
---8<-- "faq/equation-formatting.md"
+--8<-- "2025/faq/equation-formatting.md"
 
---8<-- "faq/preprints.md"
+--8<-- "2025/faq/preprints.md"
 
 ### There seem to be two deadlines, which one…
 
@@ -148,4 +148,4 @@ may decide to submit the manuscript to another venue which may have its own poli
 prior publication. Accepted CCN Proceedings papers will have an assigned DOI, which may
 affect this decision.
 
---8<-- "contact-info.md"
+--8<-- "2025/contact-info.md"

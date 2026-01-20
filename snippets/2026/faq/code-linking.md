@@ -5,4 +5,4 @@ However, note that a code repository takes extra effort to anonymize, and we wil
 desk-reject submissions that accidentally de-anonymize their authors via a linked code
 repository with identifying information.
 
---8<-- "2025/anonymous-github.md"
+--8<-- "2026/anonymous-github.md"

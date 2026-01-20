@@ -6,7 +6,7 @@ repos:
         language: system
         entry: uvx flowmark --inplace --nobackup --semantic --cleanups
         types: [markdown]
-        exclude: ^snippets/
+        exclude: ^(snippets/|docs/2026/Proceedings/Submission guidelines\.md)
 
   - repo: https://github.com/jackdewinter/pymarkdown
     rev: v0.9.33

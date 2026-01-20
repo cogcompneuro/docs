@@ -1,0 +1,4 @@
+We encourage including links to code and artifacts in the spirit of open
+science, but please ensure that the linked material is anonymized; e.g.
+create a dedicated account to host your material rather than the account of
+one of the authors. Reviewers are not required to review linked material.

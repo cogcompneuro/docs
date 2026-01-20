@@ -1,14 +1,14 @@
 # Area Chair Guidelines
 
---8<-- "prior-version-warning.md"
+--8<-- "2025/prior-version-warning.md"
 
---8<-- "2025-deadlines.md"
+--8<-- "2025/2025-deadlines.md"
 
---8<-- "glossary-definitions.md"
+--8<-- "2025/glossary-definitions.md"
 
 Thank you for serving as an Area Chair (AC) for the first ever CCN Proceedings track!
 
---8<-- "thanks-proceedings.md"
+--8<-- "2025/thanks-proceedings.md"
 
 ## Role
 
@@ -20,11 +20,11 @@ guidance from your senior area chair (SAC).
 
 ## OpenReview Console
 
---8<-- "openreview/console.md"
+--8<-- "2025/openreview/console.md"
 
 ### Setting comment visibility
 
---8<-- "openreview/comment-visibility.md"
+--8<-- "2025/openreview/comment-visibility.md"
 
 ## Timeline
 
@@ -53,7 +53,7 @@ posting a comment on the OpenReview forum for the submission with the readers se
 your **Senior Area Chair** and **the TPC** (see
 [Setting comment visibility](#setting-comment-visibility)).
 
---8<-- "openreview/email-profile-reminder.md"
+--8<-- "2025/openreview/email-profile-reminder.md"
 
 Also, make sure that every submission in your batch is matched with suitable reviewers
 whom you can trust on this submission, ideally with a diverse set of opinions.
@@ -83,7 +83,7 @@ Please encourage this standard in the reviewers you oversee.
 
 #### Things to flag
 
---8<-- "reviewers/things-to-flag-proceedings.md"
+--8<-- "2025/reviewers/things-to-flag-proceedings.md"
 
 ### Discussion
 
@@ -227,33 +227,33 @@ AC is happy to recommend acceptance.
 
 ### Availability
 
---8<-- "policies/availability.md"
+--8<-- "2025/policies/availability.md"
 
 If you are unable to meet these expectations, please let your SAC know of your
 constraints by posting an **Official Comment**.
 
 ### Kindness
 
---8<-- "policies/kindness.md"
+--8<-- "2025/policies/kindness.md"
 
 ### Conflicts of interest
 
---8<-- "policies/conflict-of-interest.md"
+--8<-- "2025/policies/conflict-of-interest.md"
 
 If you recognize a potential conflict of interest, please let your SAC or the TPC know
 straight away so that we can re-assign the manuscript by posting a comment on the
 OpenReview forum for the submission with the readers set to your **Senior Area Chair**
 and **the TPC** (see [Setting comment visibility](#setting-comment-visibility)).
 
---8<-- "reviewers/common-policies.md"
+--8<-- "2025/reviewers/common-policies.md"
 
---8<-- "policies/confidentiality-ac-addendum.md"
+--8<-- "2025/policies/confidentiality-ac-addendum.md"
 
 ### Flexibility
 
---8<-- "policies/flexibility.md"
+--8<-- "2025/policies/flexibility.md"
 
---8<-- "contact-info.md"
+--8<-- "2025/contact-info.md"
 
 If you have specific questions related to the handling of a particular paper, please
 leave a comment on the OpenReview forum for that paper with the readers set to the

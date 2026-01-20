@@ -1,10 +1,10 @@
 # Submission guidelines
 
---8<-- "prior-version-warning.md"
+--8<-- "2025/prior-version-warning.md"
 
---8<-- "2025-deadlines.md"
+--8<-- "2025/2025-deadlines.md"
 
---8<-- "glossary-definitions.md"
+--8<-- "2025/glossary-definitions.md"
 
 ## Submission process
 
@@ -41,7 +41,7 @@ The text, tables and figures of a CCN Extended Abstract submission can be no lon
 
 #### Abstract
 
---8<-- "submissions/abstract-guidance.md"
+--8<-- "2025/submissions/abstract-guidance.md"
 
 #### Templates
 
@@ -60,48 +60,48 @@ Google Docs / Microsoft Word templates:
 
 ### Double-blind review
 
---8<-- "policies/double-blind-anonymization.md"
+--8<-- "2025/policies/double-blind-anonymization.md"
 
---8<-- "policies/code-anonymization.md"
+--8<-- "2025/policies/code-anonymization.md"
 
 ### Reciprocal reviewer policy
 
---8<-- "reviewers/pool-size.md"
+--8<-- "2025/reviewers/pool-size.md"
 
 Authors in this category that fail to finish reviews by the author response stage will
 not be considered for a Contributed Talk.
 
---8<-- "reviewers/exemption.md"
+--8<-- "2025/reviewers/exemption.md"
 
 ### Use of large language models
 
---8<-- "policies/llm-usage.md"
+--8<-- "2025/policies/llm-usage.md"
 
 ### Dual submission policy
 
---8<-- "policies/dual-submission.md"
+--8<-- "2025/policies/dual-submission.md"
 
 ## Frequently asked questions
 
---8<-- "faq/presenter-change-poster.md"
+--8<-- "2025/faq/presenter-change-poster.md"
 
---8<-- "faq/presenter-change-talk.md"
+--8<-- "2025/faq/presenter-change-talk.md"
 
---8<-- "faq/timezone.md"
+--8<-- "2025/faq/timezone.md"
 
---8<-- "faq/anonymized-author-block.md"
+--8<-- "2025/faq/anonymized-author-block.md"
 
---8<-- "faq/shared-authorship.md"
+--8<-- "2025/faq/shared-authorship.md"
 
---8<-- "faq/keywords.md"
+--8<-- "2025/faq/keywords.md"
 
---8<-- "faq/acknowledgments.md"
+--8<-- "2025/faq/acknowledgments.md"
 
---8<-- "faq/code-linking.md"
+--8<-- "2025/faq/code-linking.md"
 
---8<-- "faq/equation-formatting.md"
+--8<-- "2025/faq/equation-formatting.md"
 
---8<-- "faq/preprints.md"
+--8<-- "2025/faq/preprints.md"
 
 ### I and my co-authors can no longer attend CCN 2025. How can I withdraw my poster?
 
@@ -114,7 +114,7 @@ Reciprocal Reviewer(s) identified on the submission, and the Presenter identifie
 submission. Other co-authors do not need an OpenReview account; you can simply input
 their name and email.
 
---8<-- "openreview/signup-instructions.md"
+--8<-- "2025/openreview/signup-instructions.md"
 
 ### Can I include supplementary material?
 
@@ -157,11 +157,11 @@ Proceedings submission?
 
 Yes.
 
---8<-- "policies/presenter-policy-cross-track.md"
+--8<-- "2025/policies/presenter-policy-cross-track.md"
 
 ### Will my extended abstract be copyrighted?
 
---8<-- "creative-commons-license.md"
+--8<-- "2025/creative-commons-license.md"
 
 ### I was told that my submission has formatting issues and won't be
 
@@ -172,4 +172,4 @@ process so won't be able to wait for revisions.
 Please wait until the camera-ready phase in late May to submit your corrected manuscript
 for publication. Further instructions for how to do this will follow.
 
---8<-- "contact-info.md"
+--8<-- "2025/contact-info.md"

@@ -1,10 +1,10 @@
 ### Confidentiality
 
---8<-- "policies/confidentiality.md"
+--8<-- "2025/policies/confidentiality.md"
 
 ### Conduct
 
---8<-- "policies/conduct.md"
+--8<-- "2025/policies/conduct.md"
 
 ### Transparency
 

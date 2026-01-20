@@ -6,4 +6,4 @@ re-assign the manuscript by posting a comment on the OpenReview forum for the
 submission with the readers set to your **Area Chair** and **the TPC** (see
 [Setting comment visibility](#setting-comment-visibility)).
 
---8<-- "policies/conflict-of-interest.md"
+--8<-- "2025/policies/conflict-of-interest.md"
