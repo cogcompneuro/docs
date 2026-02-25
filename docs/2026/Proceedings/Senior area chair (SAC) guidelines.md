@@ -1,3 +1,183 @@
-# Senior area chair (SAC) guidelines
+# Senior Area Chair Guidelines
 
---8<-- "2026/coming-soon.md"
+--8<-- "2026/2026-deadlines.md"
+
+--8<-- "2026/glossary-definitions.md"
+
+Thank you for serving as a Senior Area Chair (SAC) for the second CCN Proceedings
+track!
+
+--8<-- "2026/thanks-proceedings.md"
+
+## Role
+
+As a Senior Area Chair (SAC), you will oversee several Area Chairs (ACs) and ensure the
+review process is fair, thorough, and timely.
+SACs serve as the first point of contact for ACs needing assistance or guidance, help
+calibrate decisions across different ACs, and liaise with the TPC for final decisions.
+
+## OpenReview Console
+
+--8<-- "2026/openreview/console.md"
+
+### Setting comment visibility
+
+--8<-- "2026/openreview/comment-visibility.md"
+
+### Contacting Area Chairs
+
+If you want to contact an area chair, this is either all area chairs (via area chair
+status and then message) or for a specific submission.
+If you want to contact a specific area chair (and therefore, for a specific submission),
+go to submission status, select the submission to which the AC is connected, and press
+Message (see the image below).
+
+## Timeline
+
+| Period | SAC responsibilities | Dates |
+| :--- | :--- | :--- |
+| Reviews Due |  | [reviews-due], 11:59 PM (AoE) |
+| Author Response Period | Authors write responses. | [author-response-period] |
+| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
+| Author-Reviewer Discussion | Reviewers submit final recommendation. | [discussion-period] |
+| Meta-Review Period | ACs write meta-reviews. | [meta-review-period] |
+| Final Decisions | Finalize decisions. | [final-decisions-period] |
+| Paper Decisions Released |  | [proceedings-decisions] |
+
+### Review Stage
+
+#### Assist ACs with reviewer assignments in OpenReview
+
+- Access paper assignments through your SAC console
+
+- Click on "Area Chairs" to see which ACs are assigned to which papers
+
+- Ensure each AC has 3-4 qualified reviewers for each paper
+
+- Use the "Reviewer Assignment" tab to help ACs find appropriate reviewers:
+
+  - Search for potential reviewers using keywords, expertise, and conflict checks
+
+  - Recommend potential reviewers to ACs by clicking "Suggest Reviewer"
+
+- Note that ACs do not have access to author identities
+
+#### Monitor review progress using OpenReview tools
+
+- Use the "Review Progress" dashboard to track completion rates
+
+- Set up email alerts for late reviews by configuring "Notification Settings"
+
+- Send reminder emails to ACs with missing reviews by selecting papers and using the
+  "Send Reminder" button
+
+- Verify ACs are checking reviews for quality and respectful language
+
+- Step in if an AC is unresponsive by using the "Reassign" feature if necessary
+
+- Note: Submissions where the reciprocal reviewer failed to submit should be rejected
+
+### Discussion
+
+[discussion-period]
+
+#### Ensure ACs initiate reviewer-author discussions
+
+- As soon as the author's response is entered in the system, ACs should lead a
+  discussion via OpenReview for each submission and make sure the reviewers engage in the
+  discussion phase. If your assigned ACs have not initiated discussions, prompt them to
+  do so. This one-week phase 1 of the discussions will be primarily for the reviewers to
+  engage with the authors before the closed discussions among the reviewers and ACs.
+
+  - Use the "Discussion Status" filter in your SAC console to identify papers without
+    active discussions
+
+  - Verify ACs are posting discussion prompts by checking each paper's discussion forum
+
+  - Prompt inactive ACs by sending direct messages through the "Message Area Chairs"
+    function
+
+#### Oversee the AC-reviewer discussions
+
+- Monitor discussion activity through the "Recent Activity" feed in your console
+
+- For papers with conflicting reviews (high variance in scores), use the "Flag for
+  Attention" feature
+
+- Participate in discussions where needed by posting comments with visibility set to
+  "Area Chairs and Senior Area Chairs"
+
+- Use the built-in discussion summary feature to track key points raised in longer
+  discussions
+
+### Meta-reviews
+
+[meta-review-period]
+
+#### Guide metareview process
+
+- Use the "Meta-Review Status" dashboard to track completion status
+
+- Remind ACs to submit preliminary meta-reviews by using the built-in reminder function.
+
+- Have meetings with the ACs
+
+  - For one-on-one discussions with ACs
+
+  - You can also organize meetings with all ACs at the same time for calibration, but
+    check for conflicts of interest using the "Check Conflicts" tool first.
+
+- Pay particular attention to borderline papers and papers in which the AC's
+  recommendation goes against the recommendations of the reviewers.
+
+- Read all meta-reviews.
+  Make sure they explain paper decisions to the authors.
+  Meta-reviews should augment the reviews, and explain how the reviews, author
+  responses, and discussion were used to arrive at the decision.
+
+  - Provide feedback directly in OpenReview by adding comments visible only to the AC.
+
+### Decisions
+
+[final-decisions-period]
+
+1. Review decisions suggested by Area Chairs.
+   Potentially meet with [the TPC](#contact-info) to finalize decisions.
+   Likely there will be (at least) 2 meetings.
+   A meeting early in this period, so the PCs get an overview of which papers are under
+   consideration for publication in CCN-P, and a second meeting with multiple SACs to
+   make actual decisions.
+
+   - Be prepared to discuss all borderline papers and cases in which the recommendation
+     of the AC goes against the recommendations of the reviewers.
+
+   - Update meta-reviews to accurately reflect the final decision.
+
+2. Notification: [proceedings-decisions]
+
+## Policies
+
+### Availability
+
+--8<-- "2026/policies/availability.md"
+
+### Kindness
+
+--8<-- "2026/policies/kindness.md"
+
+### Conflicts of interest
+
+--8<-- "2026/policies/conflict-of-interest.md"
+
+If you notice a conflict of interest with a submission that is assigned to one of your
+ACs, [contact the TPC](#contact-info) right away.
+
+--8<-- "2026/reviewers/common-policies.md"
+
+--8<-- "2026/policies/confidentiality-sac-addendum.md"
+
+### Flexibility
+
+--8<-- "2026/policies/flexibility.md"
+
+--8<-- "2026/contact-info.md"
