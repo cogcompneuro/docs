@@ -50,7 +50,7 @@ desk-rejected. Please use the anonymized template for your initial submission.
 **LaTeX template:**
 [CCN 2026 LaTeX Template (zip)](https://github.com/cogcompneuro/ccn-template/archive/refs/heads/main.zip)
 
-If you encounter any issues with the template, please
+If you encounter any issues with the LaTeX template, please
 [file an issue on GitHub](https://github.com/cogcompneuro/ccn-template/issues).
 
 **Docs template:**
