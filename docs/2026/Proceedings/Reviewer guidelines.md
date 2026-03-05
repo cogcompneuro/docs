@@ -21,9 +21,8 @@ discussion with the Reviewers.
 Your work and that of your fellow Reviewers will be supported by an **Area Chair (AC)**.
 The AC will write a meta-review that summarizes the reviews and discussions and makes a
 recommendation for acceptance.
-Your area chair will be supervised by a **Senior Area Chair (SAC)**. Your
-communications with authors, other reviewers, and area chairs will take place via
-OpenReview.
+Your area chair will be supervised by a **Senior Area Chair (SAC)**. Your communications
+with authors, other reviewers, and area chairs will take place via OpenReview.
 
 ## OpenReview Console
 

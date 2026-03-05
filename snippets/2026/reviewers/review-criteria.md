@@ -1,7 +1,5 @@
-**Interest**
-
-To what extent is this work relevant to the CCN community, in terms of **scope**
-and **impact**?
+**Interest:** To what extent is this work relevant to the CCN community, in terms of
+**scope** and **impact**?
 
 - 5: Landmark (contributions have transformative implications for multiple
   disciplines at CCN)
@@ -13,9 +11,8 @@ and **impact**?
   science, or neuroscience)
 - 1: Limited (contributions are out of scope for CCN, or are covered by prior work)
 
-**Soundness**
-
-Does the evidence support the claimed contributions? Are the right methods used?
+**Soundness:** Does the evidence support the claimed contributions? Are the right
+methods used?
 
 - 5: Exceptional (establishes new standards of evidence for a field)
 - 4: Compelling (rigorous, *e.g.*, convergent evidence from multiple methodologies)
@@ -25,9 +22,7 @@ Does the evidence support the claimed contributions? Are the right methods used?
 - 1: Inadequate (lacks critical evidence, or has methodological flaws that undermine
   conclusions)
 
-**Clarity**
-
-Are the contributions clearly communicated?
+**Clarity:** Are the contributions clearly communicated?
 
 - 5: Exceptional (understandable to all of CCN; highly reproducible; pedagogical)
 - 4: Accessible (coherent; understandable beyond immediate subfield; reproducible)
@@ -35,9 +30,7 @@ Are the contributions clearly communicated?
 - 2: Underdeveloped (hard to follow and/or missing key details)
 - 1: Poor (difficult to understand even for experts in the subfield)
 
-**Confidence of Expertise**
-
-Do you feel confident in your ability to judge this work?
+**Confidence of Expertise:** Do you feel confident in your ability to judge this work?
 
 - 5: You are **absolutely certain** about your assessment. You are very familiar
   with the related work and checked the methodological and/or technical details

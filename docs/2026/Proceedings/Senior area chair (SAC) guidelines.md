@@ -4,8 +4,7 @@
 
 --8<-- "2026/glossary-definitions.md"
 
-Thank you for serving as a Senior Area Chair (SAC) for the second CCN Proceedings
-track!
+Thank you for serving as a Senior Area Chair (SAC) for the second CCN Proceedings track!
 
 --8<-- "2026/thanks-proceedings.md"
 
@@ -84,10 +83,11 @@ Message (see the image below).
 #### Ensure ACs initiate reviewer-author discussions
 
 - As soon as the author's response is entered in the system, ACs should lead a
-  discussion via OpenReview for each submission and make sure the reviewers engage in the
-  discussion phase. If your assigned ACs have not initiated discussions, prompt them to
-  do so. This one-week phase 1 of the discussions will be primarily for the reviewers to
-  engage with the authors before the closed discussions among the reviewers and ACs.
+  discussion via OpenReview for each submission and make sure the reviewers engage in
+  the discussion phase.
+  If your assigned ACs have not initiated discussions, prompt them to do so.
+  This one-week phase 1 of the discussions will be primarily for the reviewers to engage
+  with the authors before the closed discussions among the reviewers and ACs.
 
   - Use the "Discussion Status" filter in your SAC console to identify papers without
     active discussions

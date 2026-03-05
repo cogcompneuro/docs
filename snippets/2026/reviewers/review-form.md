@@ -15,9 +15,7 @@ form):
 
 ##### Comments
 
-*10,000 characters*
-
-Please explain your evaluations of the interest, soundness, and clarity of this
+*10,000 characters.* Please explain your evaluations of the interest, soundness, and clarity of this
 submission to the CCN Proceedings track (as detailed in the
 [reviewer guidelines](Reviewer%20guidelines.md)) and provide any additional comments
 to the authors. You can incorporate Markdown and Latex into the comments section.

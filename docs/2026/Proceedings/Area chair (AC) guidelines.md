@@ -94,8 +94,8 @@ everyone's opinion. Also, try to steer the discussion towards critical aspects o
 submission that are helpful for its assessment.
 Please make sure reviewers update their reviews and assessments based on author
 responses. Also, make sure that the authors address critical concerns raised by the
-reviewers. You can follow up with authors/reviewers publicly or privately by
-restricting the visibility of your comments in the OpenReview platform.
+reviewers. You can follow up with authors/reviewers publicly or privately by restricting
+the visibility of your comments in the OpenReview platform.
 
 ### Meta-reviews
 
@@ -108,8 +108,8 @@ Your meta review indicates your decision recommendation (accept/reject) and your
 justification for the decision.
 Please address and interpret any disagreements among the reviewers in your meta reviews
 and deliver a decisive recommendation with the help of the SAC. Please ensure to
-deliberate with your SAC about the borderline cases, as well as ones where you are making
-a recommendation that goes against the reviewer's recommendations.
+deliberate with your SAC about the borderline cases, as well as ones where you are
+making a recommendation that goes against the reviewer's recommendations.
 The SAC will help you calibrate the decision criteria across other ACs.
 
 Please take a holistic approach when writing meta reviews.
@@ -165,9 +165,8 @@ the authors for the next revision.
 
 **Summary:**\
 Both Reviewers 1 and 2 acknowledged the novelty and potential broader impact of the
-paper.
-However, they also indicated that a cohesive narrative was missing, as well as some
-critical statistical evidence for the claims made, and made several suggestions to
+paper. However, they also indicated that a cohesive narrative was missing, as well as
+some critical statistical evidence for the claims made, and made several suggestions to
 improve the soundness of the manuscript.
 The authors replied to most of these in a point-by-point fashion, rewriting certain
 sections to improve clarity and adding one new analysis, to which Reviewer 1 responded
