@@ -53,7 +53,8 @@ desk-rejected. Please use the anonymized template for your initial submission.
 If you encounter any issues with the template, please
 [file an issue on GitHub](https://github.com/cogcompneuro/ccn-template/issues).
 
-**DOCX template:** TBA
+**Docs template:**
+[CCN 2026 Extended Abstract Docs Template](https://drive.google.com/drive/folders/1UePJAEthHtuUSyReTSEhvKFPblyW3DwO?usp=drive_link)
 
 ### Double-blind review
 
