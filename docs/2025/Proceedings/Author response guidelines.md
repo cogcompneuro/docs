@@ -2,8 +2,6 @@
 
 --8<-- "2025/prior-version-warning.md"
 
---8<-- "2025/2025-deadlines.md"
-
 --8<-- "2025/glossary-definitions.md"
 
 Thank you for submitting your work to the CCN Proceedings track.
@@ -14,10 +12,10 @@ relevant to authors of submissions.
 
 | Period | Dates |
 | :--- | :--- |
-| Reviews Released | [reviews-released] |
-| Author Responses Due | [author-response-due], 11:59 PM Anywhere on Earth (AoE) |
-| [Author-Reviewer Discussion](#discussion) | [discussion-period] |
-| Proceedings Decisions Released (\*) | [proceedings-decisions] |
+| Reviews Released | {{ reviews_released_2025 }} |
+| Author Responses Due | {{ author_response_due_2025 }}, 11:59 PM Anywhere on Earth (AoE) |
+| [Author-Reviewer Discussion](#discussion) | {{ discussion_period_2025 }} |
+| Proceedings Decisions Released (\*) | {{ proceedings_decisions_2025 }} |
 
 (\*) Proceedings decisions are related to but not exactly the same as presentation
 format (poster) decisions at CCN 2025: **accepted** Proceedings papers **will** receive
@@ -28,10 +26,10 @@ receive a poster. For more details, see the
 
 ### Reviews
 
-Reviewers were instructed to submit reviews by [reviews-due], AoE. This was followed by
-a 2-day period in which missing reviews were completed by emergency reviewers so that
-each Proceedings submission received at least 3 quality reviews.
-Reviews were released to authors on **[reviews-released]**.
+Reviewers were instructed to submit reviews by {{ reviews_due_2025 }}, AoE. This was
+followed by a 2-day period in which missing reviews were completed by emergency
+reviewers so that each Proceedings submission received at least 3 quality reviews.
+Reviews were released to authors on **{{ reviews_released_2025 }}**.
 
 #### Review content
 
@@ -75,9 +73,10 @@ Once reviews are released, you are invited to write an author response (AKA a
 "Rebuttal") to **each individual review**. To do this, you can write a response under
 each official review by clicking the button "**Rebuttal**"
 ([Figure 1](#figure-1-add-rebuttal)) in the lower right corner of each review.
-The deadline for submitting these author responses is **[author-response-due]**. You
-must write an author response before this date to participate in any follow-up
-discussion during the author-reviewer discussion period that immediately follows.
+The deadline for submitting these author responses is
+**{{ author_response_due_2025 }}**. You must write an author response before this date
+to participate in any follow-up discussion during the author-reviewer discussion period
+that immediately follows.
 
 Each of these text responses has a 2500 character limit.
 Please ensure your responses are productive and respectful of the reviewer's opinions
@@ -100,11 +99,11 @@ however, that you should not add new results, unless directly requested by a rev
 (e.g., minor additional statistical analyses).
 Revisions can be uploaded as soon as reviews are released.
 The deadline for revising the submission PDF is the same as the author responses,
-**[author-response-due]**.
+**{{ author_response_due_2025 }}**.
 
 The 8-page limit still applies to the main text at this stage.
 Significant violations (of more than a paragraph) of the 8-page main text limit in a
-revised PDF after **[author-response-due]** will result in a desk rejection.
+revised PDF after **{{ author_response_due_2025 }}** will result in a desk rejection.
 If a reviewer requested methodological details for reproducibility that are difficult to
 fit into the main text, you may add these details to the supplement, and add a pointer
 in the main text. It can be helpful for reviewers to understand your revisions if you
@@ -114,14 +113,15 @@ your text response).
 
 ### Discussion
 
-[discussion-period]
+{{ discussion_period_2025 }}
 
 Reviewers are encouraged to respond to author responses immediately after
-[author-response-due], AoE to facilitate timely interaction between authors and
-reviewers. An additional week, starting [discussion-period], is exclusively reserved for
-author-reviewer discussion **based on the author response**. In this period, authors can
-make one more concise response to reviewer comments, but no longer update the paper PDF.
-The author-reviewer discussion closes on **[discussion-period]**.
+{{ author_response_due_2025 }}, AoE to facilitate timely interaction between authors and
+reviewers. An additional week, starting {{ discussion_period_2025 }}, is exclusively
+reserved for author-reviewer discussion **based on the author response**. In this
+period, authors can make one more concise response to reviewer comments, but no longer
+update the paper PDF. The author-reviewer discussion closes on
+**{{ discussion_period_2025 }}**.
 
 This post-review discussion period is meant as a wrap-up to any discussion between the
 authors and the reviewers, and to give reviewers the option to update their reviews and
@@ -138,7 +138,7 @@ a private comment.
 Based on the reviews and the author rebuttals, ACs and SACs will write meta-reviews and
 recommend Proceedings paper rejection or acceptance, which will receive final review
 from the TPC and the PC. Decisions and meta-reviews will be released on
-**[proceedings-decisions]**.
+**{{ proceedings_decisions_2025 }}**.
 
 Furthermore, a small subset of accepted papers will be invited to present a Contributed
 Talk, which will be announced in June.

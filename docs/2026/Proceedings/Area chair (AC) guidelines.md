@@ -1,7 +1,5 @@
 # Area Chair Guidelines
 
---8<-- "2026/2026-deadlines.md"
-
 --8<-- "2026/glossary-definitions.md"
 
 Thank you for serving as an Area Chair (AC) for the second CCN Proceedings track!
@@ -28,20 +26,20 @@ guidance from your senior area chair (SAC).
 
 | Period | AC responsibilities | Dates |
 | :--- | :--- | :--- |
-| [Assignment](#assignment) | ACs matched with submissions. | [review-period] |
-| [Review Period](#reviews) | Ensure all papers have 3+ reviews. | [review-period] |
-| Reviews Due |  | [reviews-due], 11:59 PM (AoE) |
-| Author Response | Authors write responses. | [author-response-period] |
-| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
-| [Discussion](#discussion) | Authors interact with reviewers. | [discussion-period] |
-| [Meta-Reviews](#meta-reviews) | ACs write meta-reviews. | [meta-review-period] |
-| **Meta Review Due** | (**main AC deadline**) | **[meta-review-due]** |
-| Final Decisions | SACs and TPC finalize decisions. | [final-decisions-period] |
-| Paper Decisions Released |  | [proceedings-decisions] |
+| [Assignment](#assignment) | ACs matched with submissions. | {{ review_period_2026 }} |
+| [Review Period](#reviews) | Ensure all papers have 3+ reviews. | {{ review_period_2026 }} |
+| Reviews Due |  | {{ reviews_due_2026 }}, 11:59 PM (AoE) |
+| Author Response | Authors write responses. | {{ author_response_period_2026 }} |
+| Author Responses Due |  | {{ author_response_due_2026 }}, 11:59 PM (AoE) |
+| [Discussion](#discussion) | Authors interact with reviewers. | {{ discussion_period_2026 }} |
+| [Meta-Reviews](#meta-reviews) | ACs write meta-reviews. | {{ meta_review_period_2026 }} |
+| **Meta Review Due** | (**main AC deadline**) | **{{ meta_review_due_2026 }}** |
+| Final Decisions | SACs and TPC finalize decisions. | {{ final_decisions_period_2026 }} |
+| Paper Decisions Released |  | {{ proceedings_decisions_2026 }} |
 
 ### Assignment
 
-[review-period]
+{{ review_period_2026 }}
 
 We have done our best to match ACs with the most appropriate submissions.
 However, if you find that a manuscript assigned to you is too far outside of your **area
@@ -58,7 +56,7 @@ whom you can trust on this submission, ideally with a diverse set of opinions.
 
 ### Reviews
 
-[review-period]
+{{ review_period_2026 }}
 
 As an area chair, you will oversee the review process for the submissions assigned to
 you and address any potential concerns raised by the reviewers.
@@ -71,7 +69,7 @@ Assist reviewers who may feel poorly matched to submissions.
 Address reviewer concerns and assign additional reviewers if necessary to ensure
 thorough evaluation.
 
-Reviews are due **[reviews-due]**. Read all reviews carefully.
+Reviews are due **{{ reviews_due_2026 }}**. Read all reviews carefully.
 If a review is substandard, you should ask the reviewer to improve their review.
 Please remember to be polite and provide concrete guidance.
 CCN expects the highest quality in its reviews.
@@ -85,7 +83,7 @@ Please encourage this standard in the reviewers you oversee.
 
 ### Discussion
 
-[discussion-period]
+{{ discussion_period_2026 }}
 
 During the post-review discussion period, you will facilitate a constructive discussion
 between the authors and the reviewers through the OpenReview platform.
@@ -99,7 +97,7 @@ the visibility of your comments in the OpenReview platform.
 
 ### Meta-reviews
 
-[meta-review-period]
+{{ meta_review_period_2026 }}
 
 After the discussion period, you will be responsible for writing meta reviews to
 summarize the reviews and the discussion that followed.

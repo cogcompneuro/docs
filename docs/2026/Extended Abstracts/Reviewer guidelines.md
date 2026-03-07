@@ -1,7 +1,5 @@
 # Reviewer Guidelines
 
---8<-- "2026/2026-deadlines.md"
-
 --8<-- "2026/glossary-definitions.md"
 
 Thank you once again for agreeing to review for CCN!
@@ -33,13 +31,13 @@ OpenReview.
 
 | Period | Reviewer responsibilities | Dates |
 | :--- | :--- | :--- |
-| [Assignment](#assignment) | Reviewers matched. | [ea-review-period] |
-| [Review Period](#reviews) | Submit reviews. | [ea-review-period] |
-| Reviews Due |  | [ea-reviews-due], 11:59 PM (Anywhere on Earth; AoE) |
+| [Assignment](#assignment) | Reviewers matched. | {{ ea_review_period_2026 }} |
+| [Review Period](#reviews) | Submit reviews. | {{ ea_review_period_2026 }} |
+| Reviews Due |  | {{ ea_reviews_due_2026 }}, 11:59 PM (Anywhere on Earth; AoE) |
 
 ### Assignment
 
-[ea-review-period]
+{{ ea_review_period_2026 }}
 
 --8<-- "2026/reviewers/assignment-intro-ea.md"
 
@@ -47,9 +45,9 @@ OpenReview.
 
 #### Review deadline
 
-**[ea-reviews-due], 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
-We are counting on you to submit your review(s) on or before this date so that we can
-move onto the next step of the process.
+**{{ ea_reviews_due_2026 }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing
+deadline. We are counting on you to submit your review(s) on or before this date so that
+we can move onto the next step of the process.
 
 #### Reciprocal reviewers
 
@@ -60,7 +58,7 @@ considered for a Contributed Talk.
 
 ### Reviews
 
-[ea-review-period]
+{{ ea_review_period_2026 }}
 
 As a reviewer, you will evaluate submissions assigned to you and provide high-quality
 feedback to help identify work that should be highlighted at CCN as a Contributed Talk.

@@ -2,8 +2,6 @@
 
 --8<-- "2025/prior-version-warning.md"
 
---8<-- "2025/2025-deadlines.md"
-
 --8<-- "2025/glossary-definitions.md"
 
 ## Submission process
@@ -148,8 +146,8 @@ CCN 2025 maintains the historical policy that a given presenter can present only
 single contribution at CCN. As such, you can make only one submission as the "Presenter"
 (the presenting author as identified on OpenReview) to the Extended Abstracts track.
 We will desk-reject submissions in violation of this requirement between
-[ea-desk-rejection-period]. You can participate in any number of submissions for which
-you are an author but not the Presenter.
+{{ ea_desk_rejection_period_2025 }}. You can participate in any number of submissions
+for which you are an author but not the Presenter.
 
 ### Can I make an Extended Abstract submission if I have already made a
 

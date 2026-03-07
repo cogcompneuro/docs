@@ -3,7 +3,7 @@ submit a contribution to each track.
 If both contributions are accepted for presentation at CCN 2025 (*), the
 Presenter will be asked to select one of their contributions for presentation
 and withdraw the other.
-This selection must be made between [presenter-selection-period], after
+This selection must be made between {{ presenter_selection_period_2025 }}, after
 decisions are announced for all tracks.
 
 (*) This can occur if a Presenter has both a Proceedings paper and an Extended

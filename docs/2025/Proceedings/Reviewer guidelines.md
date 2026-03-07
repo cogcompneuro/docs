@@ -2,8 +2,6 @@
 
 --8<-- "2025/prior-version-warning.md"
 
---8<-- "2025/2025-deadlines.md"
-
 --8<-- "2025/glossary-definitions.md"
 
 Thank you once again for agreeing to review for CCN!
@@ -41,17 +39,17 @@ OpenReview.
 
 | Period | Reviewer responsibilities | Dates |
 | :--- | :--- | :--- |
-| [Assignment](#assignment) | Reviewers are matched with submissions. Ensure no conflicts of interest. | [review-period] |
-| [Review Period](#reviews) | Submit reviews for all assigned papers. | [review-period] |
-| Reviews Due |  | [reviews-due], 11:59 PM (AoE) |
-| Author Response | Reviews released to authors. Authors submit responses. | [author-response-period] |
-| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
-| [Discussion](#discussion) | Engage with authors and update your review. | [discussion-period] |
-| Paper Decisions Released |  | [proceedings-decisions] |
+| [Assignment](#assignment) | Reviewers are matched with submissions. Ensure no conflicts of interest. | {{ review_period_2025 }} |
+| [Review Period](#reviews) | Submit reviews for all assigned papers. | {{ review_period_2025 }} |
+| Reviews Due |  | {{ reviews_due_2025 }}, 11:59 PM (AoE) |
+| Author Response | Reviews released to authors. Authors submit responses. | {{ author_response_period_2025 }} |
+| Author Responses Due |  | {{ author_response_due_2025 }}, 11:59 PM (AoE) |
+| [Discussion](#discussion) | Engage with authors and update your review. | {{ discussion_period_2025 }} |
+| Paper Decisions Released |  | {{ proceedings_decisions_2025 }} |
 
 ### Assignment
 
-[review-period]
+{{ review_period_2025 }}
 
 --8<-- "2025/reviewers/assignment-intro-proceedings.md"
 
@@ -59,7 +57,7 @@ OpenReview.
 
 #### Review deadline
 
-**[reviews-due], 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
+**{{ reviews_due_2025 }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
 We are counting on you to submit your review(s) on or before this date so that we can
 move onto the next step of the process.
 
@@ -73,7 +71,7 @@ Extended Abstracts track.
 
 ### Reviews
 
-[review-period]
+{{ review_period_2025 }}
 
 As a reviewer, you will evaluate submissions assigned to you and provide high-quality
 feedback to help identify work that should be included and highlighted at CCN.
@@ -86,7 +84,7 @@ feedback to help identify work that should be included and highlighted at CCN.
 
 ### Discussion
 
-[discussion-period]
+{{ discussion_period_2025 }}
 
 After reviews are in, authors will be given the opportunity to respond to their reviews,
 and then a conversation follows.

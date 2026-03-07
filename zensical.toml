@@ -339,6 +339,12 @@ toggle.name = "Switch to light mode"
 [project.markdown_extensions.pymdownx.snippets]
 base_path = ["snippets/"]
 
+# Jinja macro support (workaround until https://github.com/zensical/backlog/issues/16)
+[project.markdown_extensions."zen_macros_ext:MacroExtension"]
+project_dir = "."
+docs_dir = "docs"
+macros_file = "docs/macros/main.py"
+
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
@@ -350,27 +356,6 @@ base_path = ["snippets/"]
 # controlled by the CSS in overrides/main.html.
 current_year = 2026
 
-year2025_proceedings_abstract_deadline = "Feb 17th, 2025"
-year2025_proceedings_submission_deadline = "Feb 20th, 2025"
-year2025_proceedings_review_period = "Mar 4 - Mar 31, 2025"
-year2025_proceedings_reviews_due = "March 31st, 2025"
-year2025_proceedings_reviews_released = "April 3rd, 2025"
-year2025_proceedings_author_response_period = "Apr 3 - Apr 14, 2025"
-year2025_proceedings_author_response_due = "April 14th, 2025"
-year2025_proceedings_discussion_period = "April 15th - April 21st, 2025"
-year2025_proceedings_meta_review_period = "Apr 22 - May 5, 2025"
-year2025_proceedings_meta_review_due = "May 5th, 2025"
-year2025_proceedings_final_decisions_period = "May 6 - May 12, 2025"
-year2025_proceedings_proceedings_decisions = "May 13th, 2025"
-year2025_proceedings_all_decisions = "May 20th, 2025"
-year2025_proceedings_presenter_selection_period = "May 22 - Jun 12, 2025"
-
-year2025_extended_abstracts_submission_deadline = "April 11th, 2025"
-year2025_extended_abstracts_desk_rejection_review_period = "Apr 11 - Apr 14, 2025"
-year2025_extended_abstracts_review_period = "April 14th - April 18th, 2025"
-year2025_extended_abstracts_reviews_due = "May 18, 2025"
-year2025_extended_abstracts_all_decisions = "May 20th, 2025"
-year2025_extended_abstracts_presenter_selection_period = "May 22 - Jun 12, 2025"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/x-twitter"

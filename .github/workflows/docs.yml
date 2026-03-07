@@ -20,7 +20,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install zensical
+      # TODO: remove zen_macros_ext once https://github.com/zensical/backlog/issues/16 is resolved
+      - run: pip install zensical ./zen_macros_ext
       - run: zensical build --clean
       - uses: actions/upload-pages-artifact@v4
         with:

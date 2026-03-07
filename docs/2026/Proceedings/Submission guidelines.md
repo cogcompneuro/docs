@@ -1,7 +1,5 @@
 # Submission guidelines
 
---8<-- "2026/2026-deadlines.md"
-
 --8<-- "2026/glossary-definitions.md"
 
 ![CCN 2026 Submissions Flowchart](../../2025/assets/ccn25_submissions.png)
@@ -102,17 +100,17 @@ Talk when converted to the Extended Abstracts track.
 
 ### There seem to be two deadlines, which one…
 
-**tl;dr:** On [abstract-deadline] we need your title, author list, and abstract (paper
-summary), but you have until [submission-deadline] to upload the PDF. If you are unsure,
-we advise you to keep [abstract-deadline] as an internal deadline.
+**tl;dr:** On {{ abstract_deadline_2026 }} we need your title, author list, and abstract (paper
+summary), but you have until {{ submission_deadline_2026 }} to upload the PDF. If you are unsure,
+we advise you to keep {{ abstract_deadline_2026 }} as an internal deadline.
 
 Everything in the OpenReview submission form is due by the "**abstract registration
-deadline"** [abstract-deadline], anywhere on earth, except for the PDF. The PDF is due
-by the "**full submission deadline"** on [submission-deadline], anywhere on earth.
+deadline"** {{ abstract_deadline_2026 }}, anywhere on earth, except for the PDF. The PDF is due
+by the "**full submission deadline"** on {{ submission_deadline_2026 }}, anywhere on earth.
 It will not be possible to edit the author list, the presenter, or the reciprocal
-reviewer of a submission after [abstract-deadline]. It will be possible to make edits to
+reviewer of a submission after {{ abstract_deadline_2026 }}. It will be possible to make edits to
 other submission metadata (including the title and the \~300-word abstract) from
-[abstract-deadline-plus-one] to [submission-deadline], but any major edits (that
+{{ abstract_deadline_plus_one_2026 }} to {{ submission_deadline_2026 }}, but any major edits (that
 substantially change the evidence or contributions of the paper) will result in a desk
 rejection.
 
@@ -120,7 +118,7 @@ rejection.
 
 The two deadlines exist for us to have time to recruit and onboard reviewers signing up
 as part of a submission, while keeping the final (PDF) deadline as late as our timeline
-allows. We suggest thinking about the overall deadline as [abstract-deadline] so you
+allows. We suggest thinking about the overall deadline as {{ abstract_deadline_2026 }} so you
 don't miss the abstract registration deadline.
 
 ### Can I include supplementary material?
@@ -139,7 +137,7 @@ No.
 
 The Proceedings track does not allow the submission of manuscripts that have been
 published or are under review elsewhere ("concurrent" or "dual" submissions).
-However, after we have made a decision on your submission ([proceedings-decisions]), you
+However, after we have made a decision on your submission ({{ proceedings_decisions_2026 }}), you
 may decide to submit the manuscript to another venue which may have its own policy on
 prior publication. Accepted CCN Proceedings papers will have an assigned DOI, which may
 affect this decision.

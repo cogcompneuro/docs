@@ -1,7 +1,5 @@
 # Senior Area Chair Guidelines
 
---8<-- "2026/2026-deadlines.md"
-
 --8<-- "2026/glossary-definitions.md"
 
 Thank you for serving as a Senior Area Chair (SAC) for the second CCN Proceedings track!
@@ -35,13 +33,13 @@ Message (see the image below).
 
 | Period | SAC responsibilities | Dates |
 | :--- | :--- | :--- |
-| Reviews Due |  | [reviews-due], 11:59 PM (AoE) |
-| Author Response Period | Authors write responses. | [author-response-period] |
-| Author Responses Due |  | [author-response-due], 11:59 PM (AoE) |
-| Author-Reviewer Discussion | Reviewers submit final recommendation. | [discussion-period] |
-| Meta-Review Period | ACs write meta-reviews. | [meta-review-period] |
-| Final Decisions | Finalize decisions. | [final-decisions-period] |
-| Paper Decisions Released |  | [proceedings-decisions] |
+| Reviews Due |  | {{ reviews_due_2026 }}, 11:59 PM (AoE) |
+| Author Response Period | Authors write responses. | {{ author_response_period_2026 }} |
+| Author Responses Due |  | {{ author_response_due_2026 }}, 11:59 PM (AoE) |
+| Author-Reviewer Discussion | Reviewers submit final recommendation. | {{ discussion_period_2026 }} |
+| Meta-Review Period | ACs write meta-reviews. | {{ meta_review_period_2026 }} |
+| Final Decisions | Finalize decisions. | {{ final_decisions_period_2026 }} |
+| Paper Decisions Released |  | {{ proceedings_decisions_2026 }} |
 
 ### Review Stage
 
@@ -78,7 +76,7 @@ Message (see the image below).
 
 ### Discussion
 
-[discussion-period]
+{{ discussion_period_2026 }}
 
 #### Ensure ACs initiate reviewer-author discussions
 
@@ -112,7 +110,7 @@ Message (see the image below).
 
 ### Meta-reviews
 
-[meta-review-period]
+{{ meta_review_period_2026 }}
 
 #### Guide metareview process
 
@@ -139,7 +137,7 @@ Message (see the image below).
 
 ### Decisions
 
-[final-decisions-period]
+{{ final_decisions_period_2026 }}
 
 1. Review decisions suggested by Area Chairs.
    Potentially meet with [the TPC](#contact-info) to finalize decisions.
@@ -153,7 +151,7 @@ Message (see the image below).
 
    - Update meta-reviews to accurately reflect the final decision.
 
-2. Notification: [proceedings-decisions]
+2. Notification: {{ proceedings_decisions_2026 }}
 
 ## Policies
 
