@@ -26,10 +26,12 @@ DBLP
 DOI
 dr
 dropdown
+EAs
 et
 faq
 fullname
 github
+html
 interdisciplinarity
 Interdisciplinarity
 IR
@@ -71,7 +73,9 @@ subfield
 sudo
 TBD
 th
+timezones
 tl
+transformative
 TPC
 tpc
 txt

@@ -8,7 +8,7 @@ if [[ -z "$@" ]]; then
     echo "No files specified, finding all *.md files..."
     while IFS= read -r -d '' file; do
         sources+=("$file")
-    done < <(find . -name '*.md' -not -path './.venv/*' -not -path './site/*' -print0)
+    done < <(find . -name '*.md' -not -path './.venv/*' -not -path './site/*' -not -path './zen_macros_ext/*' -print0)
 else
     # If arguments are provided, use them as the source list
     echo "Using provided file list..."

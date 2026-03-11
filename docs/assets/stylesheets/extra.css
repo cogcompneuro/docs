@@ -1,1 +1,17 @@
 /* Custom styles for CCN Docs */
+
+/* Console button */
+.md-button--primary {
+  background-color: #6a9bc3 !important;
+  border-color: #6a9bc3 !important;
+  padding: 0.3em 0.8em !important;
+}
+.md-button--primary:hover {
+  background-color: #5889b0 !important;
+  border-color: #5889b0 !important;
+}
+
+/* Deadline highlighting in timeline tables */
+tr:has(.deadline) td {
+  background-color: rgba(255, 23, 68, 0.1);
+}

@@ -18,32 +18,37 @@ guidance from your senior area chair (SAC).
 
 --8<-- "2026/openreview/console.md"
 
+<div style="text-align: center" markdown>
+[Go to your AC console on OpenReview](https://openreview.net/group?id=ccneuro.org/CCN/2026/Proceedings/Area_Chairs){
+.md-button .md-button--primary } </div>
+
 ### Setting comment visibility
 
 --8<-- "2026/openreview/comment-visibility.md"
+
+![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
 
 ## Timeline
 
 | Period | AC responsibilities | Dates |
 | :--- | :--- | :--- |
-| [Assignment](#assignment) | ACs matched with submissions. | {{ review_period_2026 }} |
-| [Review Period](#reviews) | Ensure all papers have 3+ reviews. | {{ review_period_2026 }} |
-| Reviews Due |  | {{ reviews_due_2026 }}, 11:59 PM (AoE) |
-| Author Response | Authors write responses. | {{ author_response_period_2026 }} |
-| Author Responses Due |  | {{ author_response_due_2026 }}, 11:59 PM (AoE) |
-| [Discussion](#discussion) | Authors interact with reviewers. | {{ discussion_period_2026 }} |
-| [Meta-Reviews](#meta-reviews) | ACs write meta-reviews. | {{ meta_review_period_2026 }} |
-| **Meta Review Due** | (**main AC deadline**) | **{{ meta_review_due_2026 }}** |
-| Final Decisions | SACs and TPC finalize decisions. | {{ final_decisions_period_2026 }} |
-| Paper Decisions Released |  | {{ proceedings_decisions_2026 }} |
+| Enrollment |  | {{ enrollment_period_2026 }} |
+| Assignment |  | {{ assignment_period_2026 }} |
+| [Adjustment](#adjustment) | ACs check assignments. | {{ adjustment_period_2026 }} |
+| [Review](#review) | ACs facilitate reviewers writing reviews. | {{ review_period_2026 }} |
+| <span class="deadline">[Emergency Review](#emergency-review)</span> | <span class="deadline">ACs ensure all papers have 3+ reviews.</span> | <span class="deadline">{{ emergency_review_period_2026 }}</span> |
+| Response |  | {{ author_response_period_2026 }} |
+| [Discussion](#discussion) | ACs moderate discussion between authors and reviewers. | {{ discussion_period_2026 }} |
+| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">ACs write meta-reviews.</span> | <span class="deadline">{{ meta_review_period_2026 }}</span> |
+| Decision |  | {{ final_decisions_period_2026 }} |
 
-### Assignment
+### Adjustment
 
-{{ review_period_2026 }}
+{{ adjustment_period_2026 }}
 
 We have done our best to match ACs with the most appropriate submissions.
 However, if you find that a manuscript assigned to you is too far outside of your **area
-of expertise**, or if you recognize a potential **conflict of interest**; please let
+of expertise**, or if you recognize a potential **conflict of interest**, please let
 your SAC or the TPC know straight away so that we can re-assign the manuscript by
 posting a comment on the OpenReview forum for the submission with the readers set to
 your **Senior Area Chair** and **the TPC** (see
@@ -51,82 +56,103 @@ your **Senior Area Chair** and **the TPC** (see
 
 --8<-- "2026/openreview/email-profile-reminder.md"
 
-Also, make sure that every submission in your batch is matched with suitable reviewers
-whom you can trust on this submission, ideally with a diverse set of opinions.
+During this period, also make sure that every submission in your batch is matched with
+suitable reviewers whom you can trust on this submission, ideally with a diverse set of
+opinions.
 
-### Reviews
+### Review
 
 {{ review_period_2026 }}
 
 As an area chair, you will oversee the review process for the submissions assigned to
-you and address any potential concerns raised by the reviewers.
+you. Keep the process on schedule by following up with reviewers, assisting those who
+feel poorly matched, and finding replacements if necessary.
 
-To ensure the review process stays on schedule, please keep an eye out for any hold-ups
-or delays on the reviews.
-Please make sure to follow up with reviewers and find replacements if necessary.
-
-Assist reviewers who may feel poorly matched to submissions.
-Address reviewer concerns and assign additional reviewers if necessary to ensure
-thorough evaluation.
-
-Reviews are due **{{ reviews_due_2026 }}**. Read all reviews carefully.
-If a review is substandard, you should ask the reviewer to improve their review.
-Please remember to be polite and provide concrete guidance.
-CCN expects the highest quality in its reviews.
-Please encourage this standard in the reviewers you oversee.
-
-***Please make sure reviewers complete their reviews on time.***
+The reviewer pool is made up of **Reciprocal Reviewers** who are reviewing as part of a
+Proceedings submission, and **Invited Reviewers** who are volunteering their time.
+Reviews for both pools are due **{{ reviews_due_2026 }}**. Read all reviews carefully.
+If a review is substandard, ask the reviewer to improve it with polite, concrete
+guidance. CCN expects the highest quality in its reviews, similar to a journal review,
+and reviewers are given a small load (on average, 2-3 papers) to make this possible.
+Please encourage this standard.
 
 #### Things to flag
 
 --8<-- "2026/reviewers/things-to-flag-proceedings.md"
 
+### Emergency Review
+
+{{ emergency_review_period_2026 }}
+
+During this period, ACs ensure that emergency reviewers and/or regular reviewers
+complete any tardy reviews so that each paper has at least 3 high-quality reviews before
+the start of the author response period.
+
+Reciprocal Reviewers who do not complete their reviews by the reviews due date
+({{ reviews_due_2026 }}) will receive a warning from the TPC and be given the emergency
+review period to complete their review.
+If they still do not complete their review, the TPC will desk-reject their paper at the
+end of the emergency review period.
+
+At the same time, the TPC will step in to assign an emergency reviewer to each paper
+that does not have at least 3 high-quality reviews by the reviews due date.
+As such, we ask that you as AC create a dialogue between yourself and the reviewers to
+aid the TPC in allocating emergency reviewers (*e.g.*, if a reviewer will definitely
+submit a high-quality review during the emergency period, please let the TPC know to
+hold off on assigning an emergency reviewer).
+
+The TPC is collecting a roster of emergency reviewers.
+If you have an ideal emergency reviewer in mind who can step in during this period and
+complete a review within 48 hours, please reach out to [the TPC](#contact-info) with
+their information, and we will assign them.
+
 ### Discussion
 
 {{ discussion_period_2026 }}
 
-During the post-review discussion period, you will facilitate a constructive discussion
-between the authors and the reviewers through the OpenReview platform.
-Please moderate this discussion to ensure that it is productive and respectful of
-everyone's opinion. Also, try to steer the discussion towards critical aspects of the
-submission that are helpful for its assessment.
-Please make sure reviewers update their reviews and assessments based on author
-responses. Also, make sure that the authors address critical concerns raised by the
-reviewers. You can follow up with authors/reviewers publicly or privately by restricting
-the visibility of your comments in the OpenReview platform.
+After the authors submit their Author Response, there is one week for discussion between
+authors and reviewers assigned to each paper.
+Facilitate a constructive discussion between authors and reviewers on OpenReview.
+Steer the discussion towards critical aspects of the submission and ensure it remains
+productive and respectful.
+Make sure reviewers update their reviews based on author responses, and that authors
+address critical reviewer concerns.
+You can follow up publicly or privately by
+[restricting comment visibility](#setting-comment-visibility).
 
-### Meta-reviews
+Prompting reviewers and authors to engage during this period is valuable for you as AC,
+as it helps you collect the feedback and information you need to write an informed
+meta-review.
+
+### Meta-Review
 
 {{ meta_review_period_2026 }}
 
-After the discussion period, you will be responsible for writing meta reviews to
-summarize the reviews and the discussion that followed.
-You can reach out to the reviewers or the SAC for further comments and clarifications.
-Your meta review indicates your decision recommendation (accept/reject) and your
-justification for the decision.
-Please address and interpret any disagreements among the reviewers in your meta reviews
-and deliver a decisive recommendation with the help of the SAC. Please ensure to
-deliberate with your SAC about the borderline cases, as well as ones where you are
-making a recommendation that goes against the reviewer's recommendations.
-The SAC will help you calibrate the decision criteria across other ACs.
+Write a meta-review for each submission that summarizes the reviews and discussion, and
+provides your decision recommendation ("Accept to Proceedings" or "Invite to Extended
+Abstracts") with justification.
+You can reach out to reviewers or the SAC for clarifications.
 
-Please take a holistic approach when writing meta reviews.
-Please take into account the strength of reviewer concerns and the quality of reviews in
-addition to reviewer scores or confidence estimates.
+As an AC, we trust you to make an informed recommendation based on sufficient knowledge
+and justified analysis of the paper, and to clearly convey the reasoning to the authors.
 
-Acknowledge the author's response, even if it didn't change the reviewer's concerns.
-If you find yourself wanting to overrule a unanimous opinion of the reviewers, the
-standards for your summary should be at the level of a full review.
-Other than papers where there is a genuine disagreement, much of our work will involve
-borderline papers where no one confidently expresses excitement, nor are any major
-problems identified.
+Address and interpret any disagreements among reviewers and deliver a decisive
+recommendation. Deliberate with your SAC on borderline cases and on any recommendation
+that goes against the reviewers.
+The SAC will help you calibrate decision criteria across ACs.
+
+Take a holistic approach: consider the strength of reviewer concerns and quality of
+reviews, not just scores or confidence estimates.
+Acknowledge the author's response, even if it didn't change the reviewers' concerns.
+If you overrule a unanimous reviewer opinion, your meta-review should meet the standard
+of a full review.
+
+Much of our work will involve borderline papers where no one confidently expresses
+excitement, nor are any major problems identified.
 These are the tough decisions where we need your judgment!
 
 #### Meta-review format
 
-As an AC, we trust you to make an informed recommendation based on sufficient knowledge
-and justified analysis of the paper, and to clearly and thoroughly convey this
-recommendation and the reasoning behind it to the authors.
 We ask you to provide the following in the meta review form on OpenReview:
 
 1. Your **recommendation**: "Accept to Proceedings" (accept full paper) or "Invite to
@@ -157,66 +183,7 @@ weakens the central claim of the submission"). The latter is much preferred, bot
 make the meta-review more verifiable by your SAC and the TPC, and more actionable for
 the authors for the next revision.
 
-##### Example 1
-
-**CCN Recommendation**: Invite to Extended Abstracts
-
-**Summary:**\
-Both Reviewers 1 and 2 acknowledged the novelty and potential broader impact of the
-paper. However, they also indicated that a cohesive narrative was missing, as well as
-some critical statistical evidence for the claims made, and made several suggestions to
-improve the soundness of the manuscript.
-The authors replied to most of these in a point-by-point fashion, rewriting certain
-sections to improve clarity and adding one new analysis, to which Reviewer 1 responded
-that the manuscript has been improved but that their rating remains the same.
-Reviewer 2 also noted that the revised paper had improved, but reported that their
-initial concern regarding the packing in of too many ideas in one paper still stands.
-The authors replied again to further explain the main goal and indicated that they would
-address this in the discussion in a further revision.
-Reviewer 3 raised the same point as the other two reviewers regarding the clarity of the
-narrative, and was overall more critical of the paper's soundness, while also mentioning
-several concrete examples of inconsistency in the results.
-The authors responded to some of these, but the reviewer indicated that the author's
-response did not (fully) address their concern.
-
-**Metareview**:\
-While all reviewers acknowledged and appreciated the broad interest of the study, they
-also expressed a strong concern that the high number of ideas and analyses decreased the
-clarity and soundness of the manuscript.
-The AC had the same concern and believes this study is more appropriate for a longer
-format paper in which the authors have the space to fully explain and motivate all their
-different analysis steps.
-In its current form, it does not seem suitable for the CCN Proceedings format.
-This decision was discussed with and approved by the SAC.
-
-##### Example 2
-
-**CCN Recommendation**: Accept as Proceedings
-
-**Summary:**\
-Three out of four reviewers indicated that both the soundness and clarity of the paper
-were at least adequate, and two reviews judged both of these as strong upon submission.
-In addition, all reviewers indicated that the interest of the paper was disciplinary or
-broad.
-One reviewer, with the lowest confidence (uncertain), indicated that the soundness
-of the paper needed improvement and suggested additional analyses to determine to what
-extent the results were specific to one experimental condition or all conditions in
-general, and to characterize the essential network involved in generating the effect.
-The authors replied by explaining why the suggested analysis on the condition was not
-feasible, adding more discussion regarding this point in the text, and by implementing a
-new analysis to address the reviewer's second point.
-The reviewer thanked the authors for their responses and increased their soundness
-rating to adequate.
-
-**Metareview:**\
-There seems to be a general consensus amongst three out of four reviewers that the
-findings are sound and are communicated clearly.
-Several reviewers indicated that certain methodological details were missing, and in
-response, these were added by the authors in the revision.
-The authors also added new analyses as well as additional discussion in response to
-comments made by the reviewers.
-Taken together, the overall assessment of the reviewers was positive, and therefore, the
-AC is happy to recommend acceptance.
+--8<-- "2026/meta-review-examples.md"
 
 ## Policies
 
@@ -236,9 +203,7 @@ constraints by posting an **Official Comment**.
 --8<-- "2026/policies/conflict-of-interest.md"
 
 If you recognize a potential conflict of interest, please let your SAC or the TPC know
-straight away so that we can re-assign the manuscript by posting a comment on the
-OpenReview forum for the submission with the readers set to your **Senior Area Chair**
-and **the TPC** (see [Setting comment visibility](#setting-comment-visibility)).
+straight away (see [Adjustment](#adjustment)).
 
 --8<-- "2026/reviewers/common-policies.md"
 
@@ -252,4 +217,5 @@ and **the TPC** (see [Setting comment visibility](#setting-comment-visibility)).
 
 If you have specific questions related to the handling of a particular paper, please
 leave a comment on the OpenReview forum for that paper with the readers set to the
-**Senior Area Chair** and [**the TPC**](#contact-info).
+**Senior Area Chair** and **the TPC** (listed as "Program Chairs" on the OpenReview
+platform).

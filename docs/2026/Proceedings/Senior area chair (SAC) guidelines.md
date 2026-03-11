@@ -17,141 +17,64 @@ calibrate decisions across different ACs, and liaise with the TPC for final deci
 
 --8<-- "2026/openreview/console.md"
 
+<div style="text-align: center" markdown>
+[Go to your SAC console on OpenReview](https://openreview.net/group?id=ccneuro.org/CCN/2026/Proceedings/Senior_Area_Chairs){
+.md-button .md-button--primary } </div>
+
 ### Setting comment visibility
 
 --8<-- "2026/openreview/comment-visibility.md"
 
+![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
+
 ### Contacting Area Chairs
 
-If you want to contact an area chair, this is either all area chairs (via area chair
-status and then message) or for a specific submission.
-If you want to contact a specific area chair (and therefore, for a specific submission),
-go to submission status, select the submission to which the AC is connected, and press
-Message (see the image below).
+To contact all your ACs at once, use "Area Chair Status" and then "Message" in your SAC
+console. To contact a specific AC about a submission, go to "Submission Status", select
+the relevant submission, and press "Message".
 
 ## Timeline
 
 | Period | SAC responsibilities | Dates |
 | :--- | :--- | :--- |
-| Reviews Due |  | {{ reviews_due_2026 }}, 11:59 PM (AoE) |
-| Author Response Period | Authors write responses. | {{ author_response_period_2026 }} |
-| Author Responses Due |  | {{ author_response_due_2026 }}, 11:59 PM (AoE) |
-| Author-Reviewer Discussion | Reviewers submit final recommendation. | {{ discussion_period_2026 }} |
-| Meta-Review Period | ACs write meta-reviews. | {{ meta_review_period_2026 }} |
-| Final Decisions | Finalize decisions. | {{ final_decisions_period_2026 }} |
-| Paper Decisions Released |  | {{ proceedings_decisions_2026 }} |
+| Enrollment |  | {{ enrollment_period_2026 }} |
+| Assignment |  | {{ assignment_period_2026 }} |
+| Adjustment |  | {{ adjustment_period_2026 }} |
+| Review |  | {{ review_period_2026 }} |
+| Response |  | {{ author_response_period_2026 }} |
+| Discussion |  | {{ discussion_period_2026 }} |
+| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">SACs provide feedback to ACs writing meta-reviews.</span> | <span class="deadline">{{ meta_review_period_2026 }}</span> |
+| <span class="deadline">[Decision](#decision)</span> | <span class="deadline">SACs finalize decisions with TPC.</span> | <span class="deadline">{{ final_decisions_period_2026 }}</span> |
 
-### Review Stage
-
-#### Assist ACs with reviewer assignments in OpenReview
-
-- Access paper assignments through your SAC console
-
-- Click on "Area Chairs" to see which ACs are assigned to which papers
-
-- Ensure each AC has 3-4 qualified reviewers for each paper
-
-- Use the "Reviewer Assignment" tab to help ACs find appropriate reviewers:
-
-  - Search for potential reviewers using keywords, expertise, and conflict checks
-
-  - Recommend potential reviewers to ACs by clicking "Suggest Reviewer"
-
-- Note that ACs do not have access to author identities
-
-#### Monitor review progress using OpenReview tools
-
-- Use the "Review Progress" dashboard to track completion rates
-
-- Set up email alerts for late reviews by configuring "Notification Settings"
-
-- Send reminder emails to ACs with missing reviews by selecting papers and using the
-  "Send Reminder" button
-
-- Verify ACs are checking reviews for quality and respectful language
-
-- Step in if an AC is unresponsive by using the "Reassign" feature if necessary
-
-- Note: Submissions where the reciprocal reviewer failed to submit should be rejected
-
-### Discussion
-
-{{ discussion_period_2026 }}
-
-#### Ensure ACs initiate reviewer-author discussions
-
-- As soon as the author's response is entered in the system, ACs should lead a
-  discussion via OpenReview for each submission and make sure the reviewers engage in
-  the discussion phase.
-  If your assigned ACs have not initiated discussions, prompt them to do so.
-  This one-week phase 1 of the discussions will be primarily for the reviewers to engage
-  with the authors before the closed discussions among the reviewers and ACs.
-
-  - Use the "Discussion Status" filter in your SAC console to identify papers without
-    active discussions
-
-  - Verify ACs are posting discussion prompts by checking each paper's discussion forum
-
-  - Prompt inactive ACs by sending direct messages through the "Message Area Chairs"
-    function
-
-#### Oversee the AC-reviewer discussions
-
-- Monitor discussion activity through the "Recent Activity" feed in your console
-
-- For papers with conflicting reviews (high variance in scores), use the "Flag for
-  Attention" feature
-
-- Participate in discussions where needed by posting comments with visibility set to
-  "Area Chairs and Senior Area Chairs"
-
-- Use the built-in discussion summary feature to track key points raised in longer
-  discussions
-
-### Meta-reviews
+### Meta-Review
 
 {{ meta_review_period_2026 }}
 
-#### Guide metareview process
+This is the most important phase of your involvement.
+As a SAC, you see more papers than any individual AC, which means you are uniquely
+positioned to assess the relative merit of papers for acceptance and to calibrate
+decisions across your ACs.
 
-- Use the "Meta-Review Status" dashboard to track completion status
+Read all meta-reviews from your ACs and ensure they are well-reasoned and clearly convey
+the decision to the authors.
+Meta-reviews should augment the reviews and explain how the reviews, author responses,
+and discussion informed the recommendation.
+Pay particular attention to borderline papers and cases where the AC's recommendation
+diverges from the reviewers'.
+Provide feedback to ACs directly in OpenReview by adding comments visible only to the
+AC. You may optionally meet with your ACs individually to discuss their recommendations.
 
-- Remind ACs to submit preliminary meta-reviews by using the built-in reminder function.
-
-- Have meetings with the ACs
-
-  - For one-on-one discussions with ACs
-
-  - You can also organize meetings with all ACs at the same time for calibration, but
-    check for conflicts of interest using the "Check Conflicts" tool first.
-
-- Pay particular attention to borderline papers and papers in which the AC's
-  recommendation goes against the recommendations of the reviewers.
-
-- Read all meta-reviews.
-  Make sure they explain paper decisions to the authors.
-  Meta-reviews should augment the reviews, and explain how the reviews, author
-  responses, and discussion were used to arrive at the decision.
-
-  - Provide feedback directly in OpenReview by adding comments visible only to the AC.
-
-### Decisions
+### Decision
 
 {{ final_decisions_period_2026 }}
 
-1. Review decisions suggested by Area Chairs.
-   Potentially meet with [the TPC](#contact-info) to finalize decisions.
-   Likely there will be (at least) 2 meetings.
-   A meeting early in this period, so the PCs get an overview of which papers are under
-   consideration for publication in CCN-P, and a second meeting with multiple SACs to
-   make actual decisions.
+Review the decisions recommended by your ACs and work with [the TPC](#contact-info) to
+finalize them. The TPC may optionally schedule a meeting with SACs to calibrate final
+decisions. We would appreciate your input on borderline papers and cases where the AC's
+recommendation diverges from the reviewers'.
+Ensure meta-reviews are updated to accurately reflect the final decision.
 
-   - Be prepared to discuss all borderline papers and cases in which the recommendation
-     of the AC goes against the recommendations of the reviewers.
-
-   - Update meta-reviews to accurately reflect the final decision.
-
-2. Notification: {{ proceedings_decisions_2026 }}
+Decisions will be released to authors on {{ proceedings_decisions_2026 }}.
 
 ## Policies
 

@@ -330,6 +330,12 @@ toggle.name = "Switch to light mode"
 # Enable abbreviations for tooltip definitions
 [project.markdown_extensions.abbr]
 
+# Enable attribute lists (used for buttons)
+[project.markdown_extensions.attr_list]
+
+# Enable markdown inside HTML blocks
+[project.markdown_extensions.md_in_html]
+
 # Enable admonitions
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.pymdownx.details]

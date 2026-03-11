@@ -10,7 +10,7 @@ Thank you once again for agreeing to review for CCN Proceedings.
 
 As a Reviewer, you carry the important responsibility of evaluating submissions, thereby
 identifying work that should be included and highlighted at CCN as well as giving
-feedback to other's work that is vital to the scientific process.
+feedback to others' work that is vital to the scientific process.
 
 Each submission to the CCN 2026 Proceedings will receive at least 3 high-quality reviews
 from Reviewers like yourself.
@@ -26,27 +26,34 @@ with authors, other reviewers, and area chairs will take place via OpenReview.
 
 --8<-- "2026/openreview/console.md"
 
-![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
+<div style="text-align: center" markdown>
+[Go to your Reviewer console on OpenReview](https://openreview.net/group?id=ccneuro.org/CCN/2026/Proceedings/Reviewers){
+.md-button .md-button--primary } </div>
 
 ### Setting comment visibility
 
 --8<-- "2026/openreview/comment-visibility.md"
 
+![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
+
 ## Timeline
 
 | Period | Reviewer responsibilities | Dates |
 | :--- | :--- | :--- |
-| [Assignment](#assignment) | Reviewers are matched with submissions. Ensure no conflicts of interest. | {{ review_period_2026 }} |
-| [Review Period](#reviews) | Submit reviews for all assigned papers. | {{ review_period_2026 }} |
-| Reviews Due |  | {{ reviews_due_2026 }}, 11:59 PM (AoE) |
-| Author Response | Reviews released to authors. Authors submit responses. | {{ author_response_period_2026 }} |
-| Author Responses Due |  | {{ author_response_due_2026 }}, 11:59 PM (AoE) |
-| [Discussion](#discussion) | Engage with authors and update your review. | {{ discussion_period_2026 }} |
-| Paper Decisions Released |  | {{ proceedings_decisions_2026 }} |
+| <span class="deadline">Enrollment</span> | <span class="deadline">Reciprocal reviewers enroll in reviewer pool.</span> | <span class="deadline">{{ enrollment_period_2026 }}</span> |
+| Assignment |  | {{ assignment_period_2026 }} |
+| Adjustment |  | {{ adjustment_period_2026 }} |
+| <span class="deadline">[Review](#review)</span> | <span class="deadline">Reviewers submit reviews for assigned papers.</span> | <span class="deadline">{{ review_period_2026 }}</span> |
+| Response |  | {{ author_response_period_2026 }} |
+| <span class="deadline">[Discussion](#discussion)</span> | <span class="deadline">Reviewers engage with authors and update reviews.</span> | <span class="deadline">{{ discussion_period_2026 }}</span> |
+| Meta-Review |  | {{ meta_review_period_2026 }} |
+| Decision |  | {{ final_decisions_period_2026 }} |
 
-### Assignment
+### Review
 
 {{ review_period_2026 }}
+
+#### Assignment
 
 --8<-- "2026/reviewers/assignment-intro-proceedings.md"
 
@@ -66,18 +73,16 @@ submit all assigned reviews by the author response stage, the relevant submissio
 be desk-rejected and may not be considered for Contributed Talk when converted to the
 Extended Abstracts track.
 
-### Reviews
-
-{{ review_period_2026 }}
-
-As a reviewer, you will evaluate submissions assigned to you and provide high-quality
-feedback to help identify work that should be included and highlighted at CCN.
-
 --8<-- "2026/reviewers/review-form.md"
 
 #### Things to flag
 
---8<-- "2026/reviewers/things-to-flag-proceedings.md"
+If you note any of the following in your submissions, please escalate them to your AC or
+[the TPC](#contact-info) by posting a comment on the OpenReview forum for the submission
+with the readers set to your **Area Chair** and **the TPC** (see
+[Setting comment visibility](#setting-comment-visibility)).
+
+--8<-- "2026/reviewers/things-to-flag.md"
 
 ### Discussion
 

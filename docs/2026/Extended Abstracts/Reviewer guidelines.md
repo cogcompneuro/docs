@@ -8,7 +8,7 @@ Thank you once again for agreeing to review for CCN!
 
 As a Reviewer, you carry the important responsibility of evaluating submissions, thereby
 identifying work that should be highlighted at CCN as a Contributed Talk, as well as
-giving the feedback to other's work that is vital to the scientific process.
+giving the feedback to others' work that is vital to the scientific process.
 
 Each submission to the CCN 2026 Extended Abstracts will receive at least 3 high-quality
 reviews from Reviewers like yourself.
@@ -21,23 +21,27 @@ OpenReview.
 
 --8<-- "2026/openreview/console.md"
 
-![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
+<div style="text-align: center" markdown>
+[Go to your Reviewer console on OpenReview](https://openreview.net/group?id=ccneuro.org/CCN/2026/Extended_Abstracts/Reviewers){
+.md-button .md-button--primary } </div>
 
 ### Setting comment visibility
 
 --8<-- "2026/openreview/comment-visibility.md"
 
+![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
+
 ## Timeline
 
 | Period | Reviewer responsibilities | Dates |
 | :--- | :--- | :--- |
-| [Assignment](#assignment) | Reviewers matched. | {{ ea_review_period_2026 }} |
-| [Review Period](#reviews) | Submit reviews. | {{ ea_review_period_2026 }} |
-| Reviews Due |  | {{ ea_reviews_due_2026 }}, 11:59 PM (Anywhere on Earth; AoE) |
+| <span class="deadline">[Review](#review)</span> | <span class="deadline">Reviewers submit reviews for assigned papers.</span> | <span class="deadline">{{ ea_review_period_2026 }}</span> |
 
-### Assignment
+### Review
 
 {{ ea_review_period_2026 }}
+
+#### Assignment
 
 --8<-- "2026/reviewers/assignment-intro-ea.md"
 
@@ -55,13 +59,6 @@ As stated in the [submission guidelines](Submission%20guidelines.md), if you are
 **Reciprocal Reviewer** (reviewing as part of an Extended Abstract submission) and do
 not submit all assigned reviews by this date, the relevant submission(s) may not be
 considered for a Contributed Talk.
-
-### Reviews
-
-{{ ea_review_period_2026 }}
-
-As a reviewer, you will evaluate submissions assigned to you and provide high-quality
-feedback to help identify work that should be highlighted at CCN as a Contributed Talk.
 
 --8<-- "2026/reviewers/review-form.md"
 
