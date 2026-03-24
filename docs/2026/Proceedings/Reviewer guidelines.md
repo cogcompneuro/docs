@@ -27,8 +27,11 @@ with authors, other reviewers, and area chairs will take place via OpenReview.
 --8<-- "2026/openreview/console.md"
 
 <div style="text-align: center" markdown>
+
 [Go to your Reviewer console on OpenReview](https://openreview.net/group?id=ccneuro.org/CCN/2026/Proceedings/Reviewers){
-.md-button .md-button--primary } </div>
+.md-button .md-button--primary }
+
+</div>
 
 ### Setting comment visibility
 

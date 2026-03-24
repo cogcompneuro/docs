@@ -18,6 +18,9 @@
     },
     "md023": {
       "enabled": false
+    },
+    "md033": {
+      "allowed_elements": "div,span,!--"
     }
   }
 }

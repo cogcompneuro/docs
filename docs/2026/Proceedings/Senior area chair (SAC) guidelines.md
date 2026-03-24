@@ -18,8 +18,11 @@ calibrate decisions across different ACs, and liaise with the TPC for final deci
 --8<-- "2026/openreview/console.md"
 
 <div style="text-align: center" markdown>
+
 [Go to your SAC console on OpenReview](https://openreview.net/group?id=ccneuro.org/CCN/2026/Proceedings/Senior_Area_Chairs){
-.md-button .md-button--primary } </div>
+.md-button .md-button--primary }
+
+</div>
 
 ### Setting comment visibility
 
