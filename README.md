@@ -1,7 +1,7 @@
 # CCN Documentation
 
 Public processes and policies for the
-[Conference on Cognitive Computational Neuroscience](ccneuro.org).
+[Conference on Cognitive Computational Neuroscience](https://ccneuro.org).
 
 ## Local development
 
