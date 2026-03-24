@@ -68,6 +68,10 @@ Talk when converted to the Extended Abstracts track.
 
 --8<-- "2026/policies/llm-usage.md"
 
+### Presenter policy
+
+--8<-- "2026/policies/presenter-policy.md"
+
 ### Dual submission policy
 
 --8<-- "2026/policies/dual-submission.md"

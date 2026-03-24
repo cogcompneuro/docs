@@ -144,12 +144,6 @@ only.
 
 ## Policies
 
-### Presenter policy
-
---8<-- "2026/policies/presenter-policy-intro.md"
-
---8<-- "2026/policies/presenter-policy-cross-track.md"
-
 ### Conduct
 
 --8<-- "2026/policies/conduct.md"

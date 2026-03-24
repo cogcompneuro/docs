@@ -73,6 +73,10 @@ not be considered for a Contributed Talk.
 
 --8<-- "2026/policies/llm-usage.md"
 
+### Presenter policy
+
+--8<-- "2026/policies/presenter-policy.md"
+
 ### Dual submission policy
 
 --8<-- "2026/policies/dual-submission.md"
@@ -149,7 +153,7 @@ for which you are an author but not the Presenter.
 
 Yes.
 
---8<-- "2026/policies/presenter-policy-cross-track.md"
+--8<-- "2026/policies/presenter-policy.md"
 
 ### Will my extended abstract be copyrighted?
 
