@@ -41,11 +41,7 @@ pages, excluding references.
 
 #### Templates
 
-!!! warning "Required Template"
-
-    **You must use the official LaTeX template for CCN 2026.** Use of any other
-    template is not permitted, and submissions in violation of this requirement will
-    be desk-rejected.
+--8<-- "2026/submissions/required-template-warning.md"
 
 **Download:**
 [CCN 2026 LaTeX Template (zip)](https://github.com/cogcompneuro/ccn-template/archive/refs/heads/main.zip)
