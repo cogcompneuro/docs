@@ -71,6 +71,12 @@ submit all assigned reviews by the author response stage, the relevant submissio
 be desk-rejected and may not be considered for Contributed Talk when converted to the
 Extended Abstracts track.
 
+#### Review content
+
+Reviewers are asked to evaluate submissions according to their **interest**,
+**soundness**, **clarity**, and **confidence of expertise**, and to provide comments on
+their evaluations.
+
 --8<-- "2026/reviewers/review-form.md"
 
 #### Things to flag

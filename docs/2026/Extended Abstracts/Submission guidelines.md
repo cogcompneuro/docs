@@ -41,9 +41,9 @@ The text, tables and figures of a CCN Extended Abstract submission can be no lon
 
 #### Templates
 
-**You must use one of the official CCN 2026 templates listed below.** Use of any other
-template is not permitted and submissions in violation of this requirement will be
-desk-rejected. Please use the anonymized template for your initial submission.
+--8<-- "2026/submissions/required-template-warning.md"
+
+Please use the anonymized template for your initial submission.
 
 **LaTeX template:**
 [CCN 2026 LaTeX Template (zip)](https://github.com/cogcompneuro/ccn-template/archive/refs/heads/main.zip)

@@ -8,10 +8,9 @@ repos:
         types: [markdown]
         exclude: ^(snippets/|docs/2026/Proceedings/Submission guidelines\.md)
 
-  - repo: https://github.com/jackdewinter/pymarkdown
-    rev: v0.9.33
+  - repo: https://github.com/rvben/rumdl-pre-commit
+    rev: v0.1.58
     hooks:
-      - id: pymarkdown
+      - id: rumdl
         args:
-          - --config=.github/config/pymarkdown.json
-          - scan
+          - --disable=MD003,MD012,MD013,MD022,MD023,MD033,MD041,MD051,MD071
