@@ -336,6 +336,9 @@ toggle.name = "Switch to light mode"
 # Enable markdown inside HTML blocks
 [project.markdown_extensions.md_in_html]
 
+# Enable footnotes
+[project.markdown_extensions.footnotes]
+
 # Enable admonitions
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.pymdownx.details]

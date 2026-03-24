@@ -1,25 +1,25 @@
 **Interest:** To what extent is this work relevant to the CCN community, in terms of
 **scope** and **impact**?
 
-- 5: Landmark (contributions have transformative implications for multiple
+- 5: **Landmark** (contributions have transformative implications for multiple
   disciplines at CCN)
-- 4: Broad (contributions have significant implications with interdisciplinary
+- 4: **Broad** (contributions have significant implications with interdisciplinary
   relevance)
-- 3: Disciplinary (contributions have significant implications within one of AI,
+- 3: **Disciplinary** (contributions have significant implications within one of AI,
   cognitive science, or neuroscience)
-- 2: Incremental (contributions have minor implications for one of AI, cognitive
+- 2: **Incremental** (contributions have minor implications for one of AI, cognitive
   science, or neuroscience)
-- 1: Limited (contributions are out of scope for CCN, or are covered by prior work)
+- 1: **Limited** (contributions are out of scope for CCN, or are covered by prior work)
 
 **Soundness:** Does the evidence support the claimed contributions? Are the right
 methods used?
 
-- 5: Exceptional (establishes new standards of evidence for a field)
-- 4: Compelling (rigorous, *e.g.*, convergent evidence from multiple methodologies)
-- 3: Convincing (appropriate methodology and evidence consistent with claims)
-- 2: Incomplete (evidence only partially supports the claims, or more appropriate
+- 5: **Exceptional** (establishes new standards of evidence for a field)
+- 4: **Compelling** (rigorous, *e.g.*, convergent evidence from multiple methodologies)
+- 3: **Convincing** (appropriate methodology and evidence consistent with claims)
+- 2: **Incomplete** (evidence only partially supports the claims, or more appropriate
   methods are *not* used)
-- 1: Inadequate (lacks critical evidence, or has methodological flaws that undermine
+- 1: **Inadequate** (lacks critical evidence, or has methodological flaws that undermine
   conclusions)
 
 **Clarity:** Are the contributions clearly communicated?

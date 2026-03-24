@@ -52,6 +52,7 @@ def define_env(env):
     env.variables["author_response_period_2026"] = "Mar 26 - Apr 6, 2026"
     env.variables["author_response_due_2026"] = "Apr 6, 2026"
     env.variables["discussion_period_2026"] = "Apr 7 - Apr 13, 2026"
+    env.variables["discussion_due_2026"] = "Apr 13, 2026"
     env.variables["poster_acceptances_2026"] = "Apr 20, 2026"
     env.variables["meta_review_period_2026"] = "Apr 14 - Apr 27, 2026"
     env.variables["meta_review_due_2026"] = "Apr 27, 2026"

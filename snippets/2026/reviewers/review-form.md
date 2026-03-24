@@ -1,15 +1,12 @@
-#### Review form
-
-???+ abstract "Your review should include the following components."
+??? abstract "Structure of a CCN Proceedings review"
 
     **Title**
 
-    Briefly summarize your perspective on this manuscript.
+    A brief summary of the reviewer's perspective on the manuscript.
 
     **Ratings**
 
-    Rate the submission on the following criteria (details on the scales in the review
-    form):
+    Submissions are rated on the following criteria:
 
     *Interest:* To what extent is this work relevant to the CCN community, in terms of
     **scope** and **impact**?
@@ -63,21 +60,20 @@
 
     **Comments**
 
-    *10,000 characters.* Please explain your evaluations of the interest, soundness, and
-    clarity of this submission and provide any additional comments to the authors. You can
-    incorporate Markdown and LaTeX into the comments section.
+    *10,000 characters.* Reviewers explain their evaluations of the interest, soundness,
+    and clarity of the submission and provide additional comments to the authors. Reviewers
+    can incorporate Markdown and LaTeX into the comments section.
 
-    Your comments should:
+    Comments should:
 
     - Summarize the manuscript's claims and approach
 
     - List the strengths and limitations of the manuscript
 
-    - Cover the dimensions above (Interest, Soundness, Clarity) and motivate your rating.
-      It can also be helpful to explain why you don't believe a higher or lower rating is
-      appropriate
+    - Cover the dimensions above (Interest, Soundness, Clarity) and motivate the rating.
+      It can also be helpful to explain why a higher or lower rating is not appropriate
 
-    - Note any questions you have for the authors, or requests to clarify something, that
+    - Note any questions for the authors, or requests to clarify something, that
       could be helpful for the authors when presenting the work at CCN
 
     - Make suggestions for improvement of the work
