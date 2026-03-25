@@ -9,7 +9,7 @@ repos:
         exclude: ^(snippets/|docs/2026/Proceedings/Submission guidelines\.md)
 
   - repo: https://github.com/rvben/rumdl-pre-commit
-    rev: v0.1.58
+    rev: v0.1.60
     hooks:
       - id: rumdl
         args:
