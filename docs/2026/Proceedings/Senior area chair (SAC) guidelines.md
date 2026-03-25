@@ -19,6 +19,8 @@ calibrate decisions across different ACs, and liaise with the TPC for final deci
 
 --8<-- "2026/openreview/button-sac.md"
 
+--8<-- "2026/openreview/working-in-openreview.md"
+
 ### Setting comment visibility
 
 --8<-- "2026/openreview/comment-visibility.md"

@@ -12,6 +12,8 @@ relevant to authors of submissions.
 
 --8<-- "2026/openreview/button-author.md"
 
+--8<-- "2026/openreview/working-in-openreview.md"
+
 ### Setting comment visibility
 
 --8<-- "2026/openreview/comment-visibility.md"
