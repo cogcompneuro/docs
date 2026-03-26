@@ -5,14 +5,6 @@
 Congratulations on the acceptance of your paper in the Proceedings of CCN 2026! This
 page describes how to prepare and submit the camera-ready version of your manuscript.
 
-## OpenReview Console
-
---8<-- "2026/openreview/console.md"
-
---8<-- "2026/openreview/button-author.md"
-
---8<-- "2026/openreview/working-in-openreview.md"
-
 ## Timeline
 
 | Period | Author responsibilities | Dates |
