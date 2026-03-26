@@ -42,9 +42,14 @@ If you encounter any issues with the LaTeX template, please
 
 The main text, including the abstract, must still adhere to the 2-page limit.
 
-##### Add acknowledgments
+##### Add acknowledgments and disclosure
 
 --8<-- "2026/camera-ready/acknowledgments.md"
+
+Ensure your disclosure of any use of AI tools, including large language models, is up to
+date. Unlike acknowledgments, disclosure of AI usage is required in both the submitted
+and camera-ready versions of the manuscript, per the
+[LLM usage policy](Submission%20guidelines.md#use-of-large-language-models).
 
 ##### Cite overlapping work in press
 
@@ -57,7 +62,7 @@ If your Proceedings submission has been transferred to the Extended Abstracts tr
 must adapt the 8-page main text content to 2 pages to adhere to the Extended Abstract
 format, and remove any supplementary material or appendix sections, which are not
 accepted in the Extended Abstract track.
-You may incorporate revisions that were promised during the Proceedings review process
+You may incorporate revisions that were approved during the Proceedings review process
 when compiling the manuscript to 2 pages.
 
 ##### No significant revisions

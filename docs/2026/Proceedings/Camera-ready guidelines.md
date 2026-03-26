@@ -41,13 +41,18 @@ If you encounter any issues with the template, please
 The main text, including the title-author block and the abstract, must still adhere to
 the 8-page limit.
 
-##### Add acknowledgments
+##### Add acknowledgments and disclosure
 
 --8<-- "2026/camera-ready/acknowledgments.md"
 
+Ensure your disclosure of any use of AI tools, including large language models, is up to
+date. Unlike acknowledgments, disclosure of AI usage is required in both the submitted
+and camera-ready versions of the manuscript, per the
+[LLM usage policy](Submission%20guidelines.md#use-of-large-language-models).
+
 ##### Make approved revisions
 
-You must make the revisions that were promised and approved during the review process.
+You must make the revisions that were approved during the review process.
 
 --8<-- "2026/camera-ready/significant-revisions.md"
 

@@ -1,7 +1,10 @@
 ### Can I include acknowledgments?
 
-In the post-decision, "camera-ready" version, yes.
-Please omit this from the anonymized submission to be reviewed.
-If acknowledgments are inadvertently included in the anonymized submission, we may have
-to desk-reject it for failure to meet the double-blind reviewing requirements of CCN
-2026\.
+Acknowledgments may be omitted from the anonymized submission to be reviewed, but
+should be included in the camera-ready version. If you do include acknowledgments in
+the anonymized submission, they must be properly anonymized (e.g., replace identifying
+names and grant numbers with placeholders).
+
+Note that disclosure of AI usage, including large language models, is required in both
+the submitted and camera-ready versions. See
+[Use of large language models](#use-of-large-language-models) above.
