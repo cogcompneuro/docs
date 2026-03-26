@@ -54,10 +54,12 @@ nav = [
       { "Author response guidelines" = "2026/Proceedings/Author response guidelines.md" },
       { "Area chair (AC) guidelines" = "2026/Proceedings/Area chair (AC) guidelines.md" },
       { "Senior area chair (SAC) guidelines" = "2026/Proceedings/Senior area chair (SAC) guidelines.md" },
+      { "Camera-ready guidelines" = "2026/Proceedings/Camera-ready guidelines.md" },
     ]},
     { "Extended Abstracts" = [
       { "Submission guidelines" = "2026/Extended Abstracts/Submission guidelines.md" },
       { "Reviewer guidelines" = "2026/Extended Abstracts/Reviewer guidelines.md" },
+      { "Camera-ready guidelines" = "2026/Extended Abstracts/Camera-ready guidelines.md" },
     ]},
   ]},
   { "2025" = [
