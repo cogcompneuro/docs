@@ -68,10 +68,10 @@ date so that we can move onto the next step of the process.
 #### Reciprocal reviewers
 
 As stated in the [submission guidelines](Submission%20guidelines.md), if you are a
-**Reciprocal Reviewer** (reviewing as part of a proceedings submission) and do not
+**Reciprocal Reviewer** (reviewing as part of a Proceedings submission) and do not
 submit all assigned reviews by the author response stage, the relevant submissions may
-be desk-rejected and may not be considered for Contributed Talk when converted to the
-Extended Abstracts track.
+be desk-rejected from the Proceedings track and may not be considered for Contributed
+Talk when converted to the Extended Abstracts track.
 
 #### Review content
 
@@ -94,15 +94,28 @@ with the readers set to your **Area Chair** and **the TPC** (see
 
 {{ proceedings_discussion_period_2026 }}
 
-After authors submit their author response, which may include a revision of the PDF and a text response to each review, and before the end of the discussion period, you are **required** to update your review. This update is important because the Area Chair will look to
-your review (both the scores and your justification for them) to inform their meta-review and initial decision recommendation for a submission. We especially ask that you update your categorical evaluations for interest, soundness, and clarity to make them consistent with your assessment of the submission after the discussion period, for example, if the author response has addressed some of your concerns.
+Authors are invited to submit an author response by
+**{{ proceedings_author_response_due_2026 }}**, which may include a revision of the
+submission PDF and a text response to each review.
+After authors submit their author response, and before the end of the discussion period,
+you are **required** to update your review.
+This update is important because the Area Chair will look to your review (both the
+scores and your justification for them) to inform their meta-review and initial decision
+recommendation for a submission.
+We especially ask that you update your categorical evaluations for interest, soundness,
+and clarity to make them consistent with your assessment of the submission after the
+author response, for example if it has addressed some of your concerns.
 
 You are also **encouraged** to post a Reviewer Reply to follow up on any last things
 that need to be clarified before you can update your review per the author response.
 If an author submitted a "Rebuttal" to your review, you will see a "Reviewer Reply"
-button on the bottom right of their Rebuttal. You can submit one Reviewer Reply per Rebuttal of up to 2500 characters. The authors can then follow up with one last "Author Reply."
+button on the bottom right of their Rebuttal.
+You can submit one Reviewer Reply per Rebuttal of up to 2500 characters.
+The authors can then follow up with one last "Author Reply."
 
-Please note that all discussion notes for a submission are visible to its Senior Area Chairs, Area Chairs, Reviewers, and Authors. The TPC ("Program Chairs" on OpenReview) can view everything on the OpenReview console.
+Please note that all discussion notes for a submission are visible to its Senior Area
+Chairs, Area Chairs, Reviewers, and Authors.
+The TPC ("Program Chairs" on OpenReview) can view everything on the OpenReview console.
 
 The discussion period closes on **{{ proceedings_discussion_due_2026 }}**, Anywhere on
 Earth. No new replies from either Reviewers or Authors can be submitted after this time.
