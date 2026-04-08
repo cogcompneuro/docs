@@ -94,16 +94,18 @@ with the readers set to your **Area Chair** and **the TPC** (see
 
 {{ proceedings_discussion_period_2026 }}
 
-After reviews are in, authors will be given the opportunity to respond to their reviews,
-and then a conversation will follow.
-Engage with the authors regardless of your evaluation of the manuscript.
+After authors submit their author response, which may include a revision of the PDF and a text response to each review, and before the end of the discussion period, you are **required** to update your review. This update is important because the Area Chair will look to
+your review (both the scores and your justification for them) to inform their meta-review and initial decision recommendation for a submission. We especially ask that you update your categorical evaluations for interest, soundness, and clarity to make them consistent with your assessment of the submission after the discussion period, for example, if the author response has addressed some of your concerns.
 
-After this, please update your review and explain how and why the author's response has
-or hasn't affected your evaluation.
-Based on your review, the AC and SAC will come to a recommendation on whether the
-manuscript is accepted for publication in the CCN proceedings.
-The program committee will also use these to determine which submissions will be asked
-to present the work in the form of a talk.
+You are also **encouraged** to post a Reviewer Reply to follow up on any last things
+that need to be clarified before you can update your review per the author response.
+If an author submitted a "Rebuttal" to your review, you will see a "Reviewer Reply"
+button on the bottom right of their Rebuttal. You can submit one Reviewer Reply per Rebuttal of up to 2500 characters. The authors can then follow up with one last "Author Reply."
+
+Please note that all discussion notes for a submission are visible to its Senior Area Chairs, Area Chairs, Reviewers, and Authors. The TPC ("Program Chairs" on OpenReview) can view everything on the OpenReview console.
+
+The discussion period closes on **{{ proceedings_discussion_due_2026 }}**, Anywhere on
+Earth. No new replies from either Reviewers or Authors can be submitted after this time.
 
 ## Policies
 

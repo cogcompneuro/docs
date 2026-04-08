@@ -103,17 +103,23 @@ your text response).
 
 {{ proceedings_discussion_period_2026 }}
 
-Reviewers are required to respond to author responses by submitting a "Rebuttal
-Response". Reviewers are encouraged to respond immediately after
-{{ proceedings_author_response_due_2026 }} to facilitate timely interaction between
-authors and reviewers.
-Authors are allowed to make one more concise response to reviewer comments, but no
-longer update the paper PDF. The author-reviewer discussion closes on
-**{{ proceedings_discussion_due_2026 }}**.
+After submitting your author response, which may include a revision of the PDF and a
+text response to each review, reviewers may post a "Reviewer Reply" to follow up on
+any remaining questions. If a reviewer replies to your rebuttal, you will receive an
+email notification and an "Author Reply" button will appear on the bottom right of
+their reply. You can submit one Author Reply per Reviewer Reply of up to 2500
+characters.
 
-This post-review discussion period is meant as a wrap-up to any discussion between the
-authors and the reviewers, and to give reviewers the option to update their reviews and
-assessments based on author responses.
+Please note that rebuttals are not editable after the author response period closes on
+**{{ proceedings_author_response_due_2026 }}**. However, you may use your Author Reply
+to address any follow-up points raised by reviewers.
+
+Please note that all discussion notes for a submission are visible to its Senior Area
+Chairs, Area Chairs, Reviewers, and Authors. The TPC ("Program Chairs" on OpenReview)
+can view everything on the OpenReview console.
+
+The discussion period closes on **{{ proceedings_discussion_due_2026 }}**, Anywhere on
+Earth. No new replies from either Reviewers or Authors can be submitted after this time.
 
 ## Decisions
 
