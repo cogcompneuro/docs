@@ -68,9 +68,9 @@ references, and supplement.
 
 --8<-- "2026/camera-ready/howto-submit.md"
 
-Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, anywhere on
-Earth. The camera-ready copy is the final version of your Proceedings paper, and must
-adhere to the requirements described above.
+Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, anywhere on Earth.
+The camera-ready copy is the final version of your Proceedings paper, and must adhere to
+the requirements described above.
 We will not accept revisions past this deadline.
 If you need to make a revision past this deadline, you will need to withdraw your
 Proceedings paper from CCN 2026 and resubmit to CCN 2027. Proceedings papers not

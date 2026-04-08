@@ -39,10 +39,11 @@ relevant to authors of submissions.
 
 #### Reviews
 
-Reviewers are instructed to submit reviews by {{ proceedings_reviews_due_2026 }}, AoE. This is
-followed by an emergency period of several days in which missing reviews are completed
-by emergency reviewers so that each Proceedings submission receives at least 3 quality
-reviews. Reviews are released to authors on **{{ proceedings_reviews_released_2026 }}**.
+Reviewers are instructed to submit reviews by {{ proceedings_reviews_due_2026 }}, AoE.
+This is followed by an emergency period of several days in which missing reviews are
+completed by emergency reviewers so that each Proceedings submission receives at least 3
+quality reviews. Reviews are released to authors on
+**{{ proceedings_reviews_released_2026 }}**.
 
 #### Review content
 
@@ -62,8 +63,8 @@ each review.
 ![OpenReview screenshot: Add Rebuttal](../../2025/assets/author-response-1.png)
 
 The deadline for submitting the text component of your author response is
-**{{ proceedings_author_response_due_2026 }}**. You must submit a text response before this date to
-participate in any follow-up discussion during the author-reviewer
+**{{ proceedings_author_response_due_2026 }}**. You must submit a text response before
+this date to participate in any follow-up discussion during the author-reviewer
 [discussion period](#discussion) that immediately follows.
 
 Each of these text responses has a 5000 character limit.
@@ -104,9 +105,10 @@ your text response).
 
 Reviewers are required to respond to author responses by submitting a "Rebuttal
 Response". Reviewers are encouraged to respond immediately after
-{{ proceedings_author_response_due_2026 }} to facilitate timely interaction between authors and
-reviewers. Authors are allowed to make one more concise response to reviewer comments,
-but no longer update the paper PDF. The author-reviewer discussion closes on
+{{ proceedings_author_response_due_2026 }} to facilitate timely interaction between
+authors and reviewers.
+Authors are allowed to make one more concise response to reviewer comments, but no
+longer update the paper PDF. The author-reviewer discussion closes on
 **{{ proceedings_discussion_due_2026 }}**.
 
 This post-review discussion period is meant as a wrap-up to any discussion between the

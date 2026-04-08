@@ -61,9 +61,9 @@ with authors, other reviewers, and area chairs will take place via OpenReview.
 
 #### Review deadline
 
-**{{ proceedings_reviews_due_2026 }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
-We are counting on you to submit your review(s) on or before this date so that we can
-move onto the next step of the process.
+**{{ proceedings_reviews_due_2026 }}, 11:59 PM Anywhere on Earth (AoE)**, is the
+reviewing deadline. We are counting on you to submit your review(s) on or before this
+date so that we can move onto the next step of the process.
 
 #### Reciprocal reviewers
 

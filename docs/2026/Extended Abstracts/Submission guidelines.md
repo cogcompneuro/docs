@@ -163,7 +163,8 @@ Yes.
 
 Unfortunately we have already started the technical process of starting the review
 process so won't be able to wait for revisions.
-Please wait until the camera-ready phase (**{{ ea_camera_ready_period_2026 }}**) to submit your corrected manuscript
-for publication. Further instructions for how to do this will follow.
+Please wait until the camera-ready phase (**{{ ea_camera_ready_period_2026 }}**) to
+submit your corrected manuscript for publication.
+Further instructions for how to do this will follow.
 
 --8<-- "2026/contact-info.md"

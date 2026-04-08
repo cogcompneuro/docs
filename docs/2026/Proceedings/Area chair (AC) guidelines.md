@@ -70,11 +70,11 @@ feel poorly matched, and finding replacements if necessary.
 
 The reviewer pool is made up of **Reciprocal Reviewers** who are reviewing as part of a
 Proceedings submission, and **Invited Reviewers** who are volunteering their time.
-Reviews for both pools are due **{{ proceedings_reviews_due_2026 }}**. Read all reviews carefully.
-If a review is substandard, ask the reviewer to improve it with polite, concrete
-guidance. CCN expects the highest quality in its reviews, similar to a journal review,
-and reviewers are given a small load (on average, 2-3 papers) to make this possible.
-Please encourage this standard.
+Reviews for both pools are due **{{ proceedings_reviews_due_2026 }}**. Read all reviews
+carefully. If a review is substandard, ask the reviewer to improve it with polite,
+concrete guidance. CCN expects the highest quality in its reviews, similar to a journal
+review, and reviewers are given a small load (on average, 2-3 papers) to make this
+possible. Please encourage this standard.
 
 #### Things to flag
 
@@ -89,8 +89,8 @@ complete any tardy reviews so that each paper has at least 3 high-quality review
 the start of the author response period.
 
 Reciprocal Reviewers who do not complete their reviews by the reviews due date
-({{ proceedings_reviews_due_2026 }}) will receive a warning from the TPC and be given the emergency
-review period to complete their review.
+({{ proceedings_reviews_due_2026 }}) will receive a warning from the TPC and be given
+the emergency review period to complete their review.
 If they still do not complete their review, the TPC will desk-reject their paper at the
 end of the emergency review period.
 

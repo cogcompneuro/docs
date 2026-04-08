@@ -26,8 +26,8 @@ receive a poster. For more details, see the
 
 ### Reviews
 
-Reviewers were instructed to submit reviews by {{ proceedings_reviews_due_2025 }}, AoE. This was
-followed by a 2-day period in which missing reviews were completed by emergency
+Reviewers were instructed to submit reviews by {{ proceedings_reviews_due_2025 }}, AoE.
+This was followed by a 2-day period in which missing reviews were completed by emergency
 reviewers so that each Proceedings submission received at least 3 quality reviews.
 Reviews were released to authors on **{{ proceedings_reviews_released_2025 }}**.
 
@@ -74,9 +74,9 @@ Once reviews are released, you are invited to write an author response (AKA a
 each official review by clicking the button "**Rebuttal**"
 ([Figure 1](#figure-1-add-rebuttal)) in the lower right corner of each review.
 The deadline for submitting these author responses is
-**{{ proceedings_author_response_due_2025 }}**. You must write an author response before this date
-to participate in any follow-up discussion during the author-reviewer discussion period
-that immediately follows.
+**{{ proceedings_author_response_due_2025 }}**. You must write an author response before
+this date to participate in any follow-up discussion during the author-reviewer
+discussion period that immediately follows.
 
 Each of these text responses has a 2500 character limit.
 Please ensure your responses are productive and respectful of the reviewer's opinions
@@ -103,21 +103,22 @@ The deadline for revising the submission PDF is the same as the author responses
 
 The 8-page limit still applies to the main text at this stage.
 Significant violations (of more than a paragraph) of the 8-page main text limit in a
-revised PDF after **{{ proceedings_author_response_due_2025 }}** will result in a desk rejection.
-If a reviewer requested methodological details for reproducibility that are difficult to
-fit into the main text, you may add these details to the supplement, and add a pointer
-in the main text. It can be helpful for reviewers to understand your revisions if you
-color added and/or revised text in blue or another non-black color (though you should
-also make sure that reviewers know how to interpret this style by explaining this in
-your text response).
+revised PDF after **{{ proceedings_author_response_due_2025 }}** will result in a desk
+rejection. If a reviewer requested methodological details for reproducibility that are
+difficult to fit into the main text, you may add these details to the supplement, and
+add a pointer in the main text.
+It can be helpful for reviewers to understand your revisions if you color added and/or
+revised text in blue or another non-black color (though you should also make sure that
+reviewers know how to interpret this style by explaining this in your text response).
 
 ### Discussion
 
 {{ proceedings_discussion_period_2025 }}
 
 Reviewers are encouraged to respond to author responses immediately after
-{{ proceedings_author_response_due_2025 }}, AoE to facilitate timely interaction between authors and
-reviewers. An additional week, starting {{ proceedings_discussion_period_2025 }}, is exclusively
+{{ proceedings_author_response_due_2025 }}, AoE to facilitate timely interaction between
+authors and reviewers.
+An additional week, starting {{ proceedings_discussion_period_2025 }}, is exclusively
 reserved for author-reviewer discussion **based on the author response**. In this
 period, authors can make one more concise response to reviewer comments, but no longer
 update the paper PDF. The author-reviewer discussion closes on
