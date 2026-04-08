@@ -36,12 +36,12 @@ Message (see the image below).
 
 | Period | SAC responsibilities | Dates |
 | :--- | :--- | :--- |
-| Reviews Due |  | {{ reviews_due_2025 }}, 11:59 PM (AoE) |
-| Author Response Period | Authors write responses. | {{ author_response_period_2025 }} |
-| Author Responses Due |  | {{ author_response_due_2025 }}, 11:59 PM (AoE) |
-| Author-Reviewer Discussion | Reviewers submit final recommendation. | {{ discussion_period_2025 }} |
-| Meta-Review Period | ACs write meta-reviews. | {{ meta_review_period_2025 }} |
-| Final Decisions | Finalize decisions. | {{ final_decisions_period_2025 }} |
+| Reviews Due |  | {{ proceedings_reviews_due_2025 }}, 11:59 PM (AoE) |
+| Author Response Period | Authors write responses. | {{ proceedings_author_response_period_2025 }} |
+| Author Responses Due |  | {{ proceedings_author_response_due_2025 }}, 11:59 PM (AoE) |
+| Author-Reviewer Discussion | Reviewers submit final recommendation. | {{ proceedings_discussion_period_2025 }} |
+| Meta-Review Period | ACs write meta-reviews. | {{ proceedings_meta_review_period_2025 }} |
+| Final Decisions | Finalize decisions. | {{ proceedings_final_decisions_period_2025 }} |
 | Paper Decisions Released |  | {{ proceedings_decisions_2025 }} |
 
 ### Review Stage
@@ -79,7 +79,7 @@ Message (see the image below).
 
 ### Discussion
 
-{{ discussion_period_2025 }}
+{{ proceedings_discussion_period_2025 }}
 
 #### Ensure ACs initiate reviewer-author discussions
 
@@ -112,7 +112,7 @@ Message (see the image below).
 
 ### Meta-reviews
 
-{{ meta_review_period_2025 }}
+{{ proceedings_meta_review_period_2025 }}
 
 #### Guide metareview process
 
@@ -139,7 +139,7 @@ Message (see the image below).
 
 ### Decisions
 
-{{ final_decisions_period_2025 }}
+{{ proceedings_final_decisions_period_2025 }}
 
 1. Review decisions suggested by Area Chairs.
    Potentially meet with [the TPC](#contact-info) to finalize decisions.

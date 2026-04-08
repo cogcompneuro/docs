@@ -102,19 +102,19 @@ Talk when converted to the Extended Abstracts track.
 
 ### There seem to be two deadlines, which one…
 
-**tl;dr:** On {{ abstract_deadline_2025 }} we need your title, author list, and abstract
-(paper summary), but you have until {{ submission_deadline_2025 }} to upload the PDF. If
-you are unsure, we advise you to keep {{ abstract_deadline_2025 }} as an internal
+**tl;dr:** On {{ proceedings_abstract_deadline_2025 }} we need your title, author list, and abstract
+(paper summary), but you have until {{ proceedings_submission_deadline_2025 }} to upload the PDF. If
+you are unsure, we advise you to keep {{ proceedings_abstract_deadline_2025 }} as an internal
 deadline.
 
 Everything in the OpenReview submission form is due by the "**abstract registration
-deadline"** {{ abstract_deadline_2025 }}, anywhere on earth, except for the PDF. The PDF
-is due by the "**full submission deadline"** on {{ submission_deadline_2025 }}, anywhere
+deadline"** {{ proceedings_abstract_deadline_2025 }}, anywhere on earth, except for the PDF. The PDF
+is due by the "**full submission deadline"** on {{ proceedings_submission_deadline_2025 }}, anywhere
 on earth. It will not be possible to edit the author list, the presenter, or the
-reciprocal reviewer of a submission after {{ abstract_deadline_2025 }}. It will be
+reciprocal reviewer of a submission after {{ proceedings_abstract_deadline_2025 }}. It will be
 possible to make edits to other submission metadata (including the title and the
 \~300-word abstract) from
-{{ abstract_deadline_plus_one_2025 }} to {{ submission_deadline_2025 }}, but any major
+{{ proceedings_abstract_deadline_plus_one_2025 }} to {{ proceedings_submission_deadline_2025 }}, but any major
 edits (that substantially change the evidence or contributions of the paper) will result
 in a desk rejection.
 
@@ -123,7 +123,7 @@ in a desk rejection.
 The two deadlines exist for us to have time to recruit and onboard reviewers signing up
 as part of a submission, while keeping the final (PDF) deadline as late as our timeline
 allows.
-We suggest thinking about the overall deadline as {{ abstract_deadline_2025 }} so
+We suggest thinking about the overall deadline as {{ proceedings_abstract_deadline_2025 }} so
 you don't miss the abstract registration deadline.
 
 ### Can I include supplementary material?

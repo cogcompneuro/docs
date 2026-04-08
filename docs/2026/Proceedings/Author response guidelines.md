@@ -18,11 +18,11 @@ relevant to authors of submissions.
 
 | Period | Author responsibilities | Dates |
 | :--- | :--- | :--- |
-| Review |  | {{ review_period_2026 }} |
-| <span class="deadline">[Response](#response)</span> | <span class="deadline">Authors write rebuttals and optionally revise PDF.</span> | <span class="deadline">{{ author_response_period_2026 }}</span> |
-| <span class="deadline">[Discussion](#discussion)</span> | <span class="deadline">Authors engage with reviewers.</span> | <span class="deadline">{{ discussion_period_2026 }}</span> |
-| Meta-Review |  | {{ meta_review_period_2026 }} |
-| Decision[^decisions] |  | {{ final_decisions_period_2026 }} |
+| Review |  | {{ proceedings_review_period_2026 }} |
+| <span class="deadline">[Response](#response)</span> | <span class="deadline">Authors write rebuttals and optionally revise PDF.</span> | <span class="deadline">{{ proceedings_author_response_period_2026 }}</span> |
+| <span class="deadline">[Discussion](#discussion)</span> | <span class="deadline">Authors engage with reviewers.</span> | <span class="deadline">{{ proceedings_discussion_period_2026 }}</span> |
+| Meta-Review |  | {{ proceedings_meta_review_period_2026 }} |
+| Decision[^decisions] |  | {{ proceedings_final_decisions_period_2026 }} |
 
 [^decisions]: Proceedings decisions are related to but not exactly the same as
     presentation format (poster) decisions at CCN 2026: **accepted** Proceedings papers
@@ -35,14 +35,14 @@ relevant to authors of submissions.
 
 ### Response
 
-{{ author_response_period_2026 }}
+{{ proceedings_author_response_period_2026 }}
 
 #### Reviews
 
-Reviewers are instructed to submit reviews by {{ reviews_due_2026 }}, AoE. This is
+Reviewers are instructed to submit reviews by {{ proceedings_reviews_due_2026 }}, AoE. This is
 followed by an emergency period of several days in which missing reviews are completed
 by emergency reviewers so that each Proceedings submission receives at least 3 quality
-reviews. Reviews are released to authors on **{{ reviews_released_2026 }}**.
+reviews. Reviews are released to authors on **{{ proceedings_reviews_released_2026 }}**.
 
 #### Review content
 
@@ -62,7 +62,7 @@ each review.
 ![OpenReview screenshot: Add Rebuttal](../../2025/assets/author-response-1.png)
 
 The deadline for submitting the text component of your author response is
-**{{ author_response_due_2026 }}**. You must submit a text response before this date to
+**{{ proceedings_author_response_due_2026 }}**. You must submit a text response before this date to
 participate in any follow-up discussion during the author-reviewer
 [discussion period](#discussion) that immediately follows.
 
@@ -86,7 +86,7 @@ selecting "**Author Response Revision**". Note, however, that you should not add
 results, unless directly requested by a reviewer (e.g., minor additional statistical
 analyses). Revisions can be uploaded as soon as reviews are released.
 The deadline for revising the submission PDF is the same as the text responses,
-**{{ author_response_due_2026 }}**.
+**{{ proceedings_author_response_due_2026 }}**.
 
 ![OpenReview screenshot: Edit Submission](../../2025/assets/author-response-2.png)
 
@@ -100,14 +100,14 @@ your text response).
 
 ### Discussion
 
-{{ discussion_period_2026 }}
+{{ proceedings_discussion_period_2026 }}
 
 Reviewers are required to respond to author responses by submitting a "Rebuttal
 Response". Reviewers are encouraged to respond immediately after
-{{ author_response_due_2026 }} to facilitate timely interaction between authors and
+{{ proceedings_author_response_due_2026 }} to facilitate timely interaction between authors and
 reviewers. Authors are allowed to make one more concise response to reviewer comments,
 but no longer update the paper PDF. The author-reviewer discussion closes on
-**{{ discussion_due_2026 }}**.
+**{{ proceedings_discussion_due_2026 }}**.
 
 This post-review discussion period is meant as a wrap-up to any discussion between the
 authors and the reviewers, and to give reviewers the option to update their reviews and
@@ -123,7 +123,7 @@ from the TPC and the PC. Decisions and meta-reviews will be released on
 **{{ proceedings_decisions_2026 }}**.
 
 Furthermore, a small subset of accepted papers will be invited to present a Contributed
-Talk, which will be announced in June.
+Talk, which will be announced on **{{ talk_selections_2026 }}**.
 
 ### Invitations to Extended Abstracts
 

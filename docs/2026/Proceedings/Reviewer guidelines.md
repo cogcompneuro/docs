@@ -40,18 +40,18 @@ with authors, other reviewers, and area chairs will take place via OpenReview.
 
 | Period | Reviewer responsibilities | Dates |
 | :--- | :--- | :--- |
-| <span class="deadline">Enrollment</span> | <span class="deadline">Reciprocal reviewers enroll in reviewer pool.</span> | <span class="deadline">{{ enrollment_period_2026 }}</span> |
-| Assignment |  | {{ assignment_period_2026 }} |
-| Adjustment |  | {{ adjustment_period_2026 }} |
-| <span class="deadline">[Review](#review)</span> | <span class="deadline">Reviewers submit reviews for assigned papers.</span> | <span class="deadline">{{ review_period_2026 }}</span> |
-| Response |  | {{ author_response_period_2026 }} |
-| <span class="deadline">[Discussion](#discussion)</span> | <span class="deadline">Reviewers engage with authors and update reviews.</span> | <span class="deadline">{{ discussion_period_2026 }}</span> |
-| Meta-Review |  | {{ meta_review_period_2026 }} |
-| Decision |  | {{ final_decisions_period_2026 }} |
+| <span class="deadline">Enrollment</span> | <span class="deadline">Reciprocal reviewers enroll in reviewer pool.</span> | <span class="deadline">{{ proceedings_enrollment_period_2026 }}</span> |
+| Assignment |  | {{ proceedings_assignment_period_2026 }} |
+| Adjustment |  | {{ proceedings_adjustment_period_2026 }} |
+| <span class="deadline">[Review](#review)</span> | <span class="deadline">Reviewers submit reviews for assigned papers.</span> | <span class="deadline">{{ proceedings_review_period_2026 }}</span> |
+| Response |  | {{ proceedings_author_response_period_2026 }} |
+| <span class="deadline">[Discussion](#discussion)</span> | <span class="deadline">Reviewers engage with authors and update reviews.</span> | <span class="deadline">{{ proceedings_discussion_period_2026 }}</span> |
+| Meta-Review |  | {{ proceedings_meta_review_period_2026 }} |
+| Decision |  | {{ proceedings_final_decisions_period_2026 }} |
 
 ### Review
 
-{{ review_period_2026 }}
+{{ proceedings_review_period_2026 }}
 
 #### Assignment
 
@@ -61,7 +61,7 @@ with authors, other reviewers, and area chairs will take place via OpenReview.
 
 #### Review deadline
 
-**{{ reviews_due_2026 }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
+**{{ proceedings_reviews_due_2026 }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing deadline.
 We are counting on you to submit your review(s) on or before this date so that we can
 move onto the next step of the process.
 
@@ -92,7 +92,7 @@ with the readers set to your **Area Chair** and **the TPC** (see
 
 ### Discussion
 
-{{ discussion_period_2026 }}
+{{ proceedings_discussion_period_2026 }}
 
 After reviews are in, authors will be given the opportunity to respond to their reviews,
 and then a conversation will follow.

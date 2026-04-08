@@ -10,7 +10,7 @@ page describes how to prepare and submit the camera-ready version of your manusc
 | Period | Author responsibilities | Dates |
 | :--- | :--- | :--- |
 | Proceedings decisions |  | {{ proceedings_decisions_2026 }} |
-| <span class="deadline">[Camera-ready preparation](#camera-ready-preparation)</span> | <span class="deadline">Authors prepare and submit camera-ready copies.</span> | <span class="deadline">{{ proceedings_decisions_2026 }} - {{ proceedings_camera_ready_deadline_2026 }}</span> |
+| <span class="deadline">[Camera-ready preparation](#camera-ready-preparation)</span> | <span class="deadline">Authors prepare and submit camera-ready copies.</span> | <span class="deadline">{{ proceedings_decisions_2026 }} - {{ camera_ready_deadline_2026 }}</span> |
 | [Talk selections](#talk-selections) |  | {{ talk_selections_2026 }} |
 
 ### Camera-ready preparation
@@ -68,7 +68,7 @@ references, and supplement.
 
 --8<-- "2026/camera-ready/howto-submit.md"
 
-Camera-ready copies are due by {{ proceedings_camera_ready_deadline_2026 }}, anywhere on
+Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, anywhere on
 Earth. The camera-ready copy is the final version of your Proceedings paper, and must
 adhere to the requirements described above.
 We will not accept revisions past this deadline.

@@ -32,19 +32,19 @@ guidance from your senior area chair (SAC).
 
 | Period | AC responsibilities | Dates |
 | :--- | :--- | :--- |
-| Enrollment |  | {{ enrollment_period_2026 }} |
-| Assignment |  | {{ assignment_period_2026 }} |
-| [Adjustment](#adjustment) | ACs check assignments. | {{ adjustment_period_2026 }} |
-| [Review](#review) | ACs facilitate reviewers writing reviews. | {{ review_period_2026 }} |
-| <span class="deadline">[Emergency Review](#emergency-review)</span> | <span class="deadline">ACs ensure all papers have 3+ reviews.</span> | <span class="deadline">{{ emergency_review_period_2026 }}</span> |
-| Response |  | {{ author_response_period_2026 }} |
-| [Discussion](#discussion) | ACs moderate discussion between authors and reviewers. | {{ discussion_period_2026 }} |
-| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">ACs write meta-reviews.</span> | <span class="deadline">{{ meta_review_period_2026 }}</span> |
-| Decision |  | {{ final_decisions_period_2026 }} |
+| Enrollment |  | {{ proceedings_enrollment_period_2026 }} |
+| Assignment |  | {{ proceedings_assignment_period_2026 }} |
+| [Adjustment](#adjustment) | ACs check assignments. | {{ proceedings_adjustment_period_2026 }} |
+| [Review](#review) | ACs facilitate reviewers writing reviews. | {{ proceedings_review_period_2026 }} |
+| <span class="deadline">[Emergency Review](#emergency-review)</span> | <span class="deadline">ACs ensure all papers have 3+ reviews.</span> | <span class="deadline">{{ proceedings_emergency_review_period_2026 }}</span> |
+| Response |  | {{ proceedings_author_response_period_2026 }} |
+| [Discussion](#discussion) | ACs moderate discussion between authors and reviewers. | {{ proceedings_discussion_period_2026 }} |
+| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">ACs write meta-reviews.</span> | <span class="deadline">{{ proceedings_meta_review_period_2026 }}</span> |
+| Decision |  | {{ proceedings_final_decisions_period_2026 }} |
 
 ### Adjustment
 
-{{ adjustment_period_2026 }}
+{{ proceedings_adjustment_period_2026 }}
 
 We have done our best to match ACs with the most appropriate submissions.
 However, if you find that a manuscript assigned to you is too far outside of your **area
@@ -62,7 +62,7 @@ opinions.
 
 ### Review
 
-{{ review_period_2026 }}
+{{ proceedings_review_period_2026 }}
 
 As an area chair, you will oversee the review process for the submissions assigned to
 you. Keep the process on schedule by following up with reviewers, assisting those who
@@ -70,7 +70,7 @@ feel poorly matched, and finding replacements if necessary.
 
 The reviewer pool is made up of **Reciprocal Reviewers** who are reviewing as part of a
 Proceedings submission, and **Invited Reviewers** who are volunteering their time.
-Reviews for both pools are due **{{ reviews_due_2026 }}**. Read all reviews carefully.
+Reviews for both pools are due **{{ proceedings_reviews_due_2026 }}**. Read all reviews carefully.
 If a review is substandard, ask the reviewer to improve it with polite, concrete
 guidance. CCN expects the highest quality in its reviews, similar to a journal review,
 and reviewers are given a small load (on average, 2-3 papers) to make this possible.
@@ -82,14 +82,14 @@ Please encourage this standard.
 
 ### Emergency Review
 
-{{ emergency_review_period_2026 }}
+{{ proceedings_emergency_review_period_2026 }}
 
 During this period, ACs ensure that emergency reviewers and/or regular reviewers
 complete any tardy reviews so that each paper has at least 3 high-quality reviews before
 the start of the author response period.
 
 Reciprocal Reviewers who do not complete their reviews by the reviews due date
-({{ reviews_due_2026 }}) will receive a warning from the TPC and be given the emergency
+({{ proceedings_reviews_due_2026 }}) will receive a warning from the TPC and be given the emergency
 review period to complete their review.
 If they still do not complete their review, the TPC will desk-reject their paper at the
 end of the emergency review period.
@@ -108,7 +108,7 @@ their information, and we will assign them.
 
 ### Discussion
 
-{{ discussion_period_2026 }}
+{{ proceedings_discussion_period_2026 }}
 
 After the authors submit their Author Response, there is one week for discussion between
 authors and reviewers assigned to each paper.
@@ -126,7 +126,7 @@ meta-review.
 
 ### Meta-Review
 
-{{ meta_review_period_2026 }}
+{{ proceedings_meta_review_period_2026 }}
 
 Write a meta-review for each submission that summarizes the reviews and discussion, and
 provides your decision recommendation ("Accept to Proceedings" or "Invite to Extended

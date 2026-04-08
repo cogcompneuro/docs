@@ -37,18 +37,18 @@ the relevant submission, and press "Message".
 
 | Period | SAC responsibilities | Dates |
 | :--- | :--- | :--- |
-| Enrollment |  | {{ enrollment_period_2026 }} |
-| Assignment |  | {{ assignment_period_2026 }} |
-| Adjustment |  | {{ adjustment_period_2026 }} |
-| Review |  | {{ review_period_2026 }} |
-| Response |  | {{ author_response_period_2026 }} |
-| Discussion |  | {{ discussion_period_2026 }} |
-| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">SACs provide feedback to ACs writing meta-reviews.</span> | <span class="deadline">{{ meta_review_period_2026 }}</span> |
-| <span class="deadline">[Decision](#decision)</span> | <span class="deadline">SACs finalize decisions with TPC.</span> | <span class="deadline">{{ final_decisions_period_2026 }}</span> |
+| Enrollment |  | {{ proceedings_enrollment_period_2026 }} |
+| Assignment |  | {{ proceedings_assignment_period_2026 }} |
+| Adjustment |  | {{ proceedings_adjustment_period_2026 }} |
+| Review |  | {{ proceedings_review_period_2026 }} |
+| Response |  | {{ proceedings_author_response_period_2026 }} |
+| Discussion |  | {{ proceedings_discussion_period_2026 }} |
+| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">SACs provide feedback to ACs writing meta-reviews.</span> | <span class="deadline">{{ proceedings_meta_review_period_2026 }}</span> |
+| <span class="deadline">[Decision](#decision)</span> | <span class="deadline">SACs finalize decisions with TPC.</span> | <span class="deadline">{{ proceedings_final_decisions_period_2026 }}</span> |
 
 ### Meta-Review
 
-{{ meta_review_period_2026 }}
+{{ proceedings_meta_review_period_2026 }}
 
 This is the most important phase of your involvement.
 As a SAC, you see more papers than any individual AC, which means you are uniquely
@@ -66,7 +66,7 @@ AC. You may optionally meet with your ACs individually to discuss their recommen
 
 ### Decision
 
-{{ final_decisions_period_2026 }}
+{{ proceedings_final_decisions_period_2026 }}
 
 Review the decisions recommended by your ACs and work with [the TPC](#contact-info) to
 finalize them. The TPC may optionally schedule a meeting with SACs to calibrate final

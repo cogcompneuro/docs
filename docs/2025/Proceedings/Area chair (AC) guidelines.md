@@ -28,20 +28,20 @@ guidance from your senior area chair (SAC).
 
 | Period | AC responsibilities | Dates |
 | :--- | :--- | :--- |
-| [Assignment](#assignment) | ACs matched with submissions. | {{ review_period_2025 }} |
-| [Review Period](#reviews) | Ensure all papers have 3+ reviews. | {{ review_period_2025 }} |
-| Reviews Due |  | {{ reviews_due_2025 }}, 11:59 PM (AoE) |
-| Author Response | Authors write responses. | {{ author_response_period_2025 }} |
-| Author Responses Due |  | {{ author_response_due_2025 }}, 11:59 PM (AoE) |
-| [Discussion](#discussion) | Authors interact with reviewers. | {{ discussion_period_2025 }} |
-| [Meta-Reviews](#meta-reviews) | ACs write meta-reviews. | {{ meta_review_period_2025 }} |
-| **Meta Review Due** | (**main AC deadline**) | **{{ meta_review_due_2025 }}** |
-| Final Decisions | SACs and TPC finalize decisions. | {{ final_decisions_period_2025 }} |
+| [Assignment](#assignment) | ACs matched with submissions. | {{ proceedings_review_period_2025 }} |
+| [Review Period](#reviews) | Ensure all papers have 3+ reviews. | {{ proceedings_review_period_2025 }} |
+| Reviews Due |  | {{ proceedings_reviews_due_2025 }}, 11:59 PM (AoE) |
+| Author Response | Authors write responses. | {{ proceedings_author_response_period_2025 }} |
+| Author Responses Due |  | {{ proceedings_author_response_due_2025 }}, 11:59 PM (AoE) |
+| [Discussion](#discussion) | Authors interact with reviewers. | {{ proceedings_discussion_period_2025 }} |
+| [Meta-Reviews](#meta-reviews) | ACs write meta-reviews. | {{ proceedings_meta_review_period_2025 }} |
+| **Meta Review Due** | (**main AC deadline**) | **{{ proceedings_meta_review_due_2025 }}** |
+| Final Decisions | SACs and TPC finalize decisions. | {{ proceedings_final_decisions_period_2025 }} |
 | Paper Decisions Released |  | {{ proceedings_decisions_2025 }} |
 
 ### Assignment
 
-{{ review_period_2025 }}
+{{ proceedings_review_period_2025 }}
 
 We have done our best to match ACs with the most appropriate submissions.
 However, if you find that a manuscript assigned to you is too far outside of your **area
@@ -58,7 +58,7 @@ whom you can trust on this submission, ideally with a diverse set of opinions.
 
 ### Reviews
 
-{{ review_period_2025 }}
+{{ proceedings_review_period_2025 }}
 
 As an area chair, you will oversee the review process for the submissions assigned to
 you and address any potential concerns raised by the reviewers.
@@ -71,7 +71,7 @@ Assist reviewers who may feel poorly matched to submissions.
 Address reviewer concerns and assign additional reviewers if necessary to ensure
 thorough evaluation.
 
-Reviews are due **{{ reviews_due_2025 }}**. Read all reviews carefully.
+Reviews are due **{{ proceedings_reviews_due_2025 }}**. Read all reviews carefully.
 If a review is substandard, you should ask the reviewer to improve their review.
 Please remember to be polite and provide concrete guidance.
 CCN expects the highest quality in its reviews.
@@ -85,7 +85,7 @@ Please encourage this standard in the reviewers you oversee.
 
 ### Discussion
 
-{{ discussion_period_2025 }}
+{{ proceedings_discussion_period_2025 }}
 
 During the post-review discussion period, you will facilitate a constructive discussion
 between the authors and the reviewers through the OpenReview platform.
@@ -99,7 +99,7 @@ restricting the visibility of your comments in the OpenReview platform.
 
 ### Meta-reviews
 
-{{ meta_review_period_2025 }}
+{{ proceedings_meta_review_period_2025 }}
 
 After the discussion period, you will be responsible for writing meta reviews to
 summarize the reviews and the discussion that followed.

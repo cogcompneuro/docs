@@ -10,8 +10,7 @@ Abstract.
 
 | Period | Author responsibilities | Dates |
 | :--- | :--- | :--- |
-| EA decisions |  | {{ ea_decisions_2026 }} |
-| <span class="deadline">[Camera-ready preparation](#camera-ready-preparation)</span> | <span class="deadline">Authors prepare and submit camera-ready copies.</span> | <span class="deadline">{{ ea_decisions_2026 }} - {{ ea_camera_ready_deadline_2026 }}</span> |
+| <span class="deadline">[Camera-ready preparation](#camera-ready-preparation)</span> | <span class="deadline">Authors prepare and submit camera-ready copies.</span> | <span class="deadline">{{ ea_camera_ready_period_2026 }}</span> |
 | [Talk selections](#talk-selections) |  | {{ talk_selections_2026 }} |
 
 ### Camera-ready preparation
@@ -76,7 +75,7 @@ Abstract from CCN 2026 and resubmit to CCN 2027.
 
 --8<-- "2026/camera-ready/howto-submit.md"
 
-Camera-ready copies are due by {{ ea_camera_ready_deadline_2026 }}, anywhere on Earth.
+Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, anywhere on Earth.
 The camera-ready copy is the final version of your Extended Abstract, and must adhere to
 the requirements described above.
 We will not accept revisions past this deadline.
