@@ -1,13 +1,16 @@
 matrix:
   - name: Markdown
+    sources:
+      - "docs/**/*.md"
+      - "snippets/**/*.md"
     aspell:
       lang: en
       d: en_US
 
     dictionary:
       wordlists:
-        - .github/config/wordlist.txt
-      output: .github/config/wordlist.dic
+        - wordlist.txt
+      output: wordlist.dic
       encoding: utf-8
 
     pipeline:

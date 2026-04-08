@@ -15,6 +15,9 @@ jobs:
       - name: Set up uv
         uses: astral-sh/setup-uv@v1
 
+      - name: Install aspell
+        run: sudo apt-get install -y aspell aspell-en
+
       - name: Run prek and fix files
         run: uvx prek run --all-files
 

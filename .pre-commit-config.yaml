@@ -1,4 +1,5 @@
 repos:
+  # TODO: use remote repo once https://github.com/jlevy/flowmark/issues/24 is resolved
   - repo: local
     hooks:
       - id: flowmark
@@ -9,8 +10,14 @@ repos:
         exclude: ^(snippets/|docs/2026/Proceedings/Submission guidelines\.md)
 
   - repo: https://github.com/rvben/rumdl-pre-commit
-    rev: v0.1.60
+    rev: v0.1.67
     hooks:
       - id: rumdl
         args:
           - --disable=MD003,MD012,MD013,MD022,MD023,MD033,MD041,MD051,MD071
+
+  - repo: https://github.com/facelessuser/pyspelling.git
+    rev: "2.12.1"
+    hooks:
+      - id: pyspelling
+        pass_filenames: false

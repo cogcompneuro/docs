@@ -29,15 +29,7 @@ The site will be available at `http://127.0.0.1:8000/docs/`.
 
 ### Quality checks
 
-Before committing, run pre-commit hooks to format and lint markdown files:
-
-```sh
-uvx prek
-```
-
-### Spell checking
-
-To check spelling locally:
+Before committing, run pre-commit hooks to format, lint, and spell-check markdown files:
 
 ```sh
 # Install aspell (one-time setup)
@@ -46,12 +38,9 @@ brew install aspell
 # Linux:
 sudo apt-get install aspell aspell-en
 
-# Run spellcheck on specific files
-.github/bin/spellcheck.sh path/to/file.md
-
-# Or check all markdown files
-.github/bin/spellcheck.sh
+# Run all hooks
+uvx prek
 ```
 
 If you encounter words that are spelled correctly but flagged as misspellings, add them
-to `.github/config/wordlist.txt` (one word per line, sorted alphabetically).
+to `wordlist.txt` (one word per line, sorted alphabetically).
