@@ -63,14 +63,14 @@ def define_env(env):
 
     # ── 2026 Extended Abstracts ───────────────────────────────────────
     env.variables["ea_submission_deadline_2026"] = "Apr 2, 2026"
-    env.variables["ea_desk_rejection_period_2026"] = "Apr 3 - Apr 12, 2026"
+    env.variables["ea_desk_rejection_period_2026"] = "Apr 3 - Apr 16, 2026"
     env.variables["ea_review_period_2026"] = "Apr 13 - May 18, 2026"
     env.variables["ea_reviews_due_2026"] = "May 18, 2026"
     env.variables["ea_emergency_review_period_2026"] = "May 19 - May 25, 2026"
     env.variables["ea_camera_ready_period_2026"] = "May 26 - Jun 11, 2026"
 
     # ── 2026 Shared ──────────────────────────────────────────────────
-    env.variables["poster_acceptances_2026"] = "Apr 20, 2026"
+    env.variables["poster_acceptances_2026"] = "Apr 17, 2026"
     env.variables["presenter_selection_period_2026"] = "May 26 - Jun 11, 2026"
     env.variables["camera_ready_deadline_2026"] = "Jun 11, 2026"
     env.variables["talk_selections_2026"] = "Jun 12, 2026"
