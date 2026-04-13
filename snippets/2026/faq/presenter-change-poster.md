@@ -1,8 +1,7 @@
 ### I can no longer attend CCN 2026. Can my co-author present my poster?
 
-Please reach out to the Technical Programme Committee
-([tpc@ccneuro.org](mailto:tpc@ccneuro.org)) to request to change the "Presenter" to your
-co-author on your submission.
+Please [reach out to the TPC](#contact-info) to request to change the "Presenter" to
+your co-author on your submission.
 Presenters are identified via submission metadata on OpenReview.
 
 Please note that Presenters need to be unique across both tracks at CCN 2026 (*i.e.*, an
