@@ -2,6 +2,10 @@
 
 --8<-- "2026/policies/confidentiality.md"
 
+### Use of artificial intelligence
+
+--8<-- "2026/policies/ai-usage-reviewers.md"
+
 ### Conduct
 
 --8<-- "2026/policies/conduct.md"
