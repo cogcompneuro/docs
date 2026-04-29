@@ -167,20 +167,21 @@ We ask you to provide the following in the meta review form on OpenReview:
 
 3. Your **meta-review**, where you describe whether the reviewers' points were
    sufficiently addressed by the authors and whether you, as the AC, found each point
-   worthy of consideration in decision-making. (As a reminder, a goal of the CCN
-   Proceedings is to publish works that are broadly accessible to an interdisciplinary
-   audience, and so some reviews may reflect evaluation by experts outside of a
-   particular domain expertise, but this is valuable feedback.)
-   The meta-review should end with a clear justification of your recommendation on the
-   basis of the content in and the engagement around the submission (*i.e.*, the points
-   you just detailed).
+   worthy of consideration in decision-making.
+   (As a reminder, a goal of the CCN Proceedings is to publish works that are broadly
+   accessible to an interdisciplinary audience, and so some reviews may reflect
+   evaluation by experts outside of a particular domain expertise, but this is valuable
+   feedback.) The meta-review should end with a clear justification of your
+   recommendation on the basis of the content in and the engagement around the
+   submission (*i.e.*, the points you just detailed).
 
 4. A brief **reason for your recommendation**: what is your reason for not giving the
    higher or lower recommendation?
 
 5. Your **batch ranking** of this submission: "Top of my batch", "Middle of my batch",
-   or "Bottom of my batch". This information helps the SAC calibrate the decision
-   threshold across more papers than your batch.
+   or "Bottom of my batch".
+   This information helps the SAC calibrate the decision threshold across more papers
+   than your batch.
 
 #### Example meta-reviews
 

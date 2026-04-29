@@ -7,6 +7,7 @@ CCN
 CCN's
 CCNs
 CfP
+ChatGPT
 DBLP
 DOI
 Deanonymize

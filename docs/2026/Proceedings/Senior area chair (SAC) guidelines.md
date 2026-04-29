@@ -65,9 +65,9 @@ Provide feedback to ACs directly in OpenReview by adding comments visible only t
 AC. You may optionally meet with your ACs individually to discuss their recommendations.
 
 Each AC also submits a **batch ranking** ("Top of my batch", "Middle of my batch", or
-"Bottom of my batch") for every paper they handle. Use these rankings to calibrate the
-decision threshold across your stack of ACs, since you see a broader set of papers than
-any individual AC.
+"Bottom of my batch") for every paper they handle.
+Use these rankings to calibrate the decision threshold across your stack of ACs, since
+you see a broader set of papers than any individual AC.
 
 ### Decision
 
