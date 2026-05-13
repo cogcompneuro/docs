@@ -2,6 +2,8 @@
 
 --8<-- "2026/glossary-definitions.md"
 
+--8<-- "2026/camera-ready/under-development.md"
+
 Congratulations on the acceptance of your paper in the Proceedings of CCN 2026! This
 page describes how to prepare and submit the camera-ready version of your manuscript.
 
