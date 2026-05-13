@@ -4,7 +4,7 @@
 
 ### Use of artificial intelligence
 
---8<-- "2026/policies/ai-usage-reviewers.md"
+--8<-- "2026/policies/AI-usage-reviewers.md"
 
 ### Conduct
 
