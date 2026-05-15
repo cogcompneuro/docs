@@ -2,6 +2,8 @@
 
 --8<-- "2026/glossary-definitions.md"
 
+--8<-- "2026/camera-ready/under-development.md"
+
 We look forward to seeing your work presented in New York City!
 This page describes how to prepare and submit the camera-ready version of your Extended
 Abstract.

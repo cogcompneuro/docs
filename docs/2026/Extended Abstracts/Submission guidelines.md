@@ -151,9 +151,8 @@ for which you are an author but not the Presenter.
 
 ### Can I make an Extended Abstract submission if I have already made a Proceedings submission?
 
-Yes.
-
---8<-- "2026/policies/presenter-policy.md"
+Yes. See the [Presenter policy](#presenter-policy) above for details on what happens if
+both contributions are accepted.
 
 ### Will my extended abstract be copyrighted?
 

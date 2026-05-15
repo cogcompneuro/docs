@@ -129,7 +129,7 @@ meta-review.
 {{ proceedings_meta_review_period_2026 }}
 
 Write a meta-review for each submission that summarizes the reviews and discussion, and
-provides your decision recommendation ("Accept to Proceedings" or "Invite to Extended
+provides your decision recommendation ("Accept as Proceedings" or "Invite to Extended
 Abstracts") with justification.
 You can reach out to reviewers or the SAC for clarifications.
 
@@ -155,21 +155,33 @@ These are the tough decisions where we need your judgment!
 
 We ask you to provide the following in the meta review form on OpenReview:
 
-1. Your **recommendation**: "Accept to Proceedings" (accept full paper) or "Invite to
-   Extended Abstracts" (reject full paper; convert to 2-page format).
+1. Your **CCN recommendation**: "Accept as Proceedings" (accept full paper) or "Invite
+   to Extended Abstracts" (reject full paper; convert to 2-page format).
 
-2. A concise **summary** of the engagement between the reviewers and authors (including
-   the reviews, the author response, and the ensuing discussion), highlighting the key
-   strengths and weaknesses raised by the reviewers surrounding *Interest*, *Soundness*,
-   and *Clarity*, the responses provided by the authors, and any evolution in the
-   reviewers' evaluation that occurred through the exchange.
+2. A concise **summary** of the engagement around this submission between the reviewers
+   and authors (including the reviews, the author response, and the ensuing discussion),
+   highlighting the key strengths and weaknesses raised surrounding *Interest*,
+   *Soundness*, and *Clarity*, the responses provided, and any evolution in the
+   evaluation of the submission that occurred through discussion among authors,
+   reviewers, and the AC.
 
 3. Your **meta-review**, where you describe whether the reviewers' points were
-   sufficiently addressed by the authors and whether you, as the AC, found the
-   reviewers' points worthy of consideration in decision-making.
-   The meta-review should end with a clear justification of your recommendation on the
-   basis of the content in and the engagement around the submission (*i.e.*, the points
-   you described above).
+   sufficiently addressed by the authors and whether you, as the AC, found each point
+   worthy of consideration in decision-making.
+   (As a reminder, a goal of the CCN Proceedings is to publish works that are broadly
+   accessible to an interdisciplinary audience, and so some reviews may reflect
+   evaluation by experts outside of a particular domain expertise, but this is valuable
+   feedback.) The meta-review should end with a clear justification of your
+   recommendation on the basis of the content in and the engagement around the
+   submission (*i.e.*, the points you just detailed).
+
+4. A brief **reason for your recommendation**: what is your reason for not giving the
+   higher or lower recommendation?
+
+5. Your **batch ranking** of this submission: "Top of my batch", "Middle of my batch",
+   or "Bottom of my batch".
+   This information helps the SAC calibrate the decision threshold across more papers
+   than your batch.
 
 #### Example meta-reviews
 

@@ -64,7 +64,8 @@ considered for a Contributed Talk.
 
 #### Things to flag
 
-If you note any of the following in your submissions, please flag them with the TPC.
+If you note any of the following in your submissions, please
+[flag them with the TPC](#contact-info).
 
 --8<-- "2026/reviewers/things-to-flag-ea.md"
 
@@ -76,7 +77,7 @@ If you note any of the following in your submissions, please flag them with the 
 
 --8<-- "2026/policies/blinding.md"
 
-Only the [TPC] knows your identity as a reviewer.
+Only the TPC knows your identity as a reviewer.
 
 ### Interdisciplinarity
 
