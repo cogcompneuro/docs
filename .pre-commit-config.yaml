@@ -7,14 +7,19 @@ repos:
         language: system
         entry: uvx flowmark --inplace --nobackup --semantic --cleanups
         types: [markdown]
-        exclude: ^(snippets/|docs/2026/Proceedings/Submission guidelines\.md)
+        # TODO: Remove Contributed Talks exclusion when Zensical transitions from
+        # Python-Markdown to CommonMark (2-space list nesting will work then).
+        # See https://github.com/zensical/zensical/issues/453
+        exclude: ^(snippets/|docs/2026/Proceedings/Submission guidelines\.md|docs/2026/Contributed Talks/)
 
   - repo: https://github.com/rvben/rumdl-pre-commit
     rev: v0.1.67
     hooks:
       - id: rumdl
         args:
-          - --disable=MD003,MD012,MD013,MD022,MD023,MD033,MD041,MD051,MD071
+          # TODO: Remove MD007,MD077 disables when Zensical transitions from
+          # Python-Markdown to CommonMark. See https://github.com/zensical/zensical/issues/453
+          - --disable=MD003,MD007,MD012,MD013,MD022,MD023,MD033,MD041,MD051,MD071,MD077
 
   - repo: https://github.com/facelessuser/pyspelling.git
     rev: "2.12.1"

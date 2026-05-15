@@ -8,6 +8,7 @@ CCN's
 CCNs
 CfP
 DBLP
+DEI
 DOI
 Deanonymize
 EAs
@@ -41,14 +42,17 @@ arXiv
 aspell
 brew
 ccneuro
+cdot
 config
 de
 deanonymization
 deanonymize
+deanonymized
 dr
 dropdown
 et
 faq
+frac
 fullname
 github
 howto
@@ -58,6 +62,7 @@ llm
 lucide
 macOS
 mailto
+mathbf
 md
 metareview
 nd
@@ -70,9 +75,11 @@ preprint
 preprints
 priori
 programme
+pseudonymized
 quickstart
 reproducibility
 signup
+softmax
 subfield
 sudo
 th
@@ -81,6 +88,9 @@ tl
 tpc
 transformative
 txt
+unblinded
+unblinding
+underrepresentation
 unsubmitted
 url
 uv
