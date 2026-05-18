@@ -61,9 +61,7 @@ nav = [
       { "Reviewer guidelines" = "2026/Extended Abstracts/Reviewer guidelines.md" },
       { "Camera-ready guidelines" = "2026/Extended Abstracts/Camera-ready guidelines.md" },
     ]},
-    { "Contributed Talks" = [
-      { "Talk selection process" = "2026/Contributed Talks/Talk selection process.md" },
-    ]},
+    { "Contributed Talks" = "2026/Contributed Talks/Talk selection process.md" },
   ]},
   { "2025" = [
     { "Proceedings" = [
