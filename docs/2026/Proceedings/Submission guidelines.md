@@ -1,6 +1,6 @@
 # Submission guidelines
 
---8<-- "2026/glossary-definitions.md"
+{% include "2026/glossary-definitions.md" %}
 
 ![CCN 2026 Submissions Flowchart](../../2025/assets/ccn25_submissions.png)
 
@@ -37,11 +37,11 @@ pages, excluding references.
 
 #### Abstract
 
---8<-- "2026/submissions/abstract-guidance.md"
+{% include "2026/submissions/abstract-guidance.md" %}
 
 #### Templates
 
---8<-- "2026/submissions/required-template-warning.md"
+{% include "2026/submissions/required-template-warning.md" %}
 
 **Download:**
 [CCN 2026 LaTeX Template (zip)](https://github.com/cogcompneuro/ccn-template/archive/refs/heads/main.zip)
@@ -51,52 +51,52 @@ If you encounter any issues with the template, please
 
 ### Double-blind review
 
---8<-- "2026/policies/double-blind-anonymization.md"
+{% include "2026/policies/double-blind-anonymization.md" %}
 
---8<-- "2026/policies/code-anonymization.md"
+{% include "2026/policies/code-anonymization.md" %}
 
 ### Reciprocal reviewer policy
 
---8<-- "2026/reviewers/pool-size.md"
+{% include "2026/reviewers/pool-size.md" %}
 
 Authors in this category who fail to finish reviews by the author response stage may
 have their paper submissions desk-rejected and may not be considered for Contributed
 Talk when converted to the Extended Abstracts track.
---8<-- "2026/reviewers/exemption.md"
+{% include "2026/reviewers/exemption.md" %}
 
 ### Use of large language models
 
---8<-- "2026/policies/llm-usage.md"
+{% include "2026/policies/llm-usage.md" %}
 
 ### Presenter policy
 
---8<-- "2026/policies/presenter-policy.md"
+{% include "2026/policies/presenter-policy.md" %}
 
 ### Dual submission policy
 
---8<-- "2026/policies/dual-submission.md"
+{% include "2026/policies/dual-submission.md" %}
 
 ## Frequently Asked Questions
 
---8<-- "2026/faq/presenter-change-poster.md"
+{% include "2026/faq/presenter-change-poster.md" %}
 
---8<-- "2026/faq/presenter-change-talk.md"
+{% include "2026/faq/presenter-change-talk.md" %}
 
---8<-- "2026/faq/timezone.md"
+{% include "2026/faq/timezone.md" %}
 
---8<-- "2026/faq/anonymized-author-block.md"
+{% include "2026/faq/anonymized-author-block.md" %}
 
---8<-- "2026/faq/shared-authorship.md"
+{% include "2026/faq/shared-authorship.md" %}
 
---8<-- "2026/faq/keywords.md"
+{% include "2026/faq/keywords.md" %}
 
---8<-- "2026/faq/acknowledgments.md"
+{% include "2026/faq/acknowledgments.md" %}
 
---8<-- "2026/faq/code-linking.md"
+{% include "2026/faq/code-linking.md" %}
 
---8<-- "2026/faq/equation-formatting.md"
+{% include "2026/faq/equation-formatting.md" %}
 
---8<-- "2026/faq/preprints.md"
+{% include "2026/faq/preprints.md" %}
 
 ### There seem to be two deadlines, which one…
 
@@ -142,4 +142,4 @@ may decide to submit the manuscript to another venue which may have its own poli
 prior publication. Accepted CCN Proceedings papers will have an assigned DOI, which may
 affect this decision.
 
---8<-- "2026/contact-info.md"
+{% include "2026/contact-info.md" %}

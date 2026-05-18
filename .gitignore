@@ -9,6 +9,3 @@ __pycache__/
 
 # Spelling
 wordlist.dic
-
-# Workaround
-zen_macros_ext/build/

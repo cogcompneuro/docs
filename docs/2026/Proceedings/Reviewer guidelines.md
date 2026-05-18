@@ -1,10 +1,10 @@
 # Reviewer Guidelines
 
---8<-- "2026/glossary-definitions.md"
+{% include "2026/glossary-definitions.md" %}
 
 Thank you once again for agreeing to review for CCN Proceedings.
 
---8<-- "2026/thanks-proceedings.md"
+{% include "2026/thanks-proceedings.md" %}
 
 ## Role
 
@@ -24,15 +24,15 @@ with authors, other reviewers, and area chairs will take place via OpenReview.
 
 ## OpenReview Console
 
---8<-- "2026/openreview/console.md"
+{% include "2026/openreview/console.md" %}
 
---8<-- "2026/openreview/button-reviewer-proceedings.md"
+{% include "2026/openreview/button-reviewer-proceedings.md" %}
 
---8<-- "2026/openreview/working-in-openreview.md"
+{% include "2026/openreview/working-in-openreview.md" %}
 
 ### Setting comment visibility
 
---8<-- "2026/openreview/comment-visibility.md"
+{% include "2026/openreview/comment-visibility.md" %}
 
 ![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
 
@@ -55,9 +55,9 @@ with authors, other reviewers, and area chairs will take place via OpenReview.
 
 #### Assignment
 
---8<-- "2026/reviewers/assignment-intro-proceedings.md"
+{% include "2026/reviewers/assignment-intro-proceedings.md" %}
 
---8<-- "2026/openreview/email-profile-reminder.md"
+{% include "2026/openreview/email-profile-reminder.md" %}
 
 #### Review deadline
 
@@ -79,7 +79,7 @@ Reviewers are asked to evaluate submissions according to their **interest**,
 **soundness**, **clarity**, and **confidence of expertise**, and to provide comments on
 their evaluations.
 
---8<-- "2026/reviewers/review-form.md"
+{% include "2026/reviewers/review-form.md" %}
 
 #### Things to flag
 
@@ -88,7 +88,7 @@ If you note any of the following in your submissions, please escalate them to yo
 with the readers set to your **Area Chair** and **the TPC** (see
 [Setting comment visibility](#setting-comment-visibility)).
 
---8<-- "2026/reviewers/things-to-flag.md"
+{% include "2026/reviewers/things-to-flag.md" %}
 
 ### Discussion
 
@@ -124,29 +124,29 @@ Earth. No new replies from either Reviewers or Authors can be submitted after th
 
 ### Availability
 
---8<-- "2026/policies/availability.md"
+{% include "2026/policies/availability.md" %}
 
 If you are unable to meet these expectations, please let your AC or
 [the TPC](#contact-info) know as soon as possible.
 
 ### Kindness
 
---8<-- "2026/policies/kindness.md"
+{% include "2026/policies/kindness.md" %}
 
---8<-- "2026/reviewers/common-policies.md"
+{% include "2026/reviewers/common-policies.md" %}
 
 ### Anonymization
 
---8<-- "2026/policies/blinding.md"
+{% include "2026/policies/blinding.md" %}
 
 However, ACs do know your identity.
 
 ### Interdisciplinarity
 
---8<-- "2026/policies/interdisciplinarity.md"
+{% include "2026/policies/interdisciplinarity.md" %}
 
 ### Flexibility
 
---8<-- "2026/policies/flexibility.md"
+{% include "2026/policies/flexibility.md" %}
 
---8<-- "2026/contact-info.md"
+{% include "2026/contact-info.md" %}

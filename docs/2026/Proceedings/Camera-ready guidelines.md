@@ -1,8 +1,8 @@
 # Camera-ready guidelines
 
---8<-- "2026/glossary-definitions.md"
+{% include "2026/glossary-definitions.md" %}
 
---8<-- "2026/camera-ready/under-development.md"
+{% include "2026/camera-ready/under-development.md" %}
 
 Congratulations on the acceptance of your paper in the Proceedings of CCN 2026! This
 page describes how to prepare and submit the camera-ready version of your manuscript.
@@ -38,14 +38,14 @@ If you encounter any issues with the template, please
 
 ##### Deanonymize your manuscript
 
---8<-- "2026/camera-ready/deanonymize.md"
+{% include "2026/camera-ready/deanonymize.md" %}
 
 The main text, including the title-author block and the abstract, must still adhere to
 the 8-page limit.
 
 ##### Add acknowledgments and disclosure
 
---8<-- "2026/camera-ready/acknowledgments.md"
+{% include "2026/camera-ready/acknowledgments.md" %}
 
 Ensure your disclosure of any use of AI tools, including large language models, is up to
 date. Unlike acknowledgments, disclosure of AI usage is required in both the submitted
@@ -56,7 +56,7 @@ and camera-ready versions of the manuscript, per the
 
 You must make the revisions that were approved during the review process.
 
---8<-- "2026/camera-ready/significant-revisions.md"
+{% include "2026/camera-ready/significant-revisions.md" %}
 
 This is because the reviews and discussion based on the submitted version may no longer
 be a holistic evaluation of the work, and the CCN 2026 review processes have closed.
@@ -68,7 +68,7 @@ references, and supplement.
 
 #### Submission
 
---8<-- "2026/camera-ready/howto-submit.md"
+{% include "2026/camera-ready/howto-submit.md" %}
 
 Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, anywhere on Earth.
 The camera-ready copy is the final version of your Proceedings paper, and must adhere to
@@ -83,16 +83,16 @@ on OpenReview after the camera-ready deadline.
 
 ### Talk selections
 
---8<-- "2026/camera-ready/talk-selections.md"
+{% include "2026/camera-ready/talk-selections.md" %}
 
 Regardless of its selection as a talk, your Proceedings paper must be presented as a
 poster at CCN 2026.
 
 ## Presenter policy
 
---8<-- "2026/policies/presenter-policy.md"
+{% include "2026/policies/presenter-policy.md" %}
 
 If you must change the Presenter of your submission, please
 [contact the TPC](#contact-info) as soon as possible.
 
---8<-- "2026/contact-info.md"
+{% include "2026/contact-info.md" %}

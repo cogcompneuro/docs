@@ -1,6 +1,6 @@
 # Reviewer Guidelines
 
---8<-- "2026/glossary-definitions.md"
+{% include "2026/glossary-definitions.md" %}
 
 Thank you once again for agreeing to review for CCN!
 
@@ -19,15 +19,15 @@ OpenReview.
 
 ## OpenReview Console
 
---8<-- "2026/openreview/console.md"
+{% include "2026/openreview/console.md" %}
 
---8<-- "2026/openreview/button-reviewer-ea.md"
+{% include "2026/openreview/button-reviewer-ea.md" %}
 
---8<-- "2026/openreview/working-in-openreview.md"
+{% include "2026/openreview/working-in-openreview.md" %}
 
 ### Setting comment visibility
 
---8<-- "2026/openreview/comment-visibility.md"
+{% include "2026/openreview/comment-visibility.md" %}
 
 ![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
 
@@ -43,9 +43,9 @@ OpenReview.
 
 #### Assignment
 
---8<-- "2026/reviewers/assignment-intro-ea.md"
+{% include "2026/reviewers/assignment-intro-ea.md" %}
 
---8<-- "2026/openreview/email-profile-reminder.md"
+{% include "2026/openreview/email-profile-reminder.md" %}
 
 #### Review deadline
 
@@ -60,31 +60,31 @@ As stated in the [submission guidelines](Submission%20guidelines.md), if you are
 not submit all assigned reviews by this date, the relevant submission(s) may not be
 considered for a Contributed Talk.
 
---8<-- "2026/reviewers/review-form.md"
+{% include "2026/reviewers/review-form.md" %}
 
 #### Things to flag
 
 If you note any of the following in your submissions, please
 [flag them with the TPC](#contact-info).
 
---8<-- "2026/reviewers/things-to-flag-ea.md"
+{% include "2026/reviewers/things-to-flag-ea.md" %}
 
 ## Policies
 
---8<-- "2026/reviewers/common-policies-ea.md"
+{% include "2026/reviewers/common-policies-ea.md" %}
 
 ### Anonymization
 
---8<-- "2026/policies/blinding.md"
+{% include "2026/policies/blinding.md" %}
 
 Only the TPC knows your identity as a reviewer.
 
 ### Interdisciplinarity
 
---8<-- "2026/policies/interdisciplinarity.md"
+{% include "2026/policies/interdisciplinarity.md" %}
 
 ### Flexibility
 
---8<-- "2026/policies/flexibility.md"
+{% include "2026/policies/flexibility.md" %}
 
---8<-- "2026/contact-info.md"
+{% include "2026/contact-info.md" %}

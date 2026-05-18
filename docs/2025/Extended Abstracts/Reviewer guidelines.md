@@ -1,8 +1,8 @@
 # Reviewer Guidelines
 
---8<-- "2025/prior-version-warning.md"
+{% include "2025/prior-version-warning.md" %}
 
---8<-- "2025/glossary-definitions.md"
+{% include "2025/glossary-definitions.md" %}
 
 Thank you once again for agreeing to review for CCN!
 
@@ -21,13 +21,13 @@ OpenReview.
 
 ## OpenReview Console
 
---8<-- "2025/openreview/console.md"
+{% include "2025/openreview/console.md" %}
 
 ![OpenReview screenshot](../assets/reviewer-interface.png)
 
 ### Setting comment visibility
 
---8<-- "2025/openreview/comment-visibility.md"
+{% include "2025/openreview/comment-visibility.md" %}
 
 ## Timeline
 
@@ -41,9 +41,9 @@ OpenReview.
 
 {{ ea_review_period_2025 }}
 
---8<-- "2025/reviewers/assignment-intro-ea.md"
+{% include "2025/reviewers/assignment-intro-ea.md" %}
 
---8<-- "2025/openreview/email-profile-reminder.md"
+{% include "2025/openreview/email-profile-reminder.md" %}
 
 #### Review deadline
 
@@ -65,30 +65,30 @@ considered for a Contributed Talk.
 As a reviewer, you will evaluate submissions assigned to you and provide high-quality
 feedback to help identify work that should be highlighted at CCN as a Contributed Talk.
 
---8<-- "2025/reviewers/review-form.md"
+{% include "2025/reviewers/review-form.md" %}
 
 #### Things to flag
 
 If you note any of the following in your submissions, please flag them with the TPC.
 
---8<-- "2025/reviewers/things-to-flag-ea.md"
+{% include "2025/reviewers/things-to-flag-ea.md" %}
 
 ## Policies
 
---8<-- "2025/reviewers/common-policies-ea.md"
+{% include "2025/reviewers/common-policies-ea.md" %}
 
 ### Anonymization
 
---8<-- "2025/policies/blinding.md"
+{% include "2025/policies/blinding.md" %}
 
 Only the [TPC] knows your identity as a reviewer.
 
 ### Interdisciplinarity
 
---8<-- "2025/policies/interdisciplinarity.md"
+{% include "2025/policies/interdisciplinarity.md" %}
 
 ### Flexibility
 
---8<-- "2025/policies/flexibility.md"
+{% include "2025/policies/flexibility.md" %}
 
---8<-- "2025/contact-info.md"
+{% include "2025/contact-info.md" %}

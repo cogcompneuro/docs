@@ -1,10 +1,10 @@
 # Senior Area Chair Guidelines
 
---8<-- "2026/glossary-definitions.md"
+{% include "2026/glossary-definitions.md" %}
 
 Thank you for serving as a Senior Area Chair (SAC) for the second CCN Proceedings track!
 
---8<-- "2026/thanks-proceedings.md"
+{% include "2026/thanks-proceedings.md" %}
 
 ## Role
 
@@ -15,15 +15,15 @@ calibrate decisions across different ACs, and liaise with the TPC for final deci
 
 ## OpenReview Console
 
---8<-- "2026/openreview/console.md"
+{% include "2026/openreview/console.md" %}
 
---8<-- "2026/openreview/button-sac.md"
+{% include "2026/openreview/button-sac.md" %}
 
---8<-- "2026/openreview/working-in-openreview.md"
+{% include "2026/openreview/working-in-openreview.md" %}
 
 ### Setting comment visibility
 
---8<-- "2026/openreview/comment-visibility.md"
+{% include "2026/openreview/comment-visibility.md" %}
 
 ![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
 
@@ -85,25 +85,25 @@ Decisions will be released to authors on {{ proceedings_decisions_2026 }}.
 
 ### Availability
 
---8<-- "2026/policies/availability.md"
+{% include "2026/policies/availability.md" %}
 
 ### Kindness
 
---8<-- "2026/policies/kindness.md"
+{% include "2026/policies/kindness.md" %}
 
 ### Conflicts of interest
 
---8<-- "2026/policies/conflict-of-interest.md"
+{% include "2026/policies/conflict-of-interest.md" %}
 
 If you notice a conflict of interest with a submission that is assigned to one of your
 ACs, [contact the TPC](#contact-info) right away.
 
---8<-- "2026/reviewers/common-policies.md"
+{% include "2026/reviewers/common-policies.md" %}
 
---8<-- "2026/policies/confidentiality-sac-addendum.md"
+{% include "2026/policies/confidentiality-sac-addendum.md" %}
 
 ### Flexibility
 
---8<-- "2026/policies/flexibility.md"
+{% include "2026/policies/flexibility.md" %}
 
---8<-- "2026/contact-info.md"
+{% include "2026/contact-info.md" %}

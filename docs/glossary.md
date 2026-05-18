@@ -42,4 +42,4 @@ The TPC coordinates reviewers, area chairs, and senior area chairs, and makes fi
 decisions on submissions.
 Contact them at [tpc@ccneuro.org](mailto:tpc@ccneuro.org).
 
---8<-- "contact-info.md"
+{% include "2026/contact-info.md" %}

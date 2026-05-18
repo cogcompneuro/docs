@@ -1,6 +1,6 @@
 # Author Response Guidelines
 
---8<-- "2026/glossary-definitions.md"
+{% include "2026/glossary-definitions.md" %}
 
 Thank you for submitting your work to the CCN Proceedings track.
 In this document, we outline the Proceedings review and decision processes that are
@@ -8,11 +8,11 @@ relevant to authors of submissions.
 
 ## OpenReview Console
 
---8<-- "2026/openreview/console.md"
+{% include "2026/openreview/console.md" %}
 
---8<-- "2026/openreview/button-author.md"
+{% include "2026/openreview/button-author.md" %}
 
---8<-- "2026/openreview/working-in-openreview.md"
+{% include "2026/openreview/working-in-openreview.md" %}
 
 ## Timeline
 
@@ -51,7 +51,7 @@ Reviewers were asked to evaluate submissions according to their **interest**,
 **soundness**, **clarity**, and **confidence of expertise**, and to provide comments on
 their evaluations.
 
---8<-- "2026/reviewers/review-form.md"
+{% include "2026/reviewers/review-form.md" %}
 
 #### Text responses
 
@@ -150,9 +150,9 @@ only.
 
 ### Conduct
 
---8<-- "2026/policies/conduct.md"
+{% include "2026/policies/conduct.md" %}
 
 Unprofessional or unethical behavior during the review and discussion process should be
 flagged to the AC via a private comment.
 
---8<-- "2026/contact-info.md"
+{% include "2026/contact-info.md" %}

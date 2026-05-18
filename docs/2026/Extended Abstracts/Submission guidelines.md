@@ -1,6 +1,6 @@
 # Submission guidelines
 
---8<-- "2026/glossary-definitions.md"
+{% include "2026/glossary-definitions.md" %}
 
 ## Submission process
 
@@ -37,11 +37,11 @@ The text, tables and figures of a CCN Extended Abstract submission can be no lon
 
 #### Abstract
 
---8<-- "2026/submissions/abstract-guidance.md"
+{% include "2026/submissions/abstract-guidance.md" %}
 
 #### Templates
 
---8<-- "2026/submissions/required-template-warning.md"
+{% include "2026/submissions/required-template-warning.md" %}
 
 Please use the anonymized template for your initial submission.
 
@@ -56,52 +56,52 @@ If you encounter any issues with the LaTeX template, please
 
 ### Double-blind review
 
---8<-- "2026/policies/double-blind-anonymization.md"
+{% include "2026/policies/double-blind-anonymization.md" %}
 
---8<-- "2026/policies/code-anonymization.md"
+{% include "2026/policies/code-anonymization.md" %}
 
 ### Reciprocal reviewer policy
 
---8<-- "2026/reviewers/pool-size.md"
+{% include "2026/reviewers/pool-size.md" %}
 
 Authors in this category that fail to finish reviews by the author response stage will
 not be considered for a Contributed Talk.
 
---8<-- "2026/reviewers/exemption.md"
+{% include "2026/reviewers/exemption.md" %}
 
 ### Use of large language models
 
---8<-- "2026/policies/llm-usage.md"
+{% include "2026/policies/llm-usage.md" %}
 
 ### Presenter policy
 
---8<-- "2026/policies/presenter-policy.md"
+{% include "2026/policies/presenter-policy.md" %}
 
 ### Dual submission policy
 
---8<-- "2026/policies/dual-submission.md"
+{% include "2026/policies/dual-submission.md" %}
 
 ## Frequently asked questions
 
---8<-- "2026/faq/presenter-change-poster.md"
+{% include "2026/faq/presenter-change-poster.md" %}
 
---8<-- "2026/faq/presenter-change-talk.md"
+{% include "2026/faq/presenter-change-talk.md" %}
 
---8<-- "2026/faq/timezone.md"
+{% include "2026/faq/timezone.md" %}
 
---8<-- "2026/faq/anonymized-author-block.md"
+{% include "2026/faq/anonymized-author-block.md" %}
 
---8<-- "2026/faq/shared-authorship.md"
+{% include "2026/faq/shared-authorship.md" %}
 
---8<-- "2026/faq/keywords.md"
+{% include "2026/faq/keywords.md" %}
 
---8<-- "2026/faq/acknowledgments.md"
+{% include "2026/faq/acknowledgments.md" %}
 
---8<-- "2026/faq/code-linking.md"
+{% include "2026/faq/code-linking.md" %}
 
---8<-- "2026/faq/equation-formatting.md"
+{% include "2026/faq/equation-formatting.md" %}
 
---8<-- "2026/faq/preprints.md"
+{% include "2026/faq/preprints.md" %}
 
 ### I and my co-authors can no longer attend CCN 2026. How can I withdraw my poster?
 
@@ -114,7 +114,7 @@ Reciprocal Reviewer(s) identified on the submission, and the Presenter identifie
 submission. Other co-authors do not need an OpenReview account; you can simply input
 their name and email.
 
---8<-- "2026/openreview/signup-instructions.md"
+{% include "2026/openreview/signup-instructions.md" %}
 
 ### Can I include supplementary material?
 
@@ -156,7 +156,7 @@ both contributions are accepted.
 
 ### Will my extended abstract be copyrighted?
 
---8<-- "2026/creative-commons-license.md"
+{% include "2026/creative-commons-license.md" %}
 
 ### I was told that my submission has formatting issues and won't be reviewed. Can I revise them and still enter review for a Contributed Talk?
 
@@ -166,4 +166,4 @@ Please wait until the camera-ready phase (**{{ ea_camera_ready_period_2026 }}**)
 submit your corrected manuscript for publication.
 Further instructions for how to do this will follow.
 
---8<-- "2026/contact-info.md"
+{% include "2026/contact-info.md" %}

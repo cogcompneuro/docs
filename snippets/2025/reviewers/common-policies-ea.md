@@ -1,10 +1,10 @@
 ### Confidentiality
 
---8<-- "2025/policies/confidentiality.md"
+{% include "2025/policies/confidentiality.md" %}
 
 ### Conduct
 
---8<-- "2025/policies/conduct.md"
+{% include "2025/policies/conduct.md" %}
 
 ### Transparency
 

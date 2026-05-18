@@ -1,8 +1,8 @@
 # Author Response Guidelines
 
---8<-- "2025/prior-version-warning.md"
+{% include "2025/prior-version-warning.md" %}
 
---8<-- "2025/glossary-definitions.md"
+{% include "2025/glossary-definitions.md" %}
 
 Thank you for submitting your work to the CCN Proceedings track.
 In this document, we outline the Proceedings review and decision processes that are
@@ -164,7 +164,7 @@ only.
 CCN 2025 maintains the historical policy that a given "Presenter" (the presenting author
 as identified on OpenReview) can **present only a single contribution** at CCN.
 
---8<-- "2025/policies/presenter-policy-cross-track.md"
+{% include "2025/policies/presenter-policy-cross-track.md" %}
 
 ### Conduct
 
@@ -189,4 +189,4 @@ To revise the submission PDF during the author response period, use the "**Edit*
 button at the top of the OpenReview forum page.
 The option "**Author Response Revision**" should be available via this list.
 
---8<-- "2025/contact-info.md"
+{% include "2025/contact-info.md" %}

@@ -4,4 +4,4 @@ If you note any of the below, please escalate them to your SAC or
 submission with the readers set to your **Senior Area Chair** and **the TPC**
 (see [Setting comment visibility](#setting-comment-visibility)).
 
---8<-- "2026/reviewers/things-to-flag.md"
+{% include "2026/reviewers/things-to-flag.md" %}

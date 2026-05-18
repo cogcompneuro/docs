@@ -362,15 +362,11 @@ toggle.name = "Switch to light mode"
 [project.markdown_extensions.pymdownx.arithmatex]
 generic = true
 
-# Enable snippets to auto-append abbreviation definitions
-[project.markdown_extensions.pymdownx.snippets]
-base_path = ["snippets/"]
-
-# Jinja macro support (workaround until https://github.com/zensical/backlog/issues/16)
-[project.markdown_extensions."zen_macros_ext:MacroExtension"]
-project_dir = "."
-docs_dir = "docs"
-macros_file = "docs/macros/main.py"
+# Jinja macro support: date variables from docs/<year>/assets/dates.yml, and
+# content includes via {% include "<path>" %} resolved against snippets/.
+[project.markdown_extensions.zensical.extensions.macros]
+module_name = "docs/macros/main"
+include_dir = "snippets"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.

@@ -1,12 +1,12 @@
 # Reviewer Guidelines
 
---8<-- "2025/prior-version-warning.md"
+{% include "2025/prior-version-warning.md" %}
 
---8<-- "2025/glossary-definitions.md"
+{% include "2025/glossary-definitions.md" %}
 
 Thank you once again for agreeing to review for CCN!
 
---8<-- "2025/thanks-proceedings.md"
+{% include "2025/thanks-proceedings.md" %}
 
 ## Role
 
@@ -27,13 +27,13 @@ OpenReview.
 
 ## OpenReview Console
 
---8<-- "2025/openreview/console.md"
+{% include "2025/openreview/console.md" %}
 
 ![OpenReview screenshot](../assets/reviewer-interface.png)
 
 ### Setting comment visibility
 
---8<-- "2025/openreview/comment-visibility.md"
+{% include "2025/openreview/comment-visibility.md" %}
 
 ## Timeline
 
@@ -51,9 +51,9 @@ OpenReview.
 
 {{ proceedings_review_period_2025 }}
 
---8<-- "2025/reviewers/assignment-intro-proceedings.md"
+{% include "2025/reviewers/assignment-intro-proceedings.md" %}
 
---8<-- "2025/openreview/email-profile-reminder.md"
+{% include "2025/openreview/email-profile-reminder.md" %}
 
 #### Review deadline
 
@@ -76,11 +76,11 @@ Extended Abstracts track.
 As a reviewer, you will evaluate submissions assigned to you and provide high-quality
 feedback to help identify work that should be included and highlighted at CCN.
 
---8<-- "2025/reviewers/review-form.md"
+{% include "2025/reviewers/review-form.md" %}
 
 #### Things to flag
 
---8<-- "2025/reviewers/things-to-flag-proceedings.md"
+{% include "2025/reviewers/things-to-flag-proceedings.md" %}
 
 ### Discussion
 
@@ -101,29 +101,29 @@ to present the work in the form of a talk.
 
 ### Availability
 
---8<-- "2025/policies/availability.md"
+{% include "2025/policies/availability.md" %}
 
 If you are unable to meet these expectations, please let your AC or
 [the TPC](#contact-info) know as soon as possible.
 
 ### Kindness
 
---8<-- "2025/policies/kindness.md"
+{% include "2025/policies/kindness.md" %}
 
---8<-- "2025/reviewers/common-policies.md"
+{% include "2025/reviewers/common-policies.md" %}
 
 ### Anonymization
 
---8<-- "2025/policies/blinding.md"
+{% include "2025/policies/blinding.md" %}
 
 However, ACs do know your identity.
 
 ### Interdisciplinarity
 
---8<-- "2025/policies/interdisciplinarity.md"
+{% include "2025/policies/interdisciplinarity.md" %}
 
 ### Flexibility
 
---8<-- "2025/policies/flexibility.md"
+{% include "2025/policies/flexibility.md" %}
 
---8<-- "2025/contact-info.md"
+{% include "2025/contact-info.md" %}

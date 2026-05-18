@@ -1,0 +1,27 @@
+# Date variables for CCN 2025, referenced in Markdown as {{ <name> }}.
+
+# Proceedings
+proceedings_abstract_deadline_2025: "Feb 17, 2025"
+proceedings_abstract_deadline_plus_one_2025: "Feb 18, 2025"
+proceedings_submission_deadline_2025: "Feb 20, 2025"
+proceedings_review_period_2025: "Mar 4 - Mar 31, 2025"
+proceedings_reviews_due_2025: "Mar 31, 2025"
+proceedings_reviews_released_2025: "Apr 3, 2025"
+proceedings_author_response_period_2025: "Apr 3 - Apr 14, 2025"
+proceedings_author_response_due_2025: "Apr 14, 2025"
+proceedings_discussion_period_2025: "Apr 15 - Apr 21, 2025"
+proceedings_meta_review_period_2025: "Apr 22 - May 5, 2025"
+proceedings_meta_review_due_2025: "May 5, 2025"
+proceedings_final_decisions_period_2025: "May 6 - May 12, 2025"
+proceedings_decisions_2025: "May 13, 2025"
+
+# Extended Abstracts
+ea_submission_deadline_2025: "Apr 10, 2025"
+ea_desk_rejection_period_2025: "Apr 11 - Apr 14, 2025"
+ea_review_period_2025: "Apr 18 - May 18, 2025"
+ea_reviews_due_2025: "May 18, 2025"
+
+# Shared
+poster_acceptances_2025: "Apr 18, 2025"
+presenter_selection_period_2025: "May 14 - Jun 12, 2025"
+talk_selections_2025: "Jun 13, 2025"

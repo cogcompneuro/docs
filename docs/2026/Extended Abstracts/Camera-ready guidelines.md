@@ -1,8 +1,8 @@
 # Camera-ready guidelines
 
---8<-- "2026/glossary-definitions.md"
+{% include "2026/glossary-definitions.md" %}
 
---8<-- "2026/camera-ready/under-development.md"
+{% include "2026/camera-ready/under-development.md" %}
 
 We look forward to seeing your work presented in New York City!
 This page describes how to prepare and submit the camera-ready version of your Extended
@@ -39,13 +39,13 @@ If you encounter any issues with the LaTeX template, please
 
 ##### Deanonymize your manuscript
 
---8<-- "2026/camera-ready/deanonymize.md"
+{% include "2026/camera-ready/deanonymize.md" %}
 
 The main text, including the abstract, must still adhere to the 2-page limit.
 
 ##### Add acknowledgments and disclosure
 
---8<-- "2026/camera-ready/acknowledgments.md"
+{% include "2026/camera-ready/acknowledgments.md" %}
 
 Ensure your disclosure of any use of AI tools, including large language models, is up to
 date. Unlike acknowledgments, disclosure of AI usage is required in both the submitted
@@ -68,14 +68,14 @@ when compiling the manuscript to 2 pages.
 
 ##### No significant revisions
 
---8<-- "2026/camera-ready/significant-revisions.md"
+{% include "2026/camera-ready/significant-revisions.md" %}
 
 If you wish to make a significant revision, you will need to withdraw your Extended
 Abstract from CCN 2026 and resubmit to CCN 2027.
 
 #### Submission
 
---8<-- "2026/camera-ready/howto-submit.md"
+{% include "2026/camera-ready/howto-submit.md" %}
 
 Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, anywhere on Earth.
 The camera-ready copy is the final version of your Extended Abstract, and must adhere to
@@ -87,16 +87,16 @@ adhering to the above requirements will be withdrawn by the TPC after the deadli
 
 ### Talk selections
 
---8<-- "2026/camera-ready/talk-selections.md"
+{% include "2026/camera-ready/talk-selections.md" %}
 
 Regardless of its selection as a talk, your Extended Abstract must be presented as a
 poster at CCN 2026.
 
 ## Presenter policy
 
---8<-- "2026/policies/presenter-policy.md"
+{% include "2026/policies/presenter-policy.md" %}
 
 If you must change the Presenter of your submission, please
 [contact the TPC](#contact-info) as soon as possible.
 
---8<-- "2026/contact-info.md"
+{% include "2026/contact-info.md" %}

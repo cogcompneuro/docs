@@ -21,8 +21,7 @@ For other installation methods, see the
 To serve the documentation locally:
 
 ```sh
-# TODO: revert to `uvx zensical serve` once https://github.com/zensical/backlog/issues/16 is resolved
-uvx --with ./zen_macros_ext zensical serve
+uvx zensical serve
 ```
 
 The site will be available at `http://127.0.0.1:8000/docs/`.

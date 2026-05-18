@@ -1,0 +1,36 @@
+# Date variables for CCN 2026, referenced in Markdown as {{ <name> }}.
+
+# Proceedings
+proceedings_abstract_deadline_2026: "Feb 9, 2026"
+proceedings_abstract_deadline_plus_one_2026: "Feb 10, 2026"
+proceedings_submission_deadline_2026: "Feb 12, 2026"
+proceedings_enrollment_period_2026: "Feb 10 - Feb 12, 2026"
+proceedings_assignment_period_2026: "Feb 13 - Feb 16, 2026"
+proceedings_adjustment_period_2026: "Feb 17 - Feb 23, 2026"
+proceedings_review_period_2026: "Feb 24 - Mar 23, 2026"
+proceedings_reviews_due_2026: "Mar 23, 2026"
+proceedings_emergency_review_period_2026: "Mar 24 - Mar 26, 2026"
+proceedings_reviews_released_2026: "Mar 27, 2026"
+proceedings_author_response_period_2026: "Mar 27 - Apr 7, 2026"
+proceedings_author_response_due_2026: "Apr 7, 2026"
+proceedings_discussion_period_2026: "Apr 8 - Apr 14, 2026"
+proceedings_discussion_due_2026: "Apr 14, 2026"
+proceedings_meta_review_period_2026: "Apr 15 - Apr 27, 2026"
+proceedings_meta_review_due_2026: "Apr 27, 2026"
+proceedings_final_decisions_period_2026: "Apr 28 - May 11, 2026"
+proceedings_decisions_2026: "May 12, 2026"
+proceedings_camera_ready_period_2026: "May 13 - Jun 11, 2026"
+
+# Extended Abstracts
+ea_submission_deadline_2026: "Apr 2, 2026"
+ea_desk_rejection_period_2026: "Apr 3 - Apr 28, 2026"
+ea_review_period_2026: "Apr 28 - May 22, 2026"
+ea_reviews_due_2026: "May 22, 2026"
+ea_emergency_review_period_2026: "May 23 - May 25, 2026"
+ea_camera_ready_period_2026: "May 26 - Jun 11, 2026"
+
+# Shared
+poster_acceptances_2026: "Apr 17, 2026"
+presenter_selection_period_2026: "May 26 - Jun 11, 2026"
+camera_ready_deadline_2026: "Jun 11, 2026"
+talk_selections_2026: "Jun 12, 2026"

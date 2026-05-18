@@ -9,4 +9,4 @@ Documentation for authors, reviewers, and area chairs participating in the
 Visit the [Glossary](glossary.md) for terminology or browse the
 [2026 documentation](2026/Proceedings/Submission%20guidelines.md) to get started.
 
---8<-- "contact-info.md"
+{% include "2026/contact-info.md" %}
