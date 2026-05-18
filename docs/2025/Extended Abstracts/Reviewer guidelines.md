@@ -81,7 +81,7 @@ If you note any of the following in your submissions, please flag them with the 
 
 {% include "2025/policies/blinding.md" %}
 
-Only the [TPC] knows your identity as a reviewer.
+Only the TPC knows your identity as a reviewer.
 
 ### Interdisciplinarity
 

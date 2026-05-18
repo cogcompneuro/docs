@@ -60,6 +60,12 @@ As stated in the [submission guidelines](Submission%20guidelines.md), if you are
 not submit all assigned reviews by this date, the relevant submission(s) may not be
 considered for a Contributed Talk.
 
+#### Review content
+
+Reviewers are asked to evaluate submissions according to their **interest**,
+**soundness**, **clarity**, and **confidence of expertise**, and to provide comments on
+their evaluations.
+
 {% include "2026/reviewers/review-form.md" %}
 
 #### Things to flag
