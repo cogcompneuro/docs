@@ -43,11 +43,11 @@ pages, excluding references.
 
 {% include "2026/submissions/required-template-warning.md" %}
 
-**Download:**
-[CCN 2026 LaTeX Template (zip)](https://github.com/cogcompneuro/ccn-template/archive/refs/heads/main.zip)
+Your initial submission must use the anonymized variant of your chosen template.
 
-If you encounter any issues with the template, please
-[file an issue on GitHub](https://github.com/cogcompneuro/ccn-template/issues).
+{% include "2026/submissions/templates-proceedings.md" %}
+
+{% include "2026/submissions/template-issues.md" %}
 
 ### Double-blind review
 

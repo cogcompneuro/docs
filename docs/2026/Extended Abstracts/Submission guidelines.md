@@ -43,16 +43,11 @@ The text, tables and figures of a CCN Extended Abstract submission can be no lon
 
 {% include "2026/submissions/required-template-warning.md" %}
 
-Please use the anonymized template for your initial submission.
+Your initial submission must use the anonymized variant of your chosen template.
 
-**LaTeX template:**
-[CCN 2026 LaTeX Template (zip)](https://github.com/cogcompneuro/ccn-template/archive/refs/heads/main.zip)
+{% include "2026/submissions/templates-ea.md" %}
 
-If you encounter any issues with the LaTeX template, please
-[file an issue on GitHub](https://github.com/cogcompneuro/ccn-template/issues).
-
-**Docs template:**
-[CCN 2026 Extended Abstract Docs Template](https://drive.google.com/drive/folders/1UePJAEthHtuUSyReTSEhvKFPblyW3DwO?usp=drive_link)
+{% include "2026/submissions/template-issues.md" %}
 
 ### Double-blind review
 

@@ -11,6 +11,7 @@ ChatGPT
 DBLP
 DEI
 DOI
+DOIs
 Deanonymize
 EAs
 IR
@@ -24,6 +25,7 @@ NeurIPS
 OpenReview
 OpenReview's
 Programme
+README
 RR
 RRs
 SAC
@@ -32,6 +34,7 @@ Scholte
 Sneha
 TBD
 TPC
+Typst
 Yee
 acknowledgments
 al
@@ -49,6 +52,7 @@ de
 deanonymization
 deanonymize
 deanonymized
+doi
 dr
 dropdown
 et

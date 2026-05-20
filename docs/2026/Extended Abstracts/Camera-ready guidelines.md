@@ -2,8 +2,6 @@
 
 {% include "2026/glossary-definitions.md" %}
 
-{% include "2026/camera-ready/under-development.md" %}
-
 We look forward to seeing your work presented in New York City!
 This page describes how to prepare and submit the camera-ready version of your Extended
 Abstract.
@@ -25,21 +23,20 @@ When preparing your camera-ready copy, please ensure the following.
 
 Fix any formatting deviations, especially if the TPC has notified you of such a
 deviation during the submission or review process.
-Your PDF should use one of the two available templates (LaTeX or Google Docs) from the
-CCN website and appear exactly like the PDF examples compiled from those templates.
+Your PDF should use one of the official CCN 2026 templates and appear exactly like the
+PDF examples compiled from those templates.
 
-**LaTeX template:**
-[CCN 2026 LaTeX Template (zip)](https://github.com/cogcompneuro/ccn-template/archive/refs/heads/main.zip)
+{% include "2026/submissions/templates-ea.md" %}
 
-If you encounter any issues with the LaTeX template, please
-[file an issue on GitHub](https://github.com/cogcompneuro/ccn-template/issues).
+{% include "2026/camera-ready/docs-template-deprecated.md" %}
 
-**Docs template:**
-[CCN 2026 Extended Abstract Docs Template](https://drive.google.com/drive/folders/1UePJAEthHtuUSyReTSEhvKFPblyW3DwO?usp=drive_link)
+{% include "2026/camera-ready/latex-template-update.md" %}
+
+{% include "2026/submissions/template-issues.md" %}
 
 ##### Deanonymize your manuscript
 
-{% include "2026/camera-ready/deanonymize.md" %}
+{% include "2026/camera-ready/deanonymize-ea.md" %}
 
 The main text, including the abstract, must still adhere to the 2-page limit.
 
@@ -77,9 +74,9 @@ Abstract from CCN 2026 and resubmit to CCN 2027.
 
 {% include "2026/camera-ready/howto-submit.md" %}
 
-Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, anywhere on Earth.
-The camera-ready copy is the final version of your Extended Abstract, and must adhere to
-the requirements described above.
+Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, 11:59 PM Anywhere on
+Earth (AoE). The camera-ready copy is the final version of your Extended Abstract, and
+must adhere to the requirements described above.
 We will not accept revisions past this deadline.
 If you need to make a revision past this deadline, you will need to withdraw your
 Extended Abstract from CCN 2026 and resubmit to CCN 2027. Extended Abstracts not
@@ -88,6 +85,9 @@ adhering to the above requirements will be withdrawn by the TPC after the deadli
 ### Talk selections
 
 {% include "2026/camera-ready/talk-selections.md" %}
+
+For details on how talks are chosen, see the
+[contributed talk selection process](../Contributed%20Talks/Talk%20selection%20process.md).
 
 Regardless of its selection as a talk, your Extended Abstract must be presented as a
 poster at CCN 2026.

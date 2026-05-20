@@ -2,8 +2,6 @@
 
 {% include "2026/glossary-definitions.md" %}
 
-{% include "2026/camera-ready/under-development.md" %}
-
 Congratulations on the acceptance of your paper in the Proceedings of CCN 2026! This
 page describes how to prepare and submit the camera-ready version of your manuscript.
 
@@ -12,7 +10,7 @@ page describes how to prepare and submit the camera-ready version of your manusc
 | Period | Author responsibilities | Dates |
 | :--- | :--- | :--- |
 | Proceedings decisions |  | {{ proceedings_decisions_2026 }} |
-| <span class="deadline">[Camera-ready preparation](#camera-ready-preparation)</span> | <span class="deadline">Authors prepare and submit camera-ready copies.</span> | <span class="deadline">{{ proceedings_decisions_2026 }} - {{ camera_ready_deadline_2026 }}</span> |
+| <span class="deadline">[Camera-ready preparation](#camera-ready-preparation)</span> | <span class="deadline">Authors prepare and submit camera-ready copies.</span> | <span class="deadline">{{ proceedings_camera_ready_period_2026 }}</span> |
 | [Talk selections](#talk-selections) |  | {{ talk_selections_2026 }} |
 
 ### Camera-ready preparation
@@ -25,20 +23,23 @@ When preparing your camera-ready copy, please ensure the following.
 
 Fix any formatting deviations, especially if the TPC has notified you of such a
 deviation during the submission or review process.
-Your PDF should use the LaTeX template from the CCN website and appear exactly like the
-PDF examples compiled from that template.
-We ask that you use the LaTeX template to ensure visual conformity among all Proceedings
-papers.
+Your PDF should use one of the official CCN 2026 templates and appear exactly like the
+PDF examples compiled from those templates, to ensure visual conformity among all
+Proceedings papers.
 
-**Download:**
-[CCN 2026 LaTeX Template (zip)](https://github.com/cogcompneuro/ccn-template/archive/refs/heads/main.zip)
+{% include "2026/submissions/templates-proceedings.md" %}
 
-If you encounter any issues with the template, please
-[file an issue on GitHub](https://github.com/cogcompneuro/ccn-template/issues).
+{% include "2026/camera-ready/latex-template-update.md" %}
+
+{% include "2026/submissions/template-issues.md" %}
+
+##### Add your DOI
+
+{% include "2026/camera-ready/doi.md" %}
 
 ##### Deanonymize your manuscript
 
-{% include "2026/camera-ready/deanonymize.md" %}
+{% include "2026/camera-ready/deanonymize-proceedings.md" %}
 
 The main text, including the title-author block and the abstract, must still adhere to
 the 8-page limit.
@@ -63,16 +64,16 @@ be a holistic evaluation of the work, and the CCN 2026 review processes have clo
 
 ##### Page limit
 
-The length limit of the main text is 8 pages, followed by any acknowledgments,
-references, and supplement.
+The length limit of the main text is 8 pages, followed by any acknowledgments and
+disclosure, references, and supplement.
 
 #### Submission
 
 {% include "2026/camera-ready/howto-submit.md" %}
 
-Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, anywhere on Earth.
-The camera-ready copy is the final version of your Proceedings paper, and must adhere to
-the requirements described above.
+Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, 11:59 PM Anywhere on
+Earth (AoE). The camera-ready copy is the final version of your Proceedings paper, and
+must adhere to the requirements described above.
 We will not accept revisions past this deadline.
 If you need to make a revision past this deadline, you will need to withdraw your
 Proceedings paper from CCN 2026 and resubmit to CCN 2027. Proceedings papers not
@@ -84,6 +85,9 @@ on OpenReview after the camera-ready deadline.
 ### Talk selections
 
 {% include "2026/camera-ready/talk-selections.md" %}
+
+For details on how talks are chosen, see the
+[contributed talk selection process](../Contributed%20Talks/Talk%20selection%20process.md).
 
 Regardless of its selection as a talk, your Proceedings paper must be presented as a
 poster at CCN 2026.
