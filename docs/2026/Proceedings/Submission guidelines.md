@@ -68,6 +68,10 @@ Talk when converted to the Extended Abstracts track.
 
 {% include "2026/policies/llm-usage.md" %}
 
+### No changes to authorship
+
+{% include "2026/submissions/author-list-locked-proceedings.md" %}
+
 ### Presenter policy
 
 {% include "2026/policies/presenter-policy.md" %}

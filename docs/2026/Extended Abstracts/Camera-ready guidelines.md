@@ -40,6 +40,10 @@ PDF examples compiled from those templates.
 
 The main text, including the abstract, must still adhere to the 2-page limit.
 
+##### No changes to authorship
+
+{% include "2026/camera-ready/author-list-match.md" %}
+
 ##### Add acknowledgments and disclosure
 
 {% include "2026/camera-ready/acknowledgments.md" %}

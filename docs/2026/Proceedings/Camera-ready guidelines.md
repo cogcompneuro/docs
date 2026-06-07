@@ -44,6 +44,10 @@ Proceedings papers.
 The main text, including the title-author block and the abstract, must still adhere to
 the 8-page limit.
 
+##### No changes to authorship
+
+{% include "2026/camera-ready/author-list-match.md" %}
+
 ##### Add acknowledgments and disclosure
 
 {% include "2026/camera-ready/acknowledgments.md" %}
