@@ -42,7 +42,8 @@ Proceedings papers.
 {% include "2026/camera-ready/deanonymize-proceedings.md" %}
 
 The main text, including the title-author block and the abstract, must still adhere to
-the 8-page limit.
+the page limit, which is extended one page from the submission version to 9 pages in the
+camera-ready.
 
 ##### No changes to authorship
 
@@ -68,8 +69,9 @@ be a holistic evaluation of the work, and the CCN 2026 review processes have clo
 
 ##### Page limit
 
-The length limit of the main text is 8 pages, followed by any acknowledgments and
-disclosure, references, and supplement.
+The length limit of the main text is extended one page from the submission version to 9
+pages in the camera-ready, followed by any acknowledgments and disclosure, references,
+and supplement.
 
 #### Submission
 
