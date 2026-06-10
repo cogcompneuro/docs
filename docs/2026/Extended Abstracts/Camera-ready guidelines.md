@@ -38,7 +38,8 @@ PDF examples compiled from those templates.
 
 {% include "2026/camera-ready/deanonymize-ea.md" %}
 
-The main text, including the abstract, must still adhere to the 2-page limit.
+The main text of the Extended Abstract, including the title-author block and the short
+abstract, must still adhere to the 2-page limit.
 
 ##### No changes to authorship
 
