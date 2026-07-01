@@ -15,9 +15,12 @@ page describes how to prepare and submit the camera-ready version of your manusc
 
 ### Camera-ready preparation
 
+You must prepare and submit a deanonymized PDF version of your Proceedings paper with
+the necessary corrections (the "camera-ready copy").
+
 #### Formatting
 
-When preparing your camera-ready copy, please ensure the following.
+When preparing your camera-ready PDF copy, please ensure the following.
 
 ##### Fix formatting deviations
 
@@ -80,7 +83,6 @@ and supplement.
 Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, 11:59 PM Anywhere on
 Earth (AoE). The camera-ready copy is the final version of your Proceedings paper, and
 must adhere to the requirements described above.
-We will not accept revisions past this deadline.
 If you need to make a revision past this deadline, you will need to withdraw your
 Proceedings paper from CCN 2026 and resubmit to CCN 2027. Proceedings papers not
 adhering to the above requirements will be withdrawn by the TPC after the deadline.
