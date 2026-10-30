@@ -1,0 +1,36 @@
+# Date variables for CCN 2027, referenced in Markdown as {{ <name> }}.
+
+# Proceedings
+proceedings_abstract_deadline_2027: "Feb 1, 2027"
+proceedings_abstract_deadline_plus_one_2027: "Feb 2, 2027"
+proceedings_submission_deadline_2027: "Feb 4, 2027"
+proceedings_enrollment_period_2027: "Feb 2 - Feb 4, 2027"
+proceedings_assignment_period_2027: "Feb 4 - Feb 7, 2027"
+proceedings_adjustment_period_2027: "Feb 8 - Feb 14, 2027"
+proceedings_review_period_2027: "Feb 15 - Mar 14, 2027"
+proceedings_reviews_due_2027: "Mar 14, 2027"
+proceedings_emergency_review_period_2027: "Mar 15 - Mar 17, 2027"
+proceedings_reviews_released_2027: "Mar 18, 2027"
+proceedings_author_response_period_2027: "Mar 18 - Mar 29, 2027"
+proceedings_author_response_due_2027: "Mar 29, 2027"
+proceedings_discussion_period_2027: "Mar 30 - Apr 5, 2027"
+proceedings_discussion_due_2027: "Apr 5, 2027"
+proceedings_meta_review_period_2027: "Apr 6 - Apr 18, 2027"
+proceedings_meta_review_due_2027: "Apr 18, 2027"
+proceedings_final_decisions_period_2027: "Apr 19 - May 2, 2027"
+proceedings_decisions_2027: "May 3, 2027"
+proceedings_camera_ready_period_2027: "May 4 - May 26, 2027"
+
+# Extended Abstracts
+ea_submission_deadline_2027: "Apr 1, 2027"
+ea_desk_rejection_period_2027: "[UPDATE]"
+ea_review_period_2027: "[UPDATE]"
+ea_reviews_due_2027: "[UPDATE]"
+ea_emergency_review_period_2027: "[UPDATE]"
+ea_camera_ready_period_2027: "[UPDATE]"
+
+# Shared
+poster_acceptances_2027: "May 3, 2027"
+presenter_selection_period_2027: "[UPDATE]"
+camera_ready_deadline_2027: "[UPDATE]"
+talk_selections_2027: "Jun 4, 2027"

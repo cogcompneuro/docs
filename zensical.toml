@@ -47,6 +47,22 @@ Copyright &copy; 2026 CCN
 nav = [
   { "Get started" = "index.md" },
   { "Glossary" = "glossary.md" },
+  { "2027" = [
+    { "Proceedings" = [
+      { "Submission guidelines" = "2027/Proceedings/Submission guidelines.md" },
+      { "Reviewer guidelines" = "2027/Proceedings/Reviewer guidelines.md" },
+      { "Author response guidelines" = "2027/Proceedings/Author response guidelines.md" },
+      { "Area chair (AC) guidelines" = "2027/Proceedings/Area chair (AC) guidelines.md" },
+      { "Senior area chair (SAC) guidelines" = "2027/Proceedings/Senior area chair (SAC) guidelines.md" },
+      { "Camera-ready guidelines" = "2027/Proceedings/Camera-ready guidelines.md" },
+    ]},
+    { "Extended Abstracts" = [
+      { "Submission guidelines" = "2027/Extended Abstracts/Submission guidelines.md" },
+      { "Reviewer guidelines" = "2027/Extended Abstracts/Reviewer guidelines.md" },
+      { "Camera-ready guidelines" = "2027/Extended Abstracts/Camera-ready guidelines.md" },
+    ]},
+    { "Contributed Talks" = "2027/Contributed Talks/Talk selection process.md" },
+  ]},
   { "2026" = [
     { "Proceedings" = [
       { "Submission guidelines" = "2026/Proceedings/Submission guidelines.md" },
@@ -375,7 +391,7 @@ include_dir = "snippets"
 # Prior years (2020 to current_year - 1) are hidden in the left navigation
 # unless the user is actively viewing a page from that year. This is
 # controlled by the CSS in overrides/main.html.
-current_year = 2026
+current_year = 2027
 
 
 [[project.extra.social]]

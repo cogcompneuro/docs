@@ -1,0 +1,168 @@
+# Submission guidelines
+
+{% include "2027/glossary-definitions.md" %}
+
+## Submission process
+
+Submissions to the Extended Abstract track consist of a 2-page PDF plus associated
+metadata submitted via the OpenReview platform.
+Only a single Extended Abstract may be submitted per Presenter.
+
+Each submission requires at least one author to register as a Reciprocal Reviewer.
+This designated Reciprocal Reviewer must possess appropriate expertise in the field.
+The manuscript will not be considered for a Contributed Talk if the Reciprocal Reviewer
+fails to fulfill their reviewing responsibilities with due diligence.
+
+Reviewers will be asked during review how certain they are of their judgment, and their
+level of expertise in the particular subfield of this paper.
+
+Abstracts undergo light peer review.
+The review procedure will be comparable to earlier CCNs, but the number of reviewers per
+paper will be reduced from previous years.
+We expect that all submissions that are within scope and meet scientific standards will
+be accepted for posters, if submissions are within capacity.
+(We have 800 poster slots.)
+The reviews of Extended Abstracts will be used to select Contributed Talks.
+
+Accepted Extended Abstracts are presented as posters, may be selected for a Contributed
+Talk, do not receive a DOI assignment, and have reviews that are not made public.
+Rejected Extended Abstracts will not be made publicly visible.
+
+This track largely maintains CCN's established approach to scientific communication.
+
+### Formatting requirements
+
+The text, tables and figures of a CCN Extended Abstract submission can be no longer than
+2 pages, excluding references.
+
+#### Abstract
+
+{% include "2027/submissions/abstract-guidance.md" %}
+
+#### Templates
+
+{% include "2027/submissions/required-template-warning.md" %}
+
+Your initial submission must use the anonymized variant of your chosen template.
+
+{% include "2027/submissions/templates-ea.md" %}
+
+{% include "2027/submissions/template-issues.md" %}
+
+### Double-blind review
+
+{% include "2027/policies/double-blind-anonymization.md" %}
+
+{% include "2027/policies/code-anonymization.md" %}
+
+### Reciprocal reviewer policy
+
+{% include "2027/reviewers/pool-size.md" %}
+
+Authors in this category that fail to finish reviews by the author response stage will
+not be considered for a Contributed Talk.
+
+{% include "2027/reviewers/exemption.md" %}
+
+### Use of large language models
+
+{% include "2027/policies/llm-usage.md" %}
+
+### No changes to authorship
+
+{% include "2027/submissions/author-list-locked-ea.md" %}
+
+### Presenter policy
+
+{% include "2027/policies/presenter-policy.md" %}
+
+### Dual submission policy
+
+{% include "2027/policies/dual-submission.md" %}
+
+## Frequently asked questions
+
+{% include "2027/faq/presenter-change-poster.md" %}
+
+{% include "2027/faq/presenter-change-talk.md" %}
+
+{% include "2027/faq/timezone.md" %}
+
+{% include "2027/faq/anonymized-author-block.md" %}
+
+{% include "2027/faq/shared-authorship.md" %}
+
+{% include "2027/faq/keywords.md" %}
+
+{% include "2027/faq/acknowledgments.md" %}
+
+{% include "2027/faq/code-linking.md" %}
+
+{% include "2027/faq/equation-formatting.md" %}
+
+{% include "2027/faq/preprints.md" %}
+
+### I and my co-authors can no longer attend CCN 2027. How can I withdraw my poster?
+
+Please use the "Withdrawal" function on the OpenReview page for your submission.
+
+### Do I and all my co-authors need an OpenReview account to submit an Extended Abstract?
+
+OpenReview accounts are required for: the individual making the submission, the
+Reciprocal Reviewer(s) identified on the submission, and the Presenter identified on the
+submission. Other co-authors do not need an OpenReview account; you can simply input
+their name and email.
+
+{% include "2027/openreview/signup-instructions.md" %}
+
+### Can I include supplementary material?
+
+No; the Extended Abstracts track will not allow supplementary material of any kind.
+
+### Do references count towards the 2-page limit?
+
+No.
+
+### Can I submit my manuscript to another venue or submit a previously published manuscript?
+
+The Extended Abstracts track does not allow the submission of manuscripts that have been
+published elsewhere.
+The Extended Abstracts track does however allow manuscripts that are under review
+elsewhere ("concurrent" or "dual" submissions), unlike the Proceedings track.
+Accepted Extended Abstracts will not receive a DOI assignment this year.
+
+### Should I submit my Proceedings submission to the Extended Abstracts track?
+
+There is no need to submit a Extended Abstract version of your Proceedings submission to
+the Extended Abstracts track.
+Authors of Proceedings submissions that are not accepted will be invited to convert
+their Proceedings submission to an Extended Abstract submission.
+Instructions for this will be provided at a later stage.
+
+### Can I make multiple Extended Abstract submissions?
+
+CCN 2027 maintains the historical policy that a given presenter can present only a
+single contribution at CCN. As such, you can make only one submission as the "Presenter"
+(the presenting author as identified on OpenReview) to the Extended Abstracts track.
+We will desk-reject submissions in violation of this requirement between
+{{ ea_desk_rejection_period_2027 }}. You can participate in any number of submissions
+for which you are an author but not the Presenter.
+
+### Can I make an Extended Abstract submission if I have already made a Proceedings submission?
+
+Yes. See the [Presenter policy](#presenter-policy) above for details on what happens if
+both contributions are accepted.
+
+### Will my extended abstract be copyrighted?
+
+{% include "2027/creative-commons-license.md" %}
+
+### I was told that my submission has formatting issues and won't be reviewed. Can I revise them and still enter review for a Contributed Talk?
+
+Unfortunately we have already started the technical process of starting the review
+process so won't be able to wait for revisions.
+Please wait until the camera-ready phase (**{{ ea_camera_ready_period_2027 }}**) to
+submit your corrected manuscript for publication.
+Further instructions for how to do this will follow.
+
+{% include "2027/contact-info.md" %}
